@@ -437,8 +437,159 @@
         "category": "Product Design",
         "topic": "UI/UX trade-offs",
         "source": "https://www.tryexponent.com/questions"
+      },{
+        "question": "Tell me about a time when you had a conflict with a coworker.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution / Teamwork",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you had a disagreement with your manager.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you met a tight deadline.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Time Management / Prioritization",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "How do you tackle challenges? Name a difficult challenge you faced, how you overcame it, and what you learned.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Problem Solving / Learning",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Why do you want to work for X company?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Motivation / Fit",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "What’s the most constructive feedback you’ve received in your career?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Feedback Reception",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you had to give someone terrible news.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Communication / Tough Conversations",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you were uncomfortable and how you dealt with it.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Adaptability",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a situation where you needed information from someone who wasn’t responsive.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Communication / Initiative",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about the most difficult bug you fixed in the last 6 months.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Problem Solving",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "What is something that you had to persevere at for multiple months?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Persistence / Commitment",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about yourself.",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Self-Introduction",
+        "source": "Prepfully"
+      },
+      {
+        "question": "What do you hope to learn while working at Google?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Motivation / Growth",
+        "source": "Prepfully"
+      },
+      {
+        "question": "What are you looking for in a workplace?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Culture Fit",
+        "source": "Prepfully"
+      },
+      {
+        "question": "Have you ever faced a conflict while working in a team? How did you deal with it?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution",
+        "source": "InterviewKickstart"
       }
     ]
-     
-  
+    
+   
+
+      
         

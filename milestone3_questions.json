@@ -1,0 +1,509 @@
+[
+    {
+      "question": "Tell me about a time you failed at work. What did you learn from it?",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "medium",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Learning & Recovery",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Tell me about a time you disagreed with a coworker or manager. How did you handle it?",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "medium",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Conflict Resolution / Have Backbone",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Tell me about a time you had to deliver a project under a tight deadline.",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "medium",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Bias for Action / Deliver Results",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Tell me about a time you launched a feature despite being aware of risks.",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "hard",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Bias for Action / Risk Management",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Describe a time when you rebuilt a process or system. Why and how did you do it?",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "hard",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Invent and Simplify / Process Improvement",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Tell me about a time you faced ambiguity and how you handled it.",
+      "role": "Product Manager",
+      "company": "Google",
+      "difficulty": "medium",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Decision Making / Ambiguity",
+      "source": "LeetCode Discuss"
+    },
+    {
+      "question": "Describe a change in direction you faced in a project.",
+      "role": "Product Manager",
+      "company": "Google",
+      "difficulty": "hard",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Adaptability / Leadership",
+      "source": "LeetCode Discuss"
+    },
+    {
+      "question": "Tell me about a time you had to influence stakeholders without authority.",
+      "role": "Product Manager",
+      "company": "Google",
+      "difficulty": "hard",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Stakeholder Management",
+      "source": "Blind user report"
+    },
+    {
+      "question": "What are you most proud of and why?",
+      "role": "Product Manager",
+      "company": "Meta",
+      "difficulty": "medium",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Pride & Passion",
+      "source": "LeetCode Discuss"
+    },
+    {
+      "question": "Tell me where you failed and how you recovered.",
+      "role": "Product Manager",
+      "company": "Meta",
+      "difficulty": "hard",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Learning & Recovery",
+      "source": "LeetCode Discuss"
+    },
+    {
+      "question": "Describe a conflict you resolved.",
+      "role": "Product Manager",
+      "company": "Meta",
+      "difficulty": "medium",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Conflict Resolution",
+      "source": "LeetCode Discuss"
+    },
+    {
+      "question": "Give an example of a time you had to make a difficult trade‑off.",
+      "role": "Product Manager",
+      "company": "Microsoft",
+      "difficulty": "medium",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Prioritization / Decision Making",
+      "source": "Microsoft forums"
+    },
+    {
+      "question": "Tell me about a time you dealt with a cross‑functional team conflict.",
+      "role": "Product Manager",
+      "company": "Microsoft",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Behavioral",
+      "topic": "Stakeholder Management / Teamwork",
+      "source": "Blind user report"
+    },
+    {
+      "question": "Describe a situation where you innovated under constraints.",
+      "role": "Product Manager",
+      "company": "Microsoft",
+      "difficulty": "medium",
+      "year": 2023,
+      "category": "Behavioral",
+      "topic": "Innovation",
+      "source": "Microsoft forums"
+    },
+    {
+      "question": "Tell me about a time when you improved a product based on customer feedback.",
+      "role": "Product Manager",
+      "company": "Apple",
+      "difficulty": "medium",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Customer Obsession",
+      "source": "Glassdoor review"
+    },
+    {
+      "question": "Describe a time you led a team to deliver on a tight schedule.",
+      "role": "Product Manager",
+      "company": "Apple",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Behavioral",
+      "topic": "Leadership / Deliver Results",
+      "source": "Glassdoor review"
+    },
+    {
+      "question": "Tell me about a time you handled stakeholder pushback on design.",
+      "role": "Product Manager",
+      "company": "Apple",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Behavioral",
+      "topic": "Stakeholder Management",
+      "source": "Blind user report"
+    },
+    {
+      "question": "Give an example of a time you had to make a decision without all the data.",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Behavioral",
+      "topic": "Decision Making / Ambiguity",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Tell me about a time when you drove a process change that was unpopular at first.",
+      "role": "Product Manager",
+      "company": "Amazon",
+      "difficulty": "hard",
+      "year": 2024,
+      "category": "Behavioral",
+      "topic": "Leadership / Invent and Simplify",
+      "source": "IGotAnOffer.com"
+    },
+    {
+      "question": "Describe when you had to balance multiple priorities. How did you approach it?",
+      "role": "Product Manager",
+      "company": "Microsoft",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Behavioral",
+      "topic": "Prioritization / Time Management",
+      "source": "Microsoft forums"
+    },{
+        "question": "Describe a time you led a project with cross‑cultural teams.",
+        "role": "Product Manager",
+        "company": "Salesforce",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Leadership / Teamwork",
+        "source": "LeetCode Discuss"
+      },
+      {
+        "question": "Tell me about a time when you had to prioritize between short‑term gains and long‑term vision.",
+        "role": "Product Manager",
+        "company": "Google",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Prioritization / Decision Making",
+        "source": "Blind user report"
+      },
+      {
+        "question": "Describe a time you turned negative customer feedback into a product improvement.",
+        "role": "Product Manager",
+        "company": "Meta",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Customer Obsession",
+        "source": "Blind user report"
+      },
+      {
+        "question": "Tell me about a time when your team missed a deadline. What happened and what did you do?",
+        "role": "Product Manager",
+        "company": "Amazon",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Accountability / Deliver Results",
+        "source": "Glassdoor review"
+      },
+      {
+        "question": "Describe a time when you had to push back on a stakeholder's request.",
+        "role": "Product Manager",
+        "company": "Microsoft",
+        "difficulty": "hard",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Stakeholder Management / Have Backbone",
+        "source": "Microsoft forums"
+      },
+      {
+        "question": "Tell me about a time you had to align multiple stakeholders with conflicting objectives.",
+        "role": "Product Manager",
+        "company": "Apple",
+        "difficulty": "hard",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Leadership / Stakeholder Management",
+        "source": "Glassdoor review"
+      },
+      {
+        "question": "Describe when you had to drive a decision despite lacking clear data.",
+        "role": "Product Manager",
+        "company": "Google",
+        "difficulty": "hard",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Decision Making / Ambiguity",
+        "source": "LeetCode Discuss"
+      },
+      {
+        "question": "Give an example of a time you mentored a junior teammate.",
+        "role": "Product Manager",
+        "company": "Amazon",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Leadership / Coaching",
+        "source": "IGotAnOffer.com"
+      },
+      {
+        "question": "Tell me about a time you drove innovation with minimal resources.",
+        "role": "Product Manager",
+        "company": "Microsoft",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Innovation / Resourcefulness",
+        "source": "Microsoft forums"
+      },
+      {
+        "question": "Describe a time you navigated ambiguity in product requirements.",
+        "role": "Product Manager",
+        "company": "Google",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Ambiguity / Scope Management",
+        "source": "Blind user report"
+      },
+      {
+        "question": "Tell me about a time you challenged the status quo.",
+        "role": "Product Manager",
+        "company": "Salesforce",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Invent and Simplify / Leadership",
+        "source": "LeetCode Discuss"
+      },
+      {
+        "question": "Describe when you led a post‑mortem after a failed launch.",
+        "role": "Product Manager",
+        "company": "Apple",
+        "difficulty": "hard",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Failure Analysis / Leadership",
+        "source": "Glassdoor review"
+      },
+      {
+        "question": "Give an example of a time you had to say ‘no’ to improve product focus.",
+        "role": "Product Manager",
+        "company": "Meta",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Prioritization / Focus",
+        "source": "LeetCode Discuss"
+      },
+      {
+        "question": "Tell me about a time you navigated competing product roadmaps.",
+        "role": "Product Manager",
+        "company": "Amazon",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Stakeholder Management / Strategy",
+        "source": "Glassdoor review"
+      },
+      {
+        "question": "Describe a time you had to present bad news to senior leadership.",
+        "role": "Product Manager",
+        "company": "Microsoft",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Communication / Leadership",
+        "source": "Microsoft forums"
+      },{
+        "question": "Tell me about a time when you had a conflict with a coworker.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution / Teamwork",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you had a disagreement with your manager.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you met a tight deadline.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Time Management / Prioritization",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "How do you tackle challenges? Name a difficult challenge you faced, how you overcame it, and what you learned.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Problem Solving / Learning",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Why do you want to work for X company?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Motivation / Fit",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "What’s the most constructive feedback you’ve received in your career?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Feedback Reception",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you had to give someone terrible news.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Communication / Tough Conversations",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a time you were uncomfortable and how you dealt with it.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Adaptability",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about a situation where you needed information from someone who wasn’t responsive.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "medium",
+        "year": 2024,
+        "category": "Behavioral",
+        "topic": "Communication / Initiative",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about the most difficult bug you fixed in the last 6 months.",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Problem Solving",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "What is something that you had to persevere at for multiple months?",
+        "role": "Software Engineer",
+        "company": "Top Tech",
+        "difficulty": "hard",
+        "year": 2023,
+        "category": "Behavioral",
+        "topic": "Persistence / Commitment",
+        "source": "TechInterviewHandbook"
+      },
+      {
+        "question": "Tell me about yourself.",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Self-Introduction",
+        "source": "Prepfully"
+      },
+      {
+        "question": "What do you hope to learn while working at Google?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Motivation / Growth",
+        "source": "Prepfully"
+      },
+      {
+        "question": "What are you looking for in a workplace?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Culture Fit",
+        "source": "Prepfully"
+      },
+      {
+        "question": "Have you ever faced a conflict while working in a team? How did you deal with it?",
+        "role": "Software Engineer",
+        "company": "Google",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Behavioral",
+        "topic": "Conflict Resolution",
+        "source": "InterviewKickstart"
+      }
+    ]
+    
+   
+
+      
+        
+    
+    
+    
+        
