@@ -1,0 +1,444 @@
+[
+    {
+      "question": "What's your favorite product and why?",
+      "role": "Product Manager",
+      "difficulty": "Entry/Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "Product evaluation",
+      "source": "https://www.tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Design a birthday app.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "App design",
+      "source": "https://www.tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Tell me about a time when you handled a difficult stakeholder.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Stakeholder management",
+      "source": "https://www.tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "You’re a PM with two engineers… unclear roadmap blocking adoption. What do you do?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Prioritization & change management",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "You’re a PM for Spotify. How would you increase revenue 5x in the next five years?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "Growth strategy",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "Design a washing machine for Google.",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "Hardware design",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "Design a system to track review abuse on Amazon.com.",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "System design",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "How would you define the role of a product manager?",
+      "role": "Product Manager",
+      "difficulty": "Entry",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Role understanding",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "Design a product for borrowing and lending (e.g., Meta Lending).",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Meta",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "New product design",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "You're a PM at Meta. Why should Meta continue investing in Reels? What goals and metrics would you set?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Meta",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Metrics design",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "How would you test the viability of expanding Airbnb’s 'Restaurant' product to a new region?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Airbnb",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Market validation",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "You're a PM for Google Search. How would you grow this product?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Strategy",
+      "topic": "Growth strategy",
+      "source": "https://www.tryexponent.com/questions/3682/grow-google-search-product-strategy"
+    },
+    {
+      "question": "Tell me about a time you gained trust from a team or stakeholder.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Team trust-building",
+      "source": "https://www.tryexponent.com/questions"
+    },
+    {
+      "question": "Design a food delivery app for restaurant owners and food vendors.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "Marketplace product design",
+      "source": "https://www.tryexponent.com/questions?company=microsoft&role=pm"
+    },
+    {
+      "question": "Tell me about a time when you made a mistake.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Learning from failure",
+      "source": "https://www.tryexponent.com/questions?company=microsoft&role=pm"
+    },
+    {
+      "question": "How would you improve Instagram Stories?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "Feature improvement",
+      "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+    },
+    {
+      "question": "What goals would you set for Facebook Marketplace?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Meta",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Success metrics",
+      "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+    },
+    {
+      "question": "Should Airbnb offer furniture retail services?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Airbnb",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "New business strategy",
+      "source": "https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions"
+    },
+    {
+      "question": "How would you monetize Outlook?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "Monetization",
+      "source": "https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions"
+    },
+    {
+      "question": "If you were the CEO of Netflix, what new product line would you come up with to increase revenue?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "Revenue generation",
+      "source": "https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions"
+    },{
+        "question": "What successful products have you launched as a PM? How do you talk to users and conduct user research?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Generic",
+        "year": "2025",
+        "category": "Behavioral/Technical",
+        "topic": "Product experience & research",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "How would you improve Pinterest’s discovery algorithm?",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Pinterest",
+        "year": "2025",
+        "category": "Product Strategy",
+        "topic": "Algorithmic feature design",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "Devise an A/B test to improve Google Maps.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Google",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "A/B testing",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "How would you reduce fake news on social media?",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Generic",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Platform policy",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "Build a mobile app that takes a picture of a resume and recommends jobs.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "LinkedIn",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "CV scanner & matching",
+        "source": "https://www.productmanagementexercises.com/interview-questions/glassdoor"
+      },
+      {
+        "question": "How do you determine success for Instagram Reels?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Meta",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Metrics design",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "Estimate the number of Uber drivers in San Francisco.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Estimation",
+        "topic": "Market sizing",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "If you were PM for Microsoft Teams, how would you improve remote collaboration?",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Collaboration tools",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "Design a health-tracking wearable feature for Apple Watch.",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Wearable health tech",
+        "source": "https://www.tryexponent.com/blog/top-product-manager-interview-questions"
+      },
+      {
+        "question": "How would you prioritize between adding emoticons or chat backup in a messenger app?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Generic Chat App",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Feature prioritization",
+        "source": "Glassdoor via Exponent"
+      },
+      {
+        "question": "How would you design a referral program for an e-commerce platform?",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Product Strategy",
+        "topic": "Growth & marketing",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Describe a time you failed to meet expectations. How did you handle it?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Meta",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Failure & learning",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Design an alarm clock for blind users.",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2024",
+        "category": "Product Design",
+        "topic": "Accessibility design",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "How would you increase engagement on LinkedIn posts?",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "LinkedIn",
+        "year": "2024",
+        "category": "Product Strategy",
+        "topic": "User engagement",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "You're a PM at Amazon Fresh. How would you improve customer retention?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Product Strategy",
+        "topic": "Retention strategy",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Design a feature for WhatsApp to improve group management.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Meta",
+        "year": "2024",
+        "category": "Product Design",
+        "topic": "Feature design",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "How would you measure success for a new YouTube feature?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Google",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Success metrics",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Describe your approach to roadmap prioritization with conflicting stakeholder demands.",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Generic",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Prioritization",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Design a kids' mode for Netflix.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Netflix",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Child UX design",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "What KPIs would you track for Amazon Prime Video's recommendation engine?",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Recommendation systems",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "How would you improve the Uber Eats delivery experience?",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Delivery optimization",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "Design a smart home app dashboard for IoT device management.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Google",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Smart home UX",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "How would you launch a new grocery delivery feature within Amazon's app?",
+        "role": "Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Product Strategy",
+        "topic": "Go-to-market strategy",
+        "source": "https://www.tryexponent.com/questions"
+      },
+      {
+        "question": "What trade-offs would you consider when designing a dark mode feature?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Generic",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "UI/UX trade-offs",
+        "source": "https://www.tryexponent.com/questions"
+      }
+    ]
+     
+  
+        
