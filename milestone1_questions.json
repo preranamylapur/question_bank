@@ -1,1 +1,203 @@
 
+[
+    {
+      "question": "What's your favorite product and why?",
+      "role": "Product Manager",
+      "difficulty": "Entry/Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "Product evaluation",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Design a birthday app.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Design",
+      "topic": "App design",
+      "source": "https://tryexponent.com/questions?company=google&type=product-design"
+    },
+    {
+      "question": "Tell me about a time when you handled a difficult stakeholder.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Stakeholder management",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "You're a PM with two engineers, and enterprise customers won't adopt your product due to an unclear roadmap. Your engineers are already working hard on a task outlined. What would you do?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Prioritization & change management",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "You're a PM for Spotify. How would you increase revenue 5x in the next five years?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "Growth strategy",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Can you describe your experience with Oracle databases and how you've used them in past projects?",
+      "role": "Oracle Consultant",
+      "difficulty": "Entry",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Oracle databases",
+      "source": "https://himalayas.app/interview-questions/oracle-consultant"
+    },
+    {
+      "question": "Can you describe a project where you implemented an Oracle solution to improve business processes?",
+      "role": "Oracle Consultant",
+      "difficulty": "Mid",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Technical/Business",
+      "topic": "Implementation & business impact",
+      "source": "https://himalayas.app/interview-questions/oracle-consultant"
+    },
+    {
+      "question": "What are the various models of Oracle Database, and when are they appropriate to recommend?",
+      "role": "Oracle Consultant",
+      "difficulty": "Mid/Senior",
+      "company": "Oracle",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Database models",
+      "source": "https://barraiser.com/interviewing-guides/oracle-consultants"
+    },
+    {
+      "question": "How do you stay up-to-date with the latest Oracle technologies and trends?",
+      "role": "Oracle Consultant",
+      "difficulty": "Mid",
+      "company": "Oracle",
+      "year": "2024",
+      "category": "Behavioral/Technical",
+      "topic": "Continuous learning",
+      "source": "https://barraiser.com/interviewing-guides/oracle-consultants"
+    },
+    {
+      "question": "How would you leverage Oracle’s cloud solutions to address specific client needs in a competitive market?",
+      "role": "Oracle Consultant",
+      "difficulty": "Mid/Senior",
+      "company": "Oracle",
+      "year": "2024",
+      "category": "Business Development",
+      "topic": "Cloud solutions, market positioning",
+      "source": "https://companyinterviews.com/oracle-business-development-consultant-interview-questions"
+    },
+    {
+      "question": "Design a washing machine for Google.",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "Hardware product design",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Estimate the number of restaurants in San Francisco.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2023",
+      "category": "Estimation",
+      "topic": "Market sizing",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "Tell me about a time you had a conflict with someone. How did you resolve it and what did you learn?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Conflict resolution",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "How would you design surge pricing for Uber or Lyft?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2023",
+      "category": "Product Strategy",
+      "topic": "Pricing strategy",
+      "source": "https://news.aakashg.com/p/crack-the-product-strategy-interview"
+    },
+    {
+      "question": "As a PM at Meta, how would you make users feel less guilty about using Instagram while increasing revenue?",
+      "role": "Product Manager",
+      "difficulty": "Senior",
+      "company": "Meta",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "User psychology, monetization",
+      "source": "https://tryexponent.com/questions?company=google"
+    },
+    {
+      "question": "Tell me about a time you used data to make a decision.",
+      "role": "Product Manager",
+      "difficulty": "Entry/Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Data-driven decision making",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-product-manager-interview"
+    },
+    {
+      "question": "Explain your project management philosophy.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Leadership",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-product-manager-interview"
+    },
+    {
+      "question": "Design a garage door opener.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "Hardware/service UX design",
+      "source": "https://tryexponent.com/questions?company=google&role=pm"
+    },
+    {
+      "question": "How do you handle conflicting product requirements? Who decides what gets priority?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Prioritization framework",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-product-manager-interview"
+    },
+    {
+      "question": "Why do you want to work at Google?",
+      "role": "Product Manager",
+      "difficulty": "Entry",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Motivation & Fit",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-product-manager-interview"
+    }
+  ]
