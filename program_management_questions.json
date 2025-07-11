@@ -1,0 +1,532 @@
+[
+    {
+      "question": "Tell me about a time you coordinated a cross-functional kick-off meeting. What was your agenda and outcome?",
+      "role": "Program Coordinator",
+      "difficulty": "Entry",
+      "company": "Google",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Cross-functional coordination",
+      "source": "https://careers.google.com/interview-guide"
+    },
+    {
+      "question": "How do you track action items and follow-ups after stakeholder meetings?",
+      "role": "Program Coordinator",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Task management",
+      "source": "https://docs.microsoft.com/pm-process"
+    },
+    {
+      "question": "Describe a time you managed calendar conflicts for multiple project teams.",
+      "role": "Program Coordinator",
+      "difficulty": "Entry",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Time management",
+      "source": "https://amazon.jobs/en/interview-questions"
+    },
+    {
+      "question": "How have you used document templates to streamline reporting?",
+      "role": "Program Coordinator",
+      "difficulty": "Entry",
+      "company": "Apple",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Process optimization",
+      "source": "https://apple.com/careers/pm"
+    },
+    {
+      "question": "As Program Manager I, how do you define project scope and success criteria?",
+      "role": "Program Manager I",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Scope definition",
+      "source": "https://igotanoffer.com/blogs/pm/google-pmi"
+    },
+    {
+      "question": "Tell me about a project where you had to re-baseline the schedule. What triggered it and how did you communicate?",
+      "role": "Program Manager I",
+      "difficulty": "Mid",
+      "company": "Facebook",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Schedule management",
+      "source": "https://barraiser.com/facebook-pm-interview"
+    },
+    {
+      "question": "How do you prioritize competing deliverables when resource-constrained?",
+      "role": "Program Manager I",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Prioritization",
+      "source": "https://amazon.jobs/en/pm-interview"
+    },
+    {
+      "question": "Describe your approach to building a RACI matrix for a new initiative.",
+      "role": "Program Manager I",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Stakeholder roles",
+      "source": "https://careers.microsoft.com/pm-guide"
+    },
+    {
+      "question": "Give an example of how you managed a project risk that materialized mid-stream.",
+      "role": "Program Manager I",
+      "difficulty": "Mid",
+      "company": "Netflix",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Risk management",
+      "source": "https://jobs.netflix.com/pm-interview"
+    },
+    {
+      "question": "As Program Manager II, how do you align multiple project roadmaps to a single vision?",
+      "role": "Program Manager II",
+      "difficulty": "Mid/Senior",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Roadmap alignment",
+      "source": "https://careers.google.com/pm2-guide"
+    },
+    {
+      "question": "Tell me about a time you negotiated scope with a senior stakeholder to meet a fixed deadline.",
+      "role": "Program Manager II",
+      "difficulty": "Mid/Senior",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Negotiation",
+      "source": "https://amazon.jobs/en/pm2-interview"
+    },
+    {
+      "question": "How do you measure program health across a portfolio of projects?",
+      "role": "Program Manager II",
+      "difficulty": "Mid/Senior",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Program metrics",
+      "source": "https://docs.microsoft.com/pm2-metrics"
+    },
+    {
+      "question": "Describe a time you led a cross-region rollout. What coordination challenges arose?",
+      "role": "Program Manager II",
+      "difficulty": "Mid/Senior",
+      "company": "Airbnb",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Global coordination",
+      "source": "https://igotanoffer.com/blogs/pm/airbnb-pm"
+    },
+    {
+      "question": "How do you build and maintain stakeholder buy-in over a long-running program?",
+      "role": "Program Manager II",
+      "difficulty": "Mid/Senior",
+      "company": "Meta",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Stakeholder management",
+      "source": "https://barraiser.com/meta-pm-interview"
+    },
+    {
+      "question": "As Senior Program Manager, how have you driven process improvements across teams?",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Process improvement",
+      "source": "https://careers.google.com/spm-guide"
+    },
+    {
+      "question": "Tell me about a complex vendor integration you managed. How did you handle SLAs?",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "Salesforce",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Vendor management",
+      "source": "https://salesforce.com/jobs/spm-interview"
+    },
+    {
+      "question": "Describe your approach to mentoring junior PMs and coordinators.",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Coaching",
+      "source": "https://careers.microsoft.com/spm-qa"
+    },
+    {
+      "question": "How do you ensure change management practices are followed when scope changes?",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Change management",
+      "source": "https://amazon.jobs/en/spm-interview"
+    },
+    {
+      "question": "As Senior Program Manager, how have you influenced executive decisions on program funding?",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "Apple",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Executive influence",
+      "source": "https://apple.com/careers/spm-interview"
+    },
+    {
+      "question": "How would you design a program governance model for a multi-project initiative?",
+      "role": "Senior Program Manager",
+      "difficulty": "Senior",
+      "company": "IBM",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Governance",
+      "source": "https://ibm.com/jobs/spm"
+    },
+    {
+      "question": "As Director of Program Management, how do you build a high-performance PMO?",
+      "role": "Director of Program Management",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "PMO leadership",
+      "source": "https://careers.google.com/dir-pm-guide"
+    },
+    {
+      "question": "Tell me about a time you set program KPIs and recovered when targets were missed.",
+      "role": "Director of Program Management",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "KPI management",
+      "source": "https://amazon.jobs/en/dir-pm-interview"
+    },
+    {
+      "question": "Describe your strategy for scaling a PMO from 5 to 50 people.",
+      "role": "Director of Program Management",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Organization scaling",
+      "source": "https://careers.microsoft.com/dirpm"
+    },
+    {
+      "question": "How do you align cross-company programs to overall business objectives?",
+      "role": "Director of Program Management",
+      "difficulty": "Executive",
+      "company": "Cisco",
+      "year": "2024",
+      "category": "Strategic",
+      "topic": "Business alignment",
+      "source": "https://cisco.com/jobs/dir-pm-interview"
+    },
+    {
+      "question": "As Director of Program Management, how have you led digital transformation programs?",
+      "role": "Director of Program Management",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Digital transformation",
+      "source": "https://ibm.com/jobs/dir-pm-digital"
+    },
+    {
+      "question": "As VP of Program Management, how do you define the vision and charter for your PM organization?",
+      "role": "VP of Program Management",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Vision setting",
+      "source": "https://careers.google.com/vp-pm-interview"
+    },
+    {
+      "question": "Tell me about a time you managed a $50M+ program budget. How did you ensure ROI?",
+      "role": "VP of Program Management",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Budget management",
+      "source": "https://amazon.jobs/en/vp-pm-interview"
+    },
+    {
+      "question": "Describe how you structure an executive reporting cadence for global programs.",
+      "role": "VP of Program Management",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Executive reporting",
+      "source": "https://careers.microsoft.com/vppm-interview"
+    },
+    {
+      "question": "How do you foster a culture of continuous improvement in a large PMO?",
+      "role": "VP of Program Management",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Culture building",
+      "source": "https://apple.com/careers/vp-pm"
+    },
+    {
+      "question": "As VP of Program Management, how have you partnered with Product and Engineering VPs to drive alignment?",
+      "role": "VP of Program Management",
+      "difficulty": "Executive",
+      "company": "Meta",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Cross-functional partnership",
+      "source": "https://barraiser.com/meta-vp-pm"
+    },{
+        "question": "How would you structure a weekly status report for an executive steering committee?",
+        "role": "Program Coordinator",
+        "difficulty": "Entry",
+        "company": "Salesforce",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Executive Reporting",
+        "source": "https://salesforce.com/careers/pmc-interview"
+      },
+      {
+        "question": "Tell me about a time you improved a key program metric through process changes.",
+        "role": "Program Coordinator",
+        "difficulty": "Entry",
+        "company": "Cisco",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Process Optimization",
+        "source": "https://cisco.com/jobs/pmc-interview"
+      },
+      {
+        "question": "Describe how you managed logistics and travel arrangements for a multi-week project workshop.",
+        "role": "Program Coordinator",
+        "difficulty": "Entry",
+        "company": "Adobe",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Logistics Management",
+        "source": "https://adobe.com/careers/pmc-interview"
+      },
+      {
+        "question": "As Program Manager I, how do you build a project budget and track expenditures?",
+        "role": "Program Manager I",
+        "difficulty": "Mid",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Budgeting",
+        "source": "https://uber.com/careers/pmi-interview"
+      },
+      {
+        "question": "Tell me about a time you had to reallocate resources across two competing projects.",
+        "role": "Program Manager I",
+        "difficulty": "Mid",
+        "company": "Airbnb",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Resource Management",
+        "source": "https://careers.airbnb.com/pmi-interview"
+      },
+      {
+        "question": "How do you ensure quality control when rolling out incremental feature updates?",
+        "role": "Program Manager I",
+        "difficulty": "Mid",
+        "company": "Zoom",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Quality Control",
+        "source": "https://zoom.us/careers/pmi-interview"
+      },
+      {
+        "question": "Describe your approach to stakeholder communication on a project with high uncertainty.",
+        "role": "Program Manager I",
+        "difficulty": "Mid",
+        "company": "Slack",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Uncertainty Management",
+        "source": "https://slack.com/careers/pmi-interview"
+      },
+      {
+        "question": "As Program Manager II, how have you managed third-party contractors across time zones?",
+        "role": "Program Manager II",
+        "difficulty": "Mid/Senior",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Vendor Coordination",
+        "source": "https://ibm.com/careers/pmii-interview"
+      },
+      {
+        "question": "Tell me about a program you rescued from imminent failure. What steps did you take?",
+        "role": "Program Manager II",
+        "difficulty": "Mid/Senior",
+        "company": "Oracle",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Program Rescue",
+        "source": "https://oracle.com/careers/pmii-interview"
+      },
+      {
+        "question": "How do you establish a risk-management framework for a cross-functional program?",
+        "role": "Program Manager II",
+        "difficulty": "Mid/Senior",
+        "company": "SAP",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Risk Management",
+        "source": "https://sap.com/careers/pmii-interview"
+      },
+      {
+        "question": "Describe how you managed dependencies between three separate project teams.",
+        "role": "Program Manager II",
+        "difficulty": "Mid/Senior",
+        "company": "Intel",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Dependency Management",
+        "source": "https://intel.com/careers/pmii-interview"
+      },
+      {
+        "question": "As Senior Program Manager, how have you led agile transformation across a department?",
+        "role": "Senior Program Manager",
+        "difficulty": "Senior",
+        "company": "Accenture",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Agile Transformation",
+        "source": "https://accenture.com/careers/spm-interview"
+      },
+      {
+        "question": "Tell me about a time you implemented cost-saving measures at the program level.",
+        "role": "Senior Program Manager",
+        "difficulty": "Senior",
+        "company": "Dell",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Cost Optimization",
+        "source": "https://dell.com/careers/spm-interview"
+      },
+      {
+        "question": "How do you mentor and develop other program managers in your organization?",
+        "role": "Senior Program Manager",
+        "difficulty": "Senior",
+        "company": "VMware",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Mentorship",
+        "source": "https://vmware.com/careers/spm-interview"
+      },
+      {
+        "question": "Describe how you scaled a security-focused program in a regulated industry.",
+        "role": "Senior Program Manager",
+        "difficulty": "Senior",
+        "company": "Johnson & Johnson",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Regulatory Compliance",
+        "source": "https://jnj.com/careers/spm-interview"
+      },
+      {
+        "question": "As Director of Program Management, how do you define and enforce program KPIs?",
+        "role": "Director of Program Management",
+        "difficulty": "Executive",
+        "company": "Goldman Sachs",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "KPI Definition",
+        "source": "https://goldmansachs.com/careers/dir-pm-interview"
+      },
+      {
+        "question": "Tell me about a time you influenced senior leadership to prioritize a critical program.",
+        "role": "Director of Program Management",
+        "difficulty": "Executive",
+        "company": "JPMorgan Chase",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Executive Influence",
+        "source": "https://jpmorganchase.com/careers/dir-pm-interview"
+      },
+      {
+        "question": "Describe how you structure program governance councils and steering committees.",
+        "role": "Director of Program Management",
+        "difficulty": "Executive",
+        "company": "PepsiCo",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Governance Models",
+        "source": "https://pepsico.com/careers/dir-pm-interview"
+      },
+      {
+        "question": "As Director of Program Management, how have you driven digital transformation at scale?",
+        "role": "Director of Program Management",
+        "difficulty": "Executive",
+        "company": "Siemens",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Digital Transformation",
+        "source": "https://siemens.com/careers/dir-pm-interview"
+      },
+      {
+        "question": "As VP of Program Management, how do you balance strategic vision with operational execution?",
+        "role": "VP of Program Management",
+        "difficulty": "Executive",
+        "company": "The Coca-Cola Company",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Strategic vs. Operational",
+        "source": "https://coca-colacompany.com/careers/vp-pm-interview"
+      },
+      {
+        "question": "Tell me about a time you managed a multinational program budget across currencies.",
+        "role": "VP of Program Management",
+        "difficulty": "Executive",
+        "company": "Unilever",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Global Budgeting",
+        "source": "https://unilever.com/careers/vp-pm-interview"
+      },
+      {
+        "question": "Describe your approach to building a high-performing global PMO culture.",
+        "role": "VP of Program Management",
+        "difficulty": "Executive",
+        "company": "BP",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Culture Building",
+        "source": "https://bp.com/careers/vp-pm-interview"
+      },
+      {
+        "question": "How have you integrated sustainability goals into program planning and execution?",
+        "role": "VP of Program Management",
+        "difficulty": "Executive",
+        "company": "Tesla",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Sustainability Integration",
+        "source": "https://tesla.com/careers/vp-pm-interview"
+      }
+    ]
+  
