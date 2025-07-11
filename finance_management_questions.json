@@ -1,0 +1,702 @@
+[
+    {
+      "question": "Walk me through your process for building a three-statement financial model for a new business line.",
+      "role": "Financial Analyst",
+      "difficulty": "Entry",
+      "company": "Goldman Sachs",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Financial Modeling",
+      "source": "https://goldmansachs.com/careers/financial-analyst"
+    },
+    {
+      "question": "How would you analyze monthly variance between budgeted and actual spend?",
+      "role": "Financial Analyst",
+      "difficulty": "Entry",
+      "company": "Citibank",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Variance Analysis",
+      "source": "https://careers.citigroup.com/financial-analyst"
+    },
+    {
+      "question": "Tell me about a time you automated a reporting process to improve accuracy and timeliness.",
+      "role": "Financial Analyst",
+      "difficulty": "Entry",
+      "company": "JPMorgan Chase",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Process Automation",
+      "source": "https://jpmorganchase.com/careers/financial-analyst"
+    },
+    {
+      "question": "Describe how you evaluate the cash flow impact of a proposed capital expenditure.",
+      "role": "Financial Analyst",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Cash Flow Analysis",
+      "source": "https://careers.microsoft.com/financial-analyst"
+    },
+    {
+      "question": "As a Finance Manager, how would you develop and manage your quarterly forecasting cycle?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Forecasting",
+      "source": "https://amazon.jobs/en/finance-manager"
+    },
+    {
+      "question": "Tell me about a time you identified cost-saving opportunities through spend analysis.",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Cost Optimization",
+      "source": "https://careers.google.com/finance-manager"
+    },
+    {
+      "question": "How do you collaborate with cross-functional teams to set and track financial KPIs?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Apple",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "KPI Management",
+      "source": "https://apple.com/careers/finance-manager"
+    },
+    {
+      "question": "Describe your approach to managing working capital and improving days sales outstanding.",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Working Capital",
+      "source": "https://ibm.com/careers/finance-manager"
+    },
+    {
+      "question": "Tell me about a time you implemented a new budgeting tool—what challenges did you overcome?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Oracle",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Budgeting Systems",
+      "source": "https://oracle.com/careers/finance-manager"
+    },
+    {
+      "question": "How would you design a rolling forecast to adapt to rapid market changes?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Tesla",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Rolling Forecast",
+      "source": "https://tesla.com/careers/finance-manager"
+    },
+    {
+      "question": "As a Senior Finance Manager, describe a transformative FP&A initiative you led.",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "Netflix",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "FP&A Transformation",
+      "source": "https://jobs.netflix.com/finance/senior-finance-manager"
+    },
+    {
+      "question": "Tell me about your role in an M&A due diligence process—how did you assess targets?",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "Facebook (Meta)",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "M&A Due Diligence",
+      "source": "https://meta.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "How have you built and managed a monthly close process to reduce cycle time?",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "SAP",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Close Management",
+      "source": "https://sap.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "Describe a time you partnered with treasury to optimize debt and cash balances.",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "Coca-Cola",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Treasury Collaboration",
+      "source": "https://coca-colacompany.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "As a Director of Finance, how would you align financial strategy with corporate growth objectives?",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Strategic Planning",
+      "source": "https://amazon.jobs/en/director-of-finance"
+    },
+    {
+      "question": "Tell me about a global finance transformation you led and the business impact.",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Finance Transformation",
+      "source": "https://careers.microsoft.com/director-of-finance"
+    },
+    {
+      "question": "How would you design an enterprise-wide risk management framework?",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Goldman Sachs",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Risk Management",
+      "source": "https://goldmansachs.com/careers/director-of-finance"
+    },
+    {
+      "question": "Describe your approach to leading investor relations and earnings calls.",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Investor Relations",
+      "source": "https://apple.com/careers/director-of-finance"
+    },
+    {
+      "question": "As CVP of Finance, how would you drive a digital finance agenda across a legacy organization?",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Digital Transformation",
+      "source": "https://ibm.com/careers/cvp-of-finance"
+    },
+    {
+      "question": "Tell me about your experience implementing ESG reporting and integrating it into financial metrics.",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "Unilever",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "ESG Reporting",
+      "source": "https://unilever.com/careers/cvp-of-finance"
+    },
+    {
+      "question": "Describe a time you restructured your finance organization to support rapid scale-up.",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2023",
+      "category": "Leadership",
+      "topic": "Org Design",
+      "source": "https://amazon.jobs/en/cvp-of-finance"
+    },
+    {
+      "question": "How would you integrate advanced analytics and AI into your forecasting process?",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "AI in FP&A",
+      "source": "https://careers.google.com/cvp-of-finance"
+    },
+    {
+      "question": "Tell me about a time you led a carve-out finance separation during an acquisition.",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Cisco",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Carve-Out Finance",
+      "source": "https://cisco.com/careers/director-of-finance"
+    },
+    {
+      "question": "Describe your framework for assessing the ROI of strategic capital investments.",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "ExxonMobil",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "ROI Analysis",
+      "source": "https://career.exxonmobil.com/director-of-finance"
+    },
+    {
+      "question": "As a Senior Finance Manager, how have you driven process standardization across multiple regions?",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "PepsiCo",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Process Standardization",
+      "source": "https://pepsico.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "Tell me about your role in debt issuance and managing relationships with credit agencies.",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "AT&T",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Debt Management",
+      "source": "https://jobs.att.com/senior-finance-manager"
+    },
+    {
+      "question": "How would you lead a multi-year working capital optimization program?",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "Johnson & Johnson",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Working Capital Optimization",
+      "source": "https://jnj.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "Describe a time you managed a high-stakes audit and how you ensured compliance.",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "PwC",
+      "year": "2025",
+      "category": "Compliance",
+      "topic": "Audit Management",
+      "source": "https://pwc.com/careers/finance-manager"
+    },
+    {
+      "question": "Tell me about a time you implemented real-time dashboards for executive decision-making.",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Dashboarding",
+      "source": "https://jobs.netflix.com/finance/finance-manager"
+    },
+    {
+      "question": "How have you partnered with business units to instill financial discipline and accountability?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Salesforce",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Finance Business Partnering",
+      "source": "https://salesforce.com/careers/finance-manager"
+    },
+    {
+      "question": "As CVP of Finance, how would you set the long-term capital allocation framework for the company?",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "Berkshire Hathaway",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Capital Allocation",
+      "source": "https://berkshirehathaway.com/careers/cvp-of-finance"
+    },
+    {
+      "question": "Describe a time you managed foreign exchange risk for a multinational operation.",
+      "role": "CVP of Finance",
+      "difficulty": "Executive",
+      "company": "Unilever",
+      "year": "2024",
+      "category": "Risk Management",
+      "topic": "FX Hedging",
+      "source": "https://unilever.com/careers/cvp-of-finance"
+    },
+    {
+      "question": "Tell me about your experience driving a zero-based budgeting exercise organization-wide.",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "PepsiCo",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Zero-Based Budgeting",
+      "source": "https://pepsico.com/careers/director-of-finance"
+    },
+    {
+      "question": "How would you build a finance center of excellence to share best practices across regions?",
+      "role": "Director of Finance",
+      "difficulty": "Executive",
+      "company": "Procter & Gamble",
+      "year": "2024",
+      "category": "Leadership",
+      "topic": "CoE Establishment",
+      "source": "https://pgcareers.com/director-of-finance"
+    },
+    {
+      "question": "Describe how you used financial analytics to influence pricing strategy and margin improvement.",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "Nike",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Pricing Analytics",
+      "source": "https://jobs.nike.com/senior-finance-manager"
+    },
+    {
+      "question": "Tell me about a restructuring or carve-out you led and the financial reporting challenges you addressed.",
+      "role": "Senior Finance Manager",
+      "difficulty": "Senior",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Carve-Out Reporting",
+      "source": "https://ibm.com/careers/senior-finance-manager"
+    },
+    {
+      "question": "How have you measured and communicated the ROI of technology investments in finance?",
+      "role": "Finance Manager",
+      "difficulty": "Mid",
+      "company": "Accenture",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Tech ROI",
+      "source": "https://accenture.com/careers/finance-manager"
+    },{
+        "question": "How would you conduct a sensitivity analysis on your financial model to test key assumptions?",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "Morgan Stanley",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Sensitivity Analysis",
+        "source": "https://www.morganstanley.com/careers/financial-analyst"
+      },
+      {
+        "question": "Describe a time you reconciled complex intercompany transactions during month-end close.",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "Unilever",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Intercompany Reconciliation",
+        "source": "https://www.unilever.com/careers/financial-analyst"
+      },
+      {
+        "question": "Tell me about how you helped identify and remediate a material weakness in internal controls.",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "Johnson & Johnson",
+        "year": "2023",
+        "category": "Compliance",
+        "topic": "Internal Controls",
+        "source": "https://www.jnj.com/careers/financial-analyst"
+      },
+      {
+        "question": "How have you used VBA or Python to automate repetitive financial tasks?",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "Goldman Sachs",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Automation Scripting",
+        "source": "https://www.goldmansachs.com/careers/financial-analyst"
+      },
+      {
+        "question": "Describe your process for building a dynamic dashboard in Power BI or Tableau for finance reporting.",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "Microsoft",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Dashboarding",
+        "source": "https://careers.microsoft.com/financial-analyst"
+      },
+      {
+        "question": "As a Financial Analyst, how would you evaluate the break-even point for a new product launch?",
+        "role": "Financial Analyst",
+        "difficulty": "Entry",
+        "company": "PepsiCo",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Break-even Analysis",
+        "source": "https://www.pepsico.com/careers/financial-analyst"
+      },
+      {
+        "question": "How would you structure a zero-based budgeting exercise at the department level?",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Zero-Based Budgeting",
+        "source": "https://www.ibm.com/careers/finance-manager"
+      },
+      {
+        "question": "Tell me about a time you led a cross-functional initiative to improve forecast accuracy by 10%.",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Forecast Accuracy",
+        "source": "https://www.amazon.jobs/en/finance-manager"
+      },
+      {
+        "question": "Describe how you would assess the ROI of a large-scale ERP implementation.",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "Oracle",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "ROI Analysis",
+        "source": "https://www.oracle.com/careers/finance-manager"
+      },
+      {
+        "question": "How have you managed the finance close process during a period of rapid growth?",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "Netflix",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Close Management",
+        "source": "https://jobs.netflix.com/finance/finance-manager"
+      },
+      {
+        "question": "As a Finance Manager, how would you implement rolling forecasts and driver-based planning?",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "Tesla",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Driver-Based Planning",
+        "source": "https://www.tesla.com/careers/finance-manager"
+      },
+      {
+        "question": "Tell me about a time you improved financial process compliance to SOX requirements.",
+        "role": "Finance Manager",
+        "difficulty": "Mid",
+        "company": "Coca-Cola",
+        "year": "2023",
+        "category": "Compliance",
+        "topic": "SOX Compliance",
+        "source": "https://www.coca-colacompany.com/careers/finance-manager"
+      },
+      {
+        "question": "Describe a program you led to optimize working capital by reducing inventory days.",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "Procter & Gamble",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Inventory Optimization",
+        "source": "https://www.pgcareers.com/senior-finance-manager"
+      },
+      {
+        "question": "How did you manage financial reporting for a carve-out or divestiture transaction?",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "Cisco",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Carve-Out Finance",
+        "source": "https://www.cisco.com/careers/senior-finance-manager"
+      },
+      {
+        "question": "Tell me about your experience developing and tracking KPIs for a global finance function.",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Global KPI Management",
+        "source": "https://www.ibm.com/careers/senior-finance-manager"
+      },
+      {
+        "question": "As a Senior Finance Manager, how would you lead the integration of forecasting and treasury functions?",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "Goldman Sachs",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "FP&A & Treasury Integration",
+        "source": "https://www.goldmansachs.com/careers/senior-finance-manager"
+      },
+      {
+        "question": "Describe a time you managed audit queries and SOX testing during year-end.",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "KPMG",
+        "year": "2024",
+        "category": "Compliance",
+        "topic": "Audit Management",
+        "source": "https://home.kpmg/careers/senior-finance-manager"
+      },
+      {
+        "question": "How would you build a financial planning center of excellence to share best practices?",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Accenture",
+        "year": "2023",
+        "category": "Leadership",
+        "topic": "Center of Excellence",
+        "source": "https://www.accenture.com/careers/director-of-finance"
+      },
+      {
+        "question": "Tell me about a global finance transformation you championed and the outcomes achieved.",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Global Transformation",
+        "source": "https://careers.microsoft.com/director-of-finance"
+      },
+      {
+        "question": "Describe your approach to capital allocation across business units for maximum return.",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Capital Allocation",
+        "source": "https://www.amazon.jobs/en/director-of-finance"
+      },
+      {
+        "question": "As Director of Finance, how would you manage investor communications during an earnings call?",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Apple",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Earnings Communication",
+        "source": "https://www.apple.com/careers/director-of-finance"
+      },
+      {
+        "question": "Tell me about a time you developed an enterprise risk management framework for finance.",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "JPMorgan Chase",
+        "year": "2025",
+        "category": "Risk Management",
+        "topic": "ERM Framework",
+        "source": "https://careers.jpmorganchase.com/cvp-of-finance"
+      },
+      {
+        "question": "How have you leveraged robotic process automation to streamline the finance function?",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "RPA in Finance",
+        "source": "https://www.ibm.com/careers/cvp-of-finance"
+      },
+      {
+        "question": "Describe your strategy for embedding ESG metrics into executive compensation.",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "Unilever",
+        "year": "2023",
+        "category": "Strategic",
+        "topic": "ESG & Compensation",
+        "source": "https://www.unilever.com/careers/cvp-of-finance"
+      },
+      {
+        "question": "As CVP of Finance, how would you lead the move to real-time financial close?",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Continuous Close",
+        "source": "https://careers.google.com/cvp-of-finance"
+      },
+      {
+        "question": "Tell me about your role in negotiating a multicurrency debt facility for growth capital.",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "AT&T",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Debt Structuring",
+        "source": "https://jobs.att.com/cvp-of-finance"
+      },
+      {
+        "question": "Describe how you established a strategic finance partnership model with business units.",
+        "role": "CVP of Finance",
+        "difficulty": "Executive",
+        "company": "SAP",
+        "year": "2023",
+        "category": "Leadership",
+        "topic": "Finance Business Partnering",
+        "source": "https://sap.com/careers/cvp-of-finance"
+      },
+      {
+        "question": "How would you implement a driver-based planning process to replace static budgets?",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Tesla",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Driver-Based Planning",
+        "source": "https://www.tesla.com/careers/director-of-finance"
+      },
+      {
+        "question": "Tell me about a time you led the finance function through an IPO process.",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Zoom",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "IPO Finance",
+        "source": "https://zoom.us/careers/director-of-finance"
+      },
+      {
+        "question": "Describe your approach to implementing continuous monitoring controls in finance.",
+        "role": "Director of Finance",
+        "difficulty": "Executive",
+        "company": "Pfizer",
+        "year": "2023",
+        "category": "Compliance",
+        "topic": "Continuous Controls Monitoring",
+        "source": "https://www.pfizer.com/careers/director-of-finance"
+      },
+      {
+        "question": "As a Senior Finance Manager, how did you manage the consolidation of multiple ERP instances?",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "ERP Consolidation",
+        "source": "https://www.amazon.jobs/en/senior-finance-manager"
+      },
+      {
+        "question": "Tell me about a project where you optimized tax provisioning processes.",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "ExxonMobil",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Tax Provisioning",
+        "source": "https://career.exxonmobil.com/senior-finance-manager"
+      },
+      {
+        "question": "How would you develop a multi-year capital expenditure plan aligned to strategic objectives?",
+        "role": "Senior Finance Manager",
+        "difficulty": "Senior",
+        "company": "GE",
+        "year": "2023",
+        "category": "Strategic",
+        "topic": "CapEx Planning",
+        "source": "https://www.ge.com/careers/senior-finance-manager"
+      }
+    ]
+  
