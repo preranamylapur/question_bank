@@ -1,0 +1,103 @@
+[
+    {
+      "question": "How do you handle the ethical considerations associated with AI products?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "AI Ethics",
+      "source": "https://ibm.com/careers/ai-product-manager"
+    },
+    {
+      "question": "How do you manage risks unique to AI projects such as model bias and data quality issues?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Risk Management",
+      "source": "https://careers.google.com/ai-product-manager"
+    },
+    {
+      "question": "How do you handle bias in AI algorithms?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Microsoft",
+      "year": "2023",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Algorithmic Bias",
+      "source": "https://careers.microsoft.com/ai-product-manager"
+    },
+    {
+      "question": "Can you give an example of a project in which you had to balance AI innovation with regulatory compliance and privacy concerns?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Meta",
+      "year": "2024",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Compliance vs Innovation",
+      "source": "https://meta.com/careers/ai-product-manager"
+    },
+    {
+      "question": "How would you go about building a responsible AI product that respects user privacy and ethical considerations?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Accenture",
+      "year": "2025",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Responsible AI",
+      "source": "https://accenture.com/careers/ai-product-manager"
+    },
+    {
+      "question": "Describe a scenario where you had to justify the investment required for an AI product. How did you approach this challenge?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Salesforce",
+      "year": "2023",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Investment Justification",
+      "source": "https://salesforce.com/careers/ai-product-manager"
+    },
+    {
+      "question": "How would you go about scaling an AI product to meet the needs of a large user base?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Uber",
+      "year": "2025",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Scaling Strategy",
+      "source": "https://uber.com/careers/ai-product-manager"
+    },
+    {
+      "question": "How do you ensure that AI solutions align with business requirements?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Slack",
+      "year": "2024",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Requirements Alignment",
+      "source": "https://slack.com/careers/ai-product-manager"
+    },
+    {
+      "question": "How would you approach the challenge of explainability in AI models? How can you make complex AI models more understandable to non-technical users?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "OpenAI",
+      "year": "2023",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Explainability",
+      "source": "https://openai.com/careers/ai-product-manager"
+    },
+    {
+      "question": "What strategies do you use to ensure that AI models are interpretable and explainable to stakeholders?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Ethical Considerations and Compliance",
+      "topic": "Interpretability",
+      "source": "https://careers.microsoft.com/ai-product-manager"
+    }
+  ]
+  
