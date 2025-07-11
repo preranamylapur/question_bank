@@ -1,0 +1,712 @@
+[
+    {
+      "question": "How do you design an onboarding program that accelerates new hire productivity?",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Google",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Onboarding",
+      "source": "https://careers.google.com/hr-generalist"
+    },
+    {
+      "question": "Describe your approach to administering benefits enrollment for a 500-employee organization.",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Benefits Administration",
+      "source": "https://amazon.jobs/hr-generalist"
+    },
+    {
+      "question": "Tell me about a time you resolved a complex employee relations issue at scale.",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Walmart",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Employee Relations",
+      "source": "https://careers.walmart.com/hr-generalist"
+    },
+    {
+      "question": "How would you audit compliance with state and federal labor laws across multiple states?",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Target",
+      "year": "2025",
+      "category": "Compliance",
+      "topic": "Labor Law",
+      "source": "https://target.com/careers/hr-generalist"
+    },
+    {
+      "question": "Describe your method for tracking HR metrics and reporting them to business leaders.",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Salesforce",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "HR Analytics",
+      "source": "https://salesforce.com/careers/hr-generalist"
+    },
+    {
+      "question": "As an HR Manager, how would you build a performance review process that fosters development?",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Performance Management",
+      "source": "https://careers.microsoft.com/hr-manager"
+    },
+    {
+      "question": "Tell me about a time you improved employee engagement survey scores.",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Adobe",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Engagement",
+      "source": "https://adobe.com/careers/hr-manager"
+    },
+    {
+      "question": "How do you partner with finance to forecast headcount and budget?",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Intel",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Workforce Planning",
+      "source": "https://intel.com/careers/hr-manager"
+    },
+    {
+      "question": "Describe your approach to leading a compensation benchmarking analysis.",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Facebook (Meta)",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Compensation Analysis",
+      "source": "https://meta.com/careers/hr-manager"
+    },
+    {
+      "question": "Tell me about a time you navigated a complex benefits vendor migration.",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Cisco",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Vendor Management",
+      "source": "https://cisco.com/careers/hr-manager"
+    },
+    {
+      "question": "As a Senior HR Manager, how would you design a leadership development program for high-potential employees?",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Leadership Development",
+      "source": "https://ibm.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "Describe a time you led a change management initiative during an organizational restructure.",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Johnson & Johnson",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Change Management",
+      "source": "https://jnj.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "How have you implemented diversity, equity & inclusion programs with measurable impact?",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Netflix",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "DEI",
+      "source": "https://jobs.netflix.com/hr/senior-hr-manager"
+    },
+    {
+      "question": "Tell me about your experience negotiating executive-level offers and counteroffers.",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Apple",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Executive Recruiting",
+      "source": "https://apple.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "Describe your process for scaling HR operations during rapid growth phases.",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Uber",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "HR Operations",
+      "source": "https://uber.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "As a Director of HR, how would you develop a global talent management strategy?",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Talent Management",
+      "source": "https://careers.microsoft.com/director-of-hr"
+    },
+    {
+      "question": "Tell me about a global HR transformation you led—what framework did you use?",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Transformation",
+      "source": "https://amazon.jobs/director-of-hr"
+    },
+    {
+      "question": "How do you measure and improve your HR service delivery model?",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "Salesforce",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "HR Service Delivery",
+      "source": "https://salesforce.com/careers/director-of-hr"
+    },
+    {
+      "question": "Describe your approach to aligning HR KPIs with overall business objectives.",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "Cisco",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "KPI Alignment",
+      "source": "https://cisco.com/careers/director-of-hr"
+    },
+    {
+      "question": "As CVP of HR, how would you drive a culture of continuous feedback across a global workforce?",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Feedback Culture",
+      "source": "https://careers.google.com/cvp-of-hr"
+    },
+    {
+      "question": "Tell me about a time you navigated HR compliance in heavily regulated industries.",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "Pfizer",
+      "year": "2024",
+      "category": "Compliance",
+      "topic": "Regulatory",
+      "source": "https://pfizer.com/careers/cvp-of-hr"
+    },
+    {
+      "question": "Describe your strategy for integrating HRIS across multiple legacy systems.",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2023",
+      "category": "Technical",
+      "topic": "HRIS Integration",
+      "source": "https://ibm.com/careers/cvp-of-hr"
+    },
+    {
+      "question": "How would you measure the long-term impact of your leadership development initiatives?",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "Accenture",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Program Evaluation",
+      "source": "https://accenture.com/careers/cvp-of-hr"
+    },
+    {
+      "question": "Tell me about a cross-industry partnership you forged to enhance talent acquisition.",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "LinkedIn",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Partnerships",
+      "source": "https://linkedin.com/careers/cvp-of-hr"
+    },
+    {
+      "question": "Describe a time you built an employer brand that attracted top-tier talent.",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "Nike",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Employer Branding",
+      "source": "https://jobs.nike.com/director-of-hr"
+    },
+    {
+      "question": "How have you leveraged people analytics to reduce attrition rates?",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Facebook (Meta)",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "People Analytics",
+      "source": "https://meta.com/careers/hr-manager"
+    },
+    {
+      "question": "Tell me about your experience setting up a flexible work policy post-pandemic.",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Slack",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Flexible Work",
+      "source": "https://slack.com/careers/hr-manager"
+    },
+    {
+      "question": "Describe a time you ran a successful campus recruiting program.",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Oracle",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Campus Recruiting",
+      "source": "https://oracle.com/careers/hr-generalist"
+    },
+    {
+      "question": "How would you roll out a global HR compliance training program?",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Siemens",
+      "year": "2025",
+      "category": "Compliance",
+      "topic": "Training Delivery",
+      "source": "https://siemens.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "Tell me about a time you managed a complex workforce reduction with empathy.",
+      "role": "Director of HR",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Layoffs",
+      "source": "https://ibm.com/careers/director-of-hr"
+    },
+    {
+      "question": "Describe your approach to integrating AI in talent sourcing and screening.",
+      "role": "CVP of HR",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2023",
+      "category": "Technical",
+      "topic": "AI Recruiting",
+      "source": "https://amazon.jobs/cvp-of-hr"
+    },
+    {
+      "question": "How would you develop a succession planning framework for critical roles?",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "Johnson & Johnson",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Succession Planning",
+      "source": "https://jnj.com/careers/senior-hr-manager"
+    },
+    {
+      "question": "Tell me about a time you built a high-impact HR communications plan during change.",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Airbnb",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Communications",
+      "source": "https://airbnb.com/careers/hr-manager"
+    },
+    {
+      "question": "Describe how you partnered with legal to update employee handbooks worldwide.",
+      "role": "HR Generalist",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2023",
+      "category": "Compliance",
+      "topic": "Policy Development",
+      "source": "https://careers.microsoft.com/hr-generalist"
+    },
+    {
+      "question": "How have you managed HR vendors during a technology platform consolidation?",
+      "role": "HR Manager",
+      "difficulty": "Mid",
+      "company": "Workday",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Vendor Consolidation",
+      "source": "https://workday.com/careers/hr-manager"
+    },
+    {
+      "question": "Tell me about a time you improved time-to-hire by over 30%.",
+      "role": "Senior HR Manager",
+      "difficulty": "Senior",
+      "company": "LinkedIn",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Recruiting Metrics",
+      "source": "https://linkedin.com/careers/senior-hr-manager"
+    },{
+        "question": "How do you manage international payroll complexities across multiple currencies?",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Spotify",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Payroll Management",
+        "source": "https://spotify.com/careers/hr-generalist"
+      },
+      {
+        "question": "Describe your approach to conducting stay interviews to reduce turnover.",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Dropbox",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Employee Retention",
+        "source": "https://dropbox.com/careers/hr-generalist"
+      },
+      {
+        "question": "Tell me about a time you updated job descriptions to reflect evolving roles.",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Airbnb",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Job Design",
+        "source": "https://airbnb.com/careers/hr-generalist"
+      },
+      {
+        "question": "How would you handle a request for flexible work arrangements while maintaining fairness?",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Slack",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Flexible Work Policy",
+        "source": "https://slack.com/careers/hr-manager"
+      },
+      {
+        "question": "Describe a time you overhauled the performance improvement plan (PIP) process.",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Cisco",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "PIP Management",
+        "source": "https://cisco.com/careers/hr-manager"
+      },
+      {
+        "question": "How have you used predictive analytics to forecast future talent needs?",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Workday",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Predictive Workforce Planning",
+        "source": "https://workday.com/careers/hr-manager"
+      },
+      {
+        "question": "As a Senior HR Manager, how would you integrate wellness programs to boost morale?",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Wellness Programs",
+        "source": "https://careers.google.com/senior-hr-manager"
+      },
+      {
+        "question": "Tell me about your experience developing a global mobility policy for expatriate employees.",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Global Mobility",
+        "source": "https://ibm.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "Describe how you’ve led a remote onboarding strategy for distributed teams.",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "GitHub",
+        "year": "2023",
+        "category": "Strategy",
+        "topic": "Remote Onboarding",
+        "source": "https://github.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "As a Director of HR, how would you build an employer value proposition for a new market?",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "LinkedIn",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Employer Branding",
+        "source": "https://linkedin.com/careers/director-of-hr"
+      },
+      {
+        "question": "Tell me about a large-scale HRIS implementation you oversaw—what challenges did you face?",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Salesforce",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "HRIS Deployment",
+        "source": "https://salesforce.com/careers/director-of-hr"
+      },
+      {
+        "question": "How would you design a succession planning framework for C-level roles?",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Succession Planning",
+        "source": "https://amazon.jobs/director-of-hr"
+      },
+      {
+        "question": "As CVP of HR, how would you align talent strategy with digital transformation goals?",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Digital Talent Strategy",
+        "source": "https://careers.microsoft.com/cvp-of-hr"
+      },
+      {
+        "question": "Describe a time you navigated HR due diligence during a merger—what was your role?",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "Oracle",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "M&A HR Integration",
+        "source": "https://oracle.com/careers/cvp-of-hr"
+      },
+      {
+        "question": "How have you driven a global HR analytics capability to inform leadership decisions?",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "Accenture",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "HR Analytics Strategy",
+        "source": "https://accenture.com/careers/cvp-of-hr"
+      },
+      {
+        "question": "Tell me about a time you managed a sensitive internal investigation with confidentiality.",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Netflix",
+        "year": "2025",
+        "category": "Compliance",
+        "topic": "Investigations",
+        "source": "https://jobs.netflix.com/hr-generalist"
+      },
+      {
+        "question": "Describe your approach to handling whistleblower reports and follow-up actions.",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Johnson & Johnson",
+        "year": "2024",
+        "category": "Compliance",
+        "topic": "Ethics Hotline",
+        "source": "https://jnj.com/careers/hr-generalist"
+      },
+      {
+        "question": "How would you coordinate a multinational offsite to foster team alignment?",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Facebook (Meta)",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Event Planning",
+        "source": "https://meta.com/careers/hr-manager"
+      },
+      {
+        "question": "Tell me about a time you built a high-impact mentoring program.",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Adobe",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Mentorship",
+        "source": "https://adobe.com/careers/hr-manager"
+      },
+      {
+        "question": "Describe how you’ve handled accommodations requests under ADA in the workplace.",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Uber",
+        "year": "2024",
+        "category": "Compliance",
+        "topic": "EEO & ADA",
+        "source": "https://uber.com/careers/hr-manager"
+      },
+      {
+        "question": "How have you used HR chatbots or AI assistants to enhance service delivery?",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "IBM",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "AI in HR",
+        "source": "https://ibm.com/careers/hr-manager"
+      },
+      {
+        "question": "As a Senior HR Manager, how would you restructure the talent acquisition team for scale?",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "LinkedIn",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "TA Org Design",
+        "source": "https://linkedin.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "Tell me about your experience implementing a global HR shared service center.",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "Procter & Gamble",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Shared Services",
+        "source": "https://pg.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "Describe how you’ve improved HR compliance through automated policy tracking.",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "Siemens",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Policy Automation",
+        "source": "https://siemens.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "How would you lead an initiative to close pay equity gaps across regions?",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Salesforce",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Pay Equity",
+        "source": "https://salesforce.com/careers/director-of-hr"
+      },
+      {
+        "question": "Tell me about a time you negotiated global relocation packages for executives.",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Relocation Management",
+        "source": "https://careers.google.com/director-of-hr"
+      },
+      {
+        "question": "Describe your process for aligning leadership competency models across business units.",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2023",
+        "category": "Strategy",
+        "topic": "Competency Modeling",
+        "source": "https://amazon.jobs/director-of-hr"
+      },
+      {
+        "question": "As CVP of HR, how would you orchestrate a multi-year culture-building program?",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "Accenture",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Culture Transformation",
+        "source": "https://accenture.com/careers/cvp-of-hr"
+      },
+      {
+        "question": "Tell me about your experience managing HR budget allocations during fiscal constraints.",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "HR Budgeting",
+        "source": "https://ibm.com/careers/cvp-of-hr"
+      },
+      {
+        "question": "Describe how you use sentiment analysis to gauge organizational health.",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "Microsoft",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Sentiment Analysis",
+        "source": "https://careers.microsoft.com/cvp-of-hr"
+      },
+      {
+        "question": "How would you integrate ethics and compliance training into leadership curricula?",
+        "role": "HR Generalist",
+        "difficulty": "Entry",
+        "company": "Johnson & Johnson",
+        "year": "2025",
+        "category": "Compliance",
+        "topic": "Ethics Training",
+        "source": "https://jnj.com/careers/hr-generalist"
+      },
+      {
+        "question": "Tell me about a time you leveraged social media to enhance employer branding.",
+        "role": "HR Manager",
+        "difficulty": "Mid",
+        "company": "Uber",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Social Media Recruiting",
+        "source": "https://uber.com/careers/hr-manager"
+      },
+      {
+        "question": "Describe your approach to establishing a peer recognition program.",
+        "role": "Senior HR Manager",
+        "difficulty": "Senior",
+        "company": "Facebook (Meta)",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Recognition Programs",
+        "source": "https://meta.com/careers/senior-hr-manager"
+      },
+      {
+        "question": "How have you managed compliance with data privacy laws (GDPR, CCPA) in HR processes?",
+        "role": "Director of HR",
+        "difficulty": "Executive",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Compliance",
+        "topic": "Data Privacy",
+        "source": "https://apple.com/careers/director-of-hr"
+      },
+      {
+        "question": "Tell me about a time you designed a talent mobility program to rotate high-potentials across functions.",
+        "role": "CVP of HR",
+        "difficulty": "Executive",
+        "company": "LinkedIn",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Talent Mobility",
+        "source": "https://linkedin.com/careers/cvp-of-hr"
+      }
+    ]
+  
