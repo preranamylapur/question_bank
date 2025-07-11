@@ -1,0 +1,331 @@
+{
+    "companies": [
+      {
+        "name": "Google",
+        "functions": {
+          "Product Management": [
+            "Associate Product Manager",
+            "Product Manager",
+            "Senior Product Manager",
+            "Group Product Manager",
+            "Director of Product",
+            "VP of Product",
+            "Chief Product Officer"
+          ],
+          "Engineering Management": [
+            "Engineering Lead",
+            "Engineering Manager I",
+            "Engineering Manager II",
+            "Senior Engineering Manager",
+            "Director of Engineering",
+            "VP of Engineering",
+            "CTO"
+          ],
+          "Program & Project Management": [
+            "Program Coordinator",
+            "Program Manager I",
+            "Program Manager II",
+            "Senior Program Manager",
+            "Director of Program Management",
+            "VP of Program Management"
+          ],
+          "Marketing Management": [
+            "Marketing Coordinator",
+            "Marketing Manager",
+            "Senior Marketing Manager",
+            "Group Marketing Manager",
+            "Director of Marketing",
+            "VP of Marketing",
+            "Chief Marketing Officer"
+          ],
+          "Sales Management": [
+            "Sales Representative",
+            "Sales Manager",
+            "Senior Sales Manager",
+            "Regional Sales Director",
+            "Director of Sales",
+            "VP of Sales",
+            "Chief Revenue Officer"
+          ],
+          "Operations Management": [
+            "Operations Analyst",
+            "Operations Manager",
+            "Senior Operations Manager",
+            "Director of Operations",
+            "VP of Operations",
+            "COO"
+          ],
+          "People & HR Management": [
+            "HR Coordinator",
+            "HR Business Partner",
+            "Senior HR Business Partner",
+            "HR Director",
+            "VP of People",
+            "Chief People Officer"
+          ],
+          "Finance Management": [
+            "Financial Analyst",
+            "Finance Manager",
+            "Senior Finance Manager",
+            "Director of Finance",
+            "VP of Finance",
+            "CFO"
+          ]
+        }
+      },
+      {
+        "name": "Microsoft",
+        "functions": {
+          "Product Management": [
+            "Product Manager I",
+            "Product Manager II",
+            "Senior Product Manager",
+            "Lead Product Manager",
+            "Director of Product Management",
+            "CVP of Product"
+          ],
+          "Engineering Management": [
+            "Principal Software Engineer",
+            "Engineering Manager",
+            "Senior Engineering Manager",
+            "Director of Engineering",
+            "CVP of Engineering"
+          ],
+          "Program & Project Management": [
+            "Project Coordinator",
+            "Program Manager I",
+            "Program Manager II",
+            "Principal Program Manager",
+            "Director of Program Management",
+            "CVP of PMO"
+          ],
+          "Marketing Management": [
+            "Marketing Specialist",
+            "Marketing Manager",
+            "Senior Marketing Manager",
+            "Director of Marketing",
+            "CVP of Marketing"
+          ],
+          "Sales Management": [
+            "Account Executive",
+            "Sales Manager",
+            "Senior Sales Manager",
+            "Director of Sales",
+            "CVP of Sales"
+          ],
+          "Operations Management": [
+            "Operations Coordinator",
+            "Operations Manager",
+            "Senior Operations Manager",
+            "Director of Operations",
+            "CVP of Operations"
+          ],
+          "People & HR Management": [
+            "HR Generalist",
+            "HR Manager",
+            "Senior HR Manager",
+            "Director of HR",
+            "CVP of HR"
+          ],
+          "Finance Management": [
+            "Financial Analyst",
+            "Finance Manager",
+            "Senior Finance Manager",
+            "Director of Finance",
+            "CVP of Finance"
+          ]
+        }
+      },
+      {
+        "name": "Amazon",
+        "functions": {
+          "Product Management": [
+            "Product Manager I",
+            "Product Manager II",
+            "Senior Product Manager",
+            "Principal Product Manager",
+            "Director of Product Management",
+            "VP of Product"
+          ],
+          "Engineering Management": [
+            "Software Development Engineer II",
+            "SDE III / Engineering Manager I",
+            "Senior Engineering Manager",
+            "Principal Engineer / Director",
+            "VP of Engineering"
+          ],
+          "Program & Project Management": [
+            "Technical Program Manager I",
+            "Technical Program Manager II",
+            "Senior TPM",
+            "Principal TPM",
+            "Director of TPM",
+            "VP of TPM"
+          ],
+          "Marketing Management": [
+            "Marketing Associate",
+            "Marketing Manager",
+            "Senior Marketing Manager",
+            "Head of Marketing",
+            "Director of Marketing",
+            "VP of Marketing"
+          ],
+          "Sales Management": [
+            "Business Development Representative",
+            "Account Manager",
+            "Sales Manager",
+            "Senior Sales Manager",
+            "Director of Sales",
+            "VP of Sales"
+          ],
+          "Operations Management": [
+            "Operations Associate",
+            "Operations Manager",
+            "Senior Operations Manager",
+            "Site Director",
+            "VP of Operations"
+          ],
+          "People & HR Management": [
+            "HR Associate",
+            "HRBP",
+            "Senior HRBP",
+            "HR Director",
+            "VP of HR"
+          ],
+          "Finance Management": [
+            "Financial Analyst",
+            "Senior Financial Analyst",
+            "Finance Manager",
+            "Director of Finance",
+            "VP of Finance"
+          ]
+        }
+      },
+      {
+        "name": "Apple",
+        "functions": {
+          "Product Management": [
+            "Product Manager",
+            "Senior Product Manager",
+            "Lead Product Manager",
+            "Principal Product Manager",
+            "Director of Product Management",
+            "VP of Product"
+          ],
+          "Engineering Management": [
+            "Engineering Manager I",
+            "Engineering Manager II",
+            "Senior Engineering Manager",
+            "Director of Engineering",
+            "VP of Engineering"
+          ],
+          "Program & Project Management": [
+            "Project Manager",
+            "Senior Project Manager",
+            "Program Manager",
+            "Director of Program Management",
+            "VP of Project Management"
+          ],
+          "Marketing Management": [
+            "Marketing Coordinator",
+            "Marketing Manager",
+            "Senior Marketing Manager",
+            "Director of Marketing",
+            "VP of Marketing"
+          ],
+          "Sales Management": [
+            "Retail Manager",
+            "Sales Manager",
+            "Senior Sales Manager",
+            "Director of Sales",
+            "VP of Sales"
+          ],
+          "Operations Management": [
+            "Operations Specialist",
+            "Operations Manager",
+            "Senior Operations Manager",
+            "Director of Operations",
+            "VP of Operations"
+          ],
+          "People & HR Management": [
+            "HR Specialist",
+            "HR Manager",
+            "Senior HR Manager",
+            "Director of People",
+            "VP of People"
+          ],
+          "Finance Management": [
+            "Financial Analyst",
+            "Finance Manager",
+            "Senior Finance Manager",
+            "Director of Finance",
+            "VP of Finance"
+          ]
+        }
+      },
+      {
+        "name": "Meta",
+        "functions": {
+          "Product Management": [
+            "Associate Product Manager",
+            "Product Manager",
+            "Senior Product Manager",
+            "Lead Product Manager",
+            "Group Product Manager",
+            "Director of Product",
+            "VP of Product"
+          ],
+          "Engineering Management": [
+            "Software Engineer",
+            "Engineering Manager",
+            "Senior Engineering Manager",
+            "Director of Engineering",
+            "VP of Engineering"
+          ],
+          "Program & Project Management": [
+            "Project Manager",
+            "Program Manager",
+            "Senior Program Manager",
+            "Director of Program Management",
+            "VP of PMO"
+          ],
+          "Marketing Management": [
+            "Marketing Associate",
+            "Marketing Manager",
+            "Senior Marketing Manager",
+            "Director of Marketing",
+            "VP of Marketing"
+          ],
+          "Sales Management": [
+            "Account Executive",
+            "Sales Manager",
+            "Senior Sales Manager",
+            "Director of Sales",
+            "VP of Sales"
+          ],
+          "Operations Management": [
+            "Operations Associate",
+            "Operations Manager",
+            "Senior Operations Manager",
+            "Director of Operations",
+            "VP of Operations"
+          ],
+          "People & HR Management": [
+            "HR Associate",
+            "HR Business Partner",
+            "Senior HRBP",
+            "HR Director",
+            "VP of People"
+          ],
+          "Finance Management": [
+            "Financial Analyst",
+            "Finance Manager",
+            "Senior Finance Manager",
+            "Director of Finance",
+            "VP of Finance"
+          ]
+        }
+      }
+    ]
+  }
+  
