@@ -1,0 +1,703 @@
+[
+    {
+      "question": "What’s your favorite product, and how would you improve it?",
+      "role": "Associate Product Manager",
+      "difficulty": "Entry",
+      "company": "Google",
+      "year": "2025",
+      "category": "Product Evaluation",
+      "topic": "Improvement Suggestions",
+      "source": "https://tryexponent.com/questions?company=google&role=associate-pm"
+    },
+    {
+      "question": "Estimate the number of daily active users on TikTok.",
+      "role": "Associate Product Manager",
+      "difficulty": "Entry",
+      "company": "Meta",
+      "year": "2024",
+      "category": "Estimation",
+      "topic": "Market Sizing",
+      "source": "https://igotanoffer.com/blogs/product-manager/meta-associate-pm"
+    },
+    {
+      "question": "Design a minimal viable product for a new note-taking app.",
+      "role": "Associate Product Manager",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "MVP Definition",
+      "source": "https://barraiser.com/amazon-pm-interview"
+    },
+    {
+      "question": "Tell me about a time you handled conflicting stakeholder requests.",
+      "role": "Associate Product Manager",
+      "difficulty": "Entry",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Stakeholder Management",
+      "source": "https://barraiser.com/associate-pm-interview"
+    },
+    {
+      "question": "How would you prioritize features for a second-hand marketplace?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "eBay",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Prioritization Frameworks",
+      "source": "https://glassdoor.com/Interview/ebay-pm-questions"
+    },
+    {
+      "question": "Describe your approach to defining success metrics for a subscription product.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Spotify",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Metrics & KPIs",
+      "source": "https://tryexponent.com/questions?company=spotify&role=pm"
+    },
+    {
+      "question": "How would you increase engagement on Instagram Stories by 20%?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Meta",
+      "year": "2025",
+      "category": "Product Strategy",
+      "topic": "Growth Strategy",
+      "source": "https://igotanoffer.com/blogs/product-manager/meta-pm"
+    },
+    {
+      "question": "Explain a time you used A/B testing to inform a product decision.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "LinkedIn",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Experimentation",
+      "source": "https://barraiser.com/linkedin-pm-interview"
+    },
+    {
+      "question": "Design a feature to reduce cart abandonment on a retail site.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2023",
+      "category": "Product Design",
+      "topic": "UX/Product Optimization",
+      "source": "https://tryexponent.com/questions?company=amazon&role=pm"
+    },
+    {
+      "question": "Tell me about a time you disagreed with engineering on a technical trade-off.",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Cross-functional Collaboration",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-pm"
+    },
+    {
+      "question": "How would you launch a new payment method in a mature e-commerce platform?",
+      "role": "Senior Product Manager",
+      "difficulty": "Senior",
+      "company": "Shopify",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Launch Strategy",
+      "source": "https://barraiser.com/shopify-pm-interview"
+    },
+    {
+      "question": "Describe a product you managed end-to-end and the key challenges you overcame.",
+      "role": "Senior Product Manager",
+      "difficulty": "Senior",
+      "company": "Airbnb",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Ownership & Leadership",
+      "source": "https://igotanoffer.com/blogs/product-manager/airbnb-pm"
+    },
+    {
+      "question": "Estimate the incremental revenue from a 10% price increase on Netflix subscription.",
+      "role": "Senior Product Manager",
+      "difficulty": "Senior",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "Estimation",
+      "topic": "Revenue Modeling",
+      "source": "https://tryexponent.com/questions?company=netflix&role=pm"
+    },
+    {
+      "question": "How would you set the roadmap for a global video-streaming service over the next two years?",
+      "role": "Senior Product Manager",
+      "difficulty": "Senior",
+      "company": "YouTube",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Roadmap Planning",
+      "source": "https://barraiser.com/youtube-pm-interview"
+    },
+    {
+      "question": "Tell me about a time you pivoted product strategy based on market feedback.",
+      "role": "Senior Product Manager",
+      "difficulty": "Senior",
+      "company": "Uber",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Adaptability",
+      "source": "https://igotanoffer.com/blogs/product-manager/uber-pm"
+    },
+    {
+      "question": "Design a growth experiment for TikTok to enter a new regional market.",
+      "role": "Group Product Manager",
+      "difficulty": "Senior",
+      "company": "ByteDance",
+      "year": "2025",
+      "category": "Product Strategy",
+      "topic": "Market Expansion",
+      "source": "https://glassdoor.com/Interview/bytedance-gpm-questions"
+    },
+    {
+      "question": "How do you mentor and develop other PMs on your team?",
+      "role": "Group Product Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "People Management",
+      "source": "https://barraiser.com/google-gpm-interview"
+    },
+    {
+      "question": "Describe a complex stakeholder alignment process you led across multiple regions.",
+      "role": "Group Product Manager",
+      "difficulty": "Senior",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Stakeholder Management",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-gpm"
+    },
+    {
+      "question": "Estimate the total addressable market for a B2B SaaS CRM product.",
+      "role": "Group Product Manager",
+      "difficulty": "Senior",
+      "company": "Salesforce",
+      "year": "2024",
+      "category": "Estimation",
+      "topic": "TAM Analysis",
+      "source": "https://tryexponent.com/questions?company=salesforce&role=gpm"
+    },
+    {
+      "question": "How would you incorporate AI into a traditional CRM platform to improve sales productivity?",
+      "role": "Group Product Manager",
+      "difficulty": "Senior",
+      "company": "Oracle",
+      "year": "2023",
+      "category": "Product Design",
+      "topic": "AI Integration",
+      "source": "https://barraiser.com/oracle-gpm-interview"
+    },
+    {
+      "question": "Tell me about a time you influenced C-suite to reprioritize key initiatives.",
+      "role": "Director of Product",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Executive Stakeholder Management",
+      "source": "https://igotanoffer.com/blogs/product-manager/apple-director-pm"
+    },
+    {
+      "question": "Describe how you set vision and strategy for an entire product line.",
+      "role": "Director of Product",
+      "difficulty": "Executive",
+      "company": "Meta",
+      "year": "2024",
+      "category": "Strategic",
+      "topic": "Vision & Strategy",
+      "source": "https://barraiser.com/meta-director-pm"
+    },
+    {
+      "question": "Estimate the impact of launching a new AR feature across all devices.",
+      "role": "Director of Product",
+      "difficulty": "Executive",
+      "company": "Snap",
+      "year": "2025",
+      "category": "Estimation",
+      "topic": "Impact Modeling",
+      "source": "https://tryexponent.com/questions?company=snap&role=director-pm"
+    },
+    {
+      "question": "How do you build cross-functional roadmaps involving hardware and software teams?",
+      "role": "Director of Product",
+      "difficulty": "Executive",
+      "company": "Tesla",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Cross-Functional Planning",
+      "source": "https://igotanoffer.com/blogs/product-manager/tesla-pm"
+    },
+    {
+      "question": "Tell me about the most impactful product partnership you negotiated.",
+      "role": "VP of Product",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Partnerships & Alliances",
+      "source": "https://barraiser.com/amazon-vp-pm"
+    },
+    {
+      "question": "Describe your process for evaluating acquisition targets to bolster product offerings.",
+      "role": "VP of Product",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Strategic",
+      "topic": "M&A Evaluation",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-vp-pm"
+    },
+    {
+      "question": "How would you drive alignment between multiple VP-level stakeholders across regions?",
+      "role": "VP of Product",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Executive Alignment",
+      "source": "https://barraiser.com/google-vp-pm"
+    },
+    {
+      "question": "Estimate revenue uplift from bundling services in a subscription ecosystem.",
+      "role": "VP of Product",
+      "difficulty": "Executive",
+      "company": "Adobe",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Bundling Strategy",
+      "source": "https://tryexponent.com/questions?company=adobe&role=vp-pm"
+    },
+    {
+      "question": "Tell me about a time you rebuilt underperforming product teams.",
+      "role": "Chief Product Officer",
+      "difficulty": "Executive",
+      "company": "Netflix",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Org Transformation",
+      "source": "https://igotanoffer.com/blogs/product-manager/netflix-cpo"
+    },
+    {
+      "question": "Describe your philosophy for balancing innovation with operational excellence.",
+      "role": "Chief Product Officer",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2024",
+      "category": "Strategic",
+      "topic": "Innovation Management",
+      "source": "https://barraiser.com/apple-cpo"
+    },
+    {
+      "question": "How would you assess and evolve a product portfolio to maximize market share?",
+      "role": "Chief Product Officer",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Portfolio Management",
+      "source": "https://tryexponent.com/questions?company=amazon&role=cpo"
+    },
+    {
+      "question": "Tell me about a time you led a company-wide product vision exercise.",
+      "role": "Chief Product Officer",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Visioning Workshops",
+      "source": "https://igotanoffer.com/blogs/product-manager/google-cpo"
+    },
+    {
+      "question": "Estimate the market impact of a major API platform upgrade.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Stripe",
+      "year": "2025",
+      "category": "Estimation",
+      "topic": "Market Impact Analysis",
+      "source": "https://tryexponent.com/questions?company=stripe&role=pm"
+    },
+    {
+      "question": "How do you integrate user feedback mechanisms into your product cycle?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Slack",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Feedback Loops",
+      "source": "https://barraiser.com/slack-pm-interview"
+    },
+    {
+      "question": "Tell me about a time you championed accessibility improvements in a product.",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Inclusive Design",
+      "source": "https://igotanoffer.com/blogs/product-manager/microsoft-pm"
+    },
+    {
+      "question": "Design a referral program to increase user acquisition by 30%.",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Uber",
+      "year": "2024",
+      "category": "Product Design",
+      "topic": "Growth Mechanics",
+      "source": "https://tryexponent.com/questions?company=uber&role=pm"
+    },
+    {
+      "question": "How would you measure the success of a new API you launched to developers?",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Twilio",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Developer Experience Metrics",
+      "source": "https://barraiser.com/twilio-pm"
+    },
+    {
+      "question": "Tell me about a time you turned around declining user retention.",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Snapchat",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Retention Strategy",
+      "source": "https://igotanoffer.com/blogs/product-manager/snap-pm"
+    },
+    {
+      "question": "Describe your process for competitive benchmarking before launching a feature.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Zoom",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Competitive Analysis",
+      "source": "https://tryexponent.com/questions?company=zoom&role=pm"
+    },
+    {
+      "question": "How do you ensure product scalability when demand grows 10x?",
+      "role": "Product Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Slack",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Scalability Planning",
+      "source": "https://barraiser.com/slack-pm-interview"
+    },
+    {
+      "question": "Tell me about a time you managed a product sunset and migration plan.",
+      "role": "Product Manager",
+      "difficulty": "Mid",
+      "company": "Salesforce",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Product Sunset",
+      "source": "https://igotanoffer.com/blogs/product-manager/salesforce-pm"
+    },{
+        "question": "How would you conduct a competitive analysis for a new mobile payment feature?",
+        "role": "Associate Product Manager",
+        "difficulty": "Entry",
+        "company": "Square",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Competitive Analysis",
+        "source": "https://tryexponent.com/questions?company=square&role=associate-pm"
+      },
+      {
+        "question": "Tell me about a time you persuaded a stakeholder to back a product idea they initially disliked.",
+        "role": "Associate Product Manager",
+        "difficulty": "Entry",
+        "company": "Zoom",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Influence & Persuasion",
+        "source": "https://igotanoffer.com/blogs/product-manager/zoom-associate-pm"
+      },
+      {
+        "question": "Estimate the total addressable market for an in-app advertising platform.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Snap",
+        "year": "2024",
+        "category": "Estimation",
+        "topic": "TAM Analysis",
+        "source": "https://barraiser.com/snap-pm-interview"
+      },
+      {
+        "question": "Describe your approach to writing PRDs for a complex feature rollout.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Documentation",
+        "source": "https://careers.microsoft.com/interview-questions"
+      },
+      {
+        "question": "How would you measure user satisfaction after launching a new onboarding flow?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Dropbox",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "User Analytics",
+        "source": "https://tryexponent.com/questions?company=dropbox&role=pm"
+      },
+      {
+        "question": "Tell me about a time you had to de-prioritize a beloved feature. How did you communicate the decision?",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Atlassian",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Communication",
+        "source": "https://igotanoffer.com/blogs/product-manager/atlassian-pm"
+      },
+      {
+        "question": "Design a dashboard for a PM team to track key product KPIs in real time.",
+        "role": "Senior Product Manager",
+        "difficulty": "Senior",
+        "company": "GitHub",
+        "year": "2025",
+        "category": "Product Design",
+        "topic": "Dashboard UX",
+        "source": "https://barraiser.com/github-pm-interview"
+      },
+      {
+        "question": "How do you balance short-term revenue gains against long-term user trust?",
+        "role": "Senior Product Manager",
+        "difficulty": "Senior",
+        "company": "Airbnb",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Ethical Trade-offs",
+        "source": "https://igotanoffer.com/blogs/product-manager/airbnb-pm"
+      },
+      {
+        "question": "Walk me through your process for validating a new feature with prototypes and user testing.",
+        "role": "Senior Product Manager",
+        "difficulty": "Senior",
+        "company": "Stripe",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "User Testing",
+        "source": "https://tryexponent.com/questions?company=stripe&role=pm"
+      },
+      {
+        "question": "Tell me about a time you scaled a feature from 1,000 to 1,000,000 users without downtime.",
+        "role": "Group Product Manager",
+        "difficulty": "Senior",
+        "company": "Shopify",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Scalability Planning",
+        "source": "https://glassdoor.com/Interview/shopify-gpm-questions"
+      },
+      {
+        "question": "How do you mentor mid-level PMs to take on bigger product areas?",
+        "role": "Group Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Coaching",
+        "source": "https://barraiser.com/google-gpm-interview"
+      },
+      {
+        "question": "Estimate the uplift from introducing a loyalty program in a subscription business.",
+        "role": "Group Product Manager",
+        "difficulty": "Senior",
+        "company": "Peloton",
+        "year": "2024",
+        "category": "Estimation",
+        "topic": "Revenue Modeling",
+        "source": "https://tryexponent.com/questions?company=peloton&role=gpm"
+      },
+      {
+        "question": "Describe a time you led a post-mortem that led to a fundamental change in process.",
+        "role": "Director of Product",
+        "difficulty": "Executive",
+        "company": "Facebook",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Process Improvement",
+        "source": "https://igotanoffer.com/blogs/product-manager/facebook-director-pm"
+      },
+      {
+        "question": "How do you align product roadmaps across multiple business units?",
+        "role": "Director of Product",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Cross-Unit Alignment",
+        "source": "https://barraiser.com/amazon-director-pm"
+      },
+      {
+        "question": "Tell me about a time you led competitive differentiation to avoid a price war.",
+        "role": "VP of Product",
+        "difficulty": "Executive",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Differentiation",
+        "source": "https://igotanoffer.com/blogs/product-manager/uber-vp-pm"
+      },
+      {
+        "question": "Describe your approach to setting OKRs for a 50-person PM organization.",
+        "role": "VP of Product",
+        "difficulty": "Executive",
+        "company": "Netflix",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Goal Setting",
+        "source": "https://tryexponent.com/questions?company=netflix&role=vp-pm"
+      },
+      {
+        "question": "How would you evaluate the ROI of a strategic partnership with a major retailer?",
+        "role": "VP of Product",
+        "difficulty": "Executive",
+        "company": "Walmart",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Partnership ROI",
+        "source": "https://barraiser.com/walmart-vp-pm"
+      },
+      {
+        "question": "Tell me about a time you restructured the PM team to increase velocity and quality.",
+        "role": "Chief Product Officer",
+        "difficulty": "Executive",
+        "company": "Adobe",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Org Design",
+        "source": "https://igotanoffer.com/blogs/product-manager/adobe-cpo"
+      },
+      {
+        "question": "Describe your vision for integrating AI responsibly across our product portfolio.",
+        "role": "Chief Product Officer",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "AI Strategy",
+        "source": "https://barraiser.com/ibm-cpo"
+      },
+      {
+        "question": "Estimate how many product iterations you would need to achieve 80% user satisfaction.",
+        "role": "Chief Product Officer",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2024",
+        "category": "Estimation",
+        "topic": "Iteration Planning",
+        "source": "https://igotanoffer.com/blogs/product-manager/google-cpo"
+      },
+      {
+        "question": "How do you foster a culture of experimentation and learning at every PM level?",
+        "role": "Chief Product Officer",
+        "difficulty": "Executive",
+        "company": "Facebook",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Culture Building",
+        "source": "https://barraiser.com/facebook-cpo"
+      },
+      {
+        "question": "Design a framework for prioritizing ESG (Environmental, Social, Governance) features in enterprise software.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Salesforce",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "ESG Prioritization",
+        "source": "https://tryexponent.com/questions?company=salesforce&role=pm"
+      },
+      {
+        "question": "Tell me about a time you leveraged data to turn around declining adoption metrics.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Zoom",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Data-Driven Turnaround",
+        "source": "https://igotanoffer.com/blogs/product-manager/zoom-pm"
+      },
+      {
+        "question": "How would you structure a rapid experiment to test a freemium upgrade flow?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Dropbox",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Experiment Design",
+        "source": "https://barraiser.com/dropbox-pm"
+      },
+      {
+        "question": "Estimate the impact of removing a legacy feature on 5% of your user base.",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Atlassian",
+        "year": "2024",
+        "category": "Estimation",
+        "topic": "User Impact Analysis",
+        "source": "https://tryexponent.com/questions?company=atlassian&role=pm"
+      },
+      {
+        "question": "Describe your approach to scaling a global support chatbot from 10 languages to 50 languages.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Intercom",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Internationalization",
+        "source": "https://igotanoffer.com/blogs/product-manager/intercom-pm"
+      },
+      {
+        "question": "Tell me about a time you led a privacy compliance project across engineering and legal teams.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Apple",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Cross-Functional Leadership",
+        "source": "https://barraiser.com/apple-pm"
+      },
+      {
+        "question": "How would you drive adoption of a new API among developer communities?",
+        "role": "Product Manager",
+        "difficulty": "Mid",
+        "company": "Twilio",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Developer Marketing",
+        "source": "https://tryexponent.com/questions?company=twilio&role=pm"
+      },
+      {
+        "question": "Describe a time you led a major pricing experiment and the lessons you learned.",
+        "role": "Product Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Spotify",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Pricing Strategy",
+        "source": "https://igotanoffer.com/blogs/product-manager/spotify-pm"
+      }
+    ]
+  
+  
