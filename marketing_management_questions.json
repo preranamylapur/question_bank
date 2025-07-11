@@ -1,0 +1,592 @@
+[
+    {
+      "question": "Tell me about a campaign you helped launch as a Marketing Specialist. What was your role and the outcome?",
+      "role": "Marketing Specialist",
+      "difficulty": "Entry",
+      "company": "Google",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Campaign Launch",
+      "source": "https://careers.google.com/marketing-specialist-interview"
+    },
+    {
+      "question": "How do you segment an audience for a new social media ad campaign?",
+      "role": "Marketing Specialist",
+      "difficulty": "Entry",
+      "company": "Facebook",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Audience Segmentation",
+      "source": "https://barraiser.com/facebook-marketing-interview"
+    },
+    {
+      "question": "Describe your process for creating a content calendar for a B2B blog.",
+      "role": "Marketing Specialist",
+      "difficulty": "Entry",
+      "company": "Salesforce",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Content Planning",
+      "source": "https://salesforce.com/careers/marketing-specialist"
+    },
+    {
+      "question": "Tell me about a time you optimized an email open rate. What did you change?",
+      "role": "Marketing Specialist",
+      "difficulty": "Entry",
+      "company": "Mailchimp",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Email Optimization",
+      "source": "https://mailchimp.com/careers/marketing-specialist"
+    },
+    {
+      "question": "How do you measure the ROI of a paid search campaign?",
+      "role": "Marketing Specialist",
+      "difficulty": "Entry",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Campaign Analytics",
+      "source": "https://amazon.jobs/en/marketing-specialist"
+    },
+    {
+      "question": "As a Marketing Manager, how would you reposition an underperforming product line?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Repositioning",
+      "source": "https://careers.microsoft.com/marketing-manager-interview"
+    },
+    {
+      "question": "Describe a multi-channel campaign you managed. How did you coordinate across channels?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Nike",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Omni-Channel",
+      "source": "https://nike.com/careers/marketing-manager"
+    },
+    {
+      "question": "How do you set KPIs for a new product launch in a competitive market?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Apple",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "KPI Setting",
+      "source": "https://apple.com/careers/marketing-manager"
+    },
+    {
+      "question": "Tell me about a time you had to cut budget mid-campaign. How did you adjust?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Budget Management",
+      "source": "https://careers.google.com/marketing-manager-interview"
+    },
+    {
+      "question": "How would you launch a loyalty program for a subscription service?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "Product Strategy",
+      "topic": "Loyalty Programs",
+      "source": "https://netflix.com/jobs/marketing-manager"
+    },
+    {
+      "question": "As a Senior Marketing Manager, how have you driven brand awareness in a new market?",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "Coca-Cola",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Brand Launch",
+      "source": "https://coca-colacompany.com/careers/senior-marketing-manager"
+    },
+    {
+      "question": "Describe a data-driven decision you made to improve campaign performance.",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "Spotify",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Data-Driven Marketing",
+      "source": "https://spotifyjobs.com/senior-marketing-manager"
+    },
+    {
+      "question": "How do you mentor junior marketers to develop their strategic thinking?",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "Adobe",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Mentorship",
+      "source": "https://adobe.com/careers/senior-marketing-manager"
+    },
+    {
+      "question": "Tell me about a time you managed a crisis that threatened brand reputation.",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "Facebook",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Crisis Management",
+      "source": "https://barraiser.com/facebook-marketing-interview"
+    },
+    {
+      "question": "How would you optimize ROI across digital and traditional marketing channels?",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "Procter & Gamble",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Channel Optimization",
+      "source": "https://pgcareers.com/senior-marketing-manager"
+    },
+    {
+      "question": "Design a go-to-market plan for a premium skincare line.",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "L’Oréal",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "GTM Planning",
+      "source": "https://loreal.com/careers/director-marketing"
+    },
+    {
+      "question": "Tell me about a time you led cross-functional teams to execute a global campaign.",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "PepsiCo",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Global Coordination",
+      "source": "https://pepsico.com/careers/director-marketing"
+    },
+    {
+      "question": "How do you align your marketing strategy with product and sales objectives?",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2023",
+      "category": "Strategic",
+      "topic": "Alignment",
+      "source": "https://careers.microsoft.com/director-marketing"
+    },
+    {
+      "question": "Describe your approach to building and managing a high-performing marketing team.",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Team Leadership",
+      "source": "https://amazon.jobs/en/director-marketing"
+    },
+    {
+      "question": "As CVP of Marketing, how do you define the long-term brand vision?",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Brand Vision",
+      "source": "https://apple.com/careers/cvp-marketing"
+    },
+    {
+      "question": "Tell me about a time you secured executive buy-in for a radical marketing initiative.",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Executive Influence",
+      "source": "https://netflix.com/careers/cvp-marketing"
+    },
+    {
+      "question": "How would you measure and report the business impact of your marketing spend at the CVP level?",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Procter & Gamble",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Marketing ROI",
+      "source": "https://pgcareers.com/cvp-marketing"
+    },
+    {
+      "question": "Describe your process for leading cross-country market launches simultaneously.",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Coca-Cola",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Global Launch",
+      "source": "https://coca-colacompany.com/careers/cvp-marketing"
+    },
+    {
+      "question": "How do you integrate sustainability and CSR into your marketing strategy?",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Unilever",
+      "year": "2024",
+      "category": "Strategic",
+      "topic": "CSR Integration",
+      "source": "https://unilever.com/careers/cvp-marketing"
+    },
+    {
+      "question": "Tell me about a time you pivoted marketing spend due to unforeseen market shifts.",
+      "role": "CVP of Marketing",
+      "difficulty": "Executive",
+      "company": "Nike",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Agility",
+      "source": "https://nike.com/careers/cvp-marketing"
+    },
+    {
+      "question": "How would you build a multi-year digital transformation roadmap for marketing operations?",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Digital Transformation",
+      "source": "https://ibm.com/careers/director-marketing"
+    },
+    {
+      "question": "Describe your experience running a brand relaunch. What metrics did you track?",
+      "role": "Senior Marketing Manager",
+      "difficulty": "Senior",
+      "company": "PepsiCo",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Brand Relaunch",
+      "source": "https://pepsico.com/careers/senior-marketing-manager"
+    },
+    {
+      "question": "How do you foster innovation and creativity within your marketing team?",
+      "role": "Director of Marketing",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Team Culture",
+      "source": "https://careers.google.com/director-marketing"
+    },
+    {
+      "question": "Tell me about a time you used customer insights to redirect a major campaign.",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Adobe",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Customer Insights",
+      "source": "https://adobe.com/careers/marketing-manager"
+    },
+    {
+      "question": "Estimate the cost savings from moving a print campaign to digital channels.",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Procter & Gamble",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Cost Analysis",
+      "source": "https://pgcareers.com/marketing-manager"
+    },
+    {
+      "question": "How do you manage performance marketing budgets across multiple regions?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Budget Allocation",
+      "source": "https://amazon.jobs/en/marketing-manager"
+    },
+    {
+      "question": "Tell me about a time you implemented an ABM (Account-Based Marketing) strategy. What were the results?",
+      "role": "Marketing Manager",
+      "difficulty": "Mid/Senior",
+      "company": "HubSpot",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "ABM",
+      "source": "https://hubspot.com/careers/marketing-manager"
+    },{
+        "question": "How would you use customer journey mapping to improve conversion rates?",
+        "role": "Marketing Specialist",
+        "difficulty": "Entry",
+        "company": "Shopify",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Customer Journey",
+        "source": "https://shopify.com/careers/marketing-specialist"
+      },
+      {
+        "question": "Tell me about a time you leveraged SEO to drive organic traffic growth.",
+        "role": "Marketing Specialist",
+        "difficulty": "Entry",
+        "company": "Moz",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "SEO Optimization",
+        "source": "https://moz.com/careers/marketing-specialist"
+      },
+      {
+        "question": "Describe your process for A/B testing email subject lines.",
+        "role": "Marketing Specialist",
+        "difficulty": "Entry",
+        "company": "Mailchimp",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "A/B Testing",
+        "source": "https://mailchimp.com/careers/marketing-specialist"
+      },
+      {
+        "question": "How do you select the right influencer partners for a brand campaign?",
+        "role": "Marketing Specialist",
+        "difficulty": "Entry",
+        "company": "TikTok",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Influencer Marketing",
+        "source": "https://tiktok.com/careers/marketing-specialist"
+      },
+      {
+        "question": "Tell me about a time you reduced CPA (cost per acquisition) in a PPC campaign.",
+        "role": "Marketing Specialist",
+        "difficulty": "Entry",
+        "company": "Bing",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "PPC Optimization",
+        "source": "https://bing.com/careers/marketing-specialist"
+      },
+      {
+        "question": "As a Marketing Manager, how would you launch a product during peak season with minimal ad budget?",
+        "role": "Marketing Manager",
+        "difficulty": "Mid",
+        "company": "eBay",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Lean Launch",
+        "source": "https://ebay.com/careers/marketing-manager"
+      },
+      {
+        "question": "Describe a time you used CRM data to personalize a campaign at scale.",
+        "role": "Marketing Manager",
+        "difficulty": "Mid",
+        "company": "Salesforce",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Personalization",
+        "source": "https://salesforce.com/careers/marketing-manager"
+      },
+      {
+        "question": "How do you structure quarterly OKRs for your marketing team?",
+        "role": "Marketing Manager",
+        "difficulty": "Mid",
+        "company": "LinkedIn",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "OKR Setting",
+        "source": "https://linkedin.com/careers/marketing-manager"
+      },
+      {
+        "question": "Tell me about a time you navigated privacy regulations (GDPR/CCPA) in a campaign.",
+        "role": "Marketing Manager",
+        "difficulty": "Mid",
+        "company": "Zoom",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Compliance",
+        "source": "https://zoom.us/careers/marketing-manager"
+      },
+      {
+        "question": "How would you measure brand sentiment before and after a major ad campaign?",
+        "role": "Marketing Manager",
+        "difficulty": "Mid/Senior",
+        "company": "Coca-Cola",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Brand Sentiment",
+        "source": "https://coca-colacompany.com/careers/marketing-manager"
+      },
+      {
+        "question": "As a Senior Marketing Manager, describe a time you drove adoption of a new channel.",
+        "role": "Senior Marketing Manager",
+        "difficulty": "Senior",
+        "company": "Snap",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "New Channel Launch",
+        "source": "https://snap.com/careers/senior-marketing-manager"
+      },
+      {
+        "question": "Tell me about your most successful earned media strategy.",
+        "role": "Senior Marketing Manager",
+        "difficulty": "Senior",
+        "company": "PR Newswire",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Earned Media",
+        "source": "https://prnewswire.com/careers/senior-marketing-manager"
+      },
+      {
+        "question": "How do you integrate user-generated content into your marketing campaigns?",
+        "role": "Senior Marketing Manager",
+        "difficulty": "Senior",
+        "company": "Reddit",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "UGC Strategy",
+        "source": "https://reddit.com/careers/senior-marketing-manager"
+      },
+      {
+        "question": "Describe a time you aligned marketing and sales teams around shared metrics.",
+        "role": "Senior Marketing Manager",
+        "difficulty": "Senior",
+        "company": "HubSpot",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Alignment",
+        "source": "https://hubspot.com/careers/senior-marketing-manager"
+      },
+      {
+        "question": "How would you optimize marketing automation workflows for lead nurturing?",
+        "role": "Senior Marketing Manager",
+        "difficulty": "Senior",
+        "company": "Marketo (Adobe)",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Automation",
+        "source": "https://adobe.com/careers/senior-marketing-manager"
+      },
+      {
+        "question": "As a Director of Marketing, how do you set the brand’s tone of voice globally?",
+        "role": "Director of Marketing",
+        "difficulty": "Executive",
+        "company": "Airbnb",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Brand Voice",
+        "source": "https://airbnb.com/careers/director-marketing"
+      },
+      {
+        "question": "Tell me about a global rebranding you led. What was your framework?",
+        "role": "Director of Marketing",
+        "difficulty": "Executive",
+        "company": "Mastercard",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Rebranding",
+        "source": "https://mastercard.com/careers/director-marketing"
+      },
+      {
+        "question": "Describe how you built a category marketing strategy for a new product vertical.",
+        "role": "Director of Marketing",
+        "difficulty": "Executive",
+        "company": "Microsoft",
+        "year": "2023",
+        "category": "Strategic",
+        "topic": "Category Strategy",
+        "source": "https://careers.microsoft.com/director-marketing"
+      },
+      {
+        "question": "How would you allocate a $10M marketing budget across channels for maximum ROI?",
+        "role": "Director of Marketing",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Budget Allocation",
+        "source": "https://amazon.jobs/en/director-marketing"
+      },
+      {
+        "question": "As CVP of Marketing, how do you drive marketing transformation in a legacy organization?",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Transformation",
+        "source": "https://ibm.com/careers/cvp-marketing"
+      },
+      {
+        "question": "Tell me about a time you navigated a major brand crisis. How did you lead the response?",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Johnson & Johnson",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Crisis Leadership",
+        "source": "https://jnj.com/careers/cvp-marketing"
+      },
+      {
+        "question": "Describe your approach to integrating AI-driven personalization across marketing channels.",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Salesforce",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "AI Personalization",
+        "source": "https://salesforce.com/careers/cvp-marketing"
+      },
+      {
+        "question": "How would you measure the long-term brand equity impact of your initiatives?",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Nike",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Brand Equity",
+        "source": "https://nike.com/careers/cvp-marketing"
+      },
+      {
+        "question": "Tell me about a time you led cross-industry partnerships to expand market reach.",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Disney",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Partnerships",
+        "source": "https://disneycareers.com/cvp-marketing"
+      },
+      {
+        "question": "Describe your process for cultivating a performance-driven marketing culture.",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2023",
+        "category": "Behavioral",
+        "topic": "Culture Building",
+        "source": "https://careers.google.com/cvp-marketing"
+      },
+      {
+        "question": "How do you ensure your marketing organization stays ahead of digital trends?",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Meta",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Trendspotting",
+        "source": "https://barraiser.com/meta-cvp-marketing"
+      },
+      {
+        "question": "Tell me about a time you optimized a multi-million-dollar marketing tech stack.",
+        "role": "CVP of Marketing",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "MarTech Optimization",
+        "source": "https://amazon.jobs/en/cvp-marketing"
+      }
+    ]
+  
