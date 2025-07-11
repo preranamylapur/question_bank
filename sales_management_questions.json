@@ -1,0 +1,633 @@
+[
+    {
+      "question": "How do you prioritize accounts in your sales pipeline to maximize revenue?",
+      "role": "Account Executive",
+      "difficulty": "Entry",
+      "company": "Salesforce",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Pipeline Prioritization",
+      "source": "https://salesforce.com/careers/account-executive"
+    },
+    {
+      "question": "Describe a time you turned a stalled deal into a closed-won opportunity.",
+      "role": "Account Executive",
+      "difficulty": "Entry",
+      "company": "HubSpot",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Deal Rescue",
+      "source": "https://hubspot.com/careers/account-executive"
+    },
+    {
+      "question": "Tell me about your approach to consultative selling with SMB clients.",
+      "role": "Account Executive",
+      "difficulty": "Entry",
+      "company": "Zendesk",
+      "year": "2023",
+      "category": "Technical",
+      "topic": "Consultative Selling",
+      "source": "https://zendesk.com/careers/account-executive"
+    },
+    {
+      "question": "How would you handle a pricing objection from a key prospect?",
+      "role": "Account Executive",
+      "difficulty": "Entry",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Objection Handling",
+      "source": "https://oracle.com/careers/account-executive"
+    },
+    {
+      "question": "Describe your process for qualifying leads quickly in a high-volume environment.",
+      "role": "Account Executive",
+      "difficulty": "Entry",
+      "company": "Twilio",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Lead Qualification",
+      "source": "https://twilio.com/careers/account-executive"
+    },
+    {
+      "question": "How have you used CRM analytics to improve your win rate?",
+      "role": "Account Executive",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "CRM Analytics",
+      "source": "https://careers.microsoft.com/account-executive"
+    },
+    {
+      "question": "Tell me about a time you upsold a current customer on additional products.",
+      "role": "Account Executive",
+      "difficulty": "Mid",
+      "company": "Adobe",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Upselling",
+      "source": "https://adobe.com/careers/account-executive"
+    },
+    {
+      "question": "As an Account Executive, how do you balance prospecting with existing pipeline management?",
+      "role": "Account Executive",
+      "difficulty": "Mid",
+      "company": "Zoom",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Time Management",
+      "source": "https://zoom.us/careers/account-executive"
+    },
+    {
+      "question": "Describe how you leverage social selling tools to engage prospects.",
+      "role": "Account Executive",
+      "difficulty": "Mid",
+      "company": "LinkedIn",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Social Selling",
+      "source": "https://linkedin.com/careers/account-executive"
+    },
+    {
+      "question": "Tell me about a time you beat your quarterly quota—what strategies did you use?",
+      "role": "Account Executive",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Quota Achievement",
+      "source": "https://careers.google.com/account-executive"
+    },
+    {
+      "question": "How would you coach a new Account Executive to improve their close rate?",
+      "role": "Sales Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Leadership",
+      "topic": "Coaching",
+      "source": "https://amazon.jobs/en/sales-manager"
+    },
+    {
+      "question": "Describe your process for setting annual sales targets for your team.",
+      "role": "Sales Manager",
+      "difficulty": "Mid",
+      "company": "IBM",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Target Setting",
+      "source": "https://ibm.com/careers/sales-manager"
+    },
+    {
+      "question": "Tell me about a time you implemented a new sales playbook—what was the outcome?",
+      "role": "Sales Manager",
+      "difficulty": "Mid",
+      "company": "Cisco",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Playbook Development",
+      "source": "https://cisco.com/careers/sales-manager"
+    },
+    {
+      "question": "As a Sales Manager, how do you forecast pipeline health accurately?",
+      "role": "Sales Manager",
+      "difficulty": "Mid",
+      "company": "SAP",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Forecasting",
+      "source": "https://sap.com/careers/sales-manager"
+    },
+    {
+      "question": "How do you motivate a sales team during a market downturn?",
+      "role": "Sales Manager",
+      "difficulty": "Mid/Senior",
+      "company": "Workday",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Team Motivation",
+      "source": "https://workday.com/careers/sales-manager"
+    },
+    {
+      "question": "Describe your approach to territory design and assignment.",
+      "role": "Sales Manager",
+      "difficulty": "Senior",
+      "company": "ServiceNow",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Territory Management",
+      "source": "https://servicenow.com/careers/sales-manager"
+    },
+    {
+      "question": "Tell me about a time you restructured compensation to drive behavior change.",
+      "role": "Sales Manager",
+      "difficulty": "Senior",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Compensation Planning",
+      "source": "https://oracle.com/careers/sales-manager"
+    },
+    {
+      "question": "How would you implement a CRM rollout across a global sales org?",
+      "role": "Sales Manager",
+      "difficulty": "Senior",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "CRM Implementation",
+      "source": "https://careers.microsoft.com/sales-manager"
+    },
+    {
+      "question": "Describe a time you resolved conflict between sales and marketing teams.",
+      "role": "Sales Manager",
+      "difficulty": "Senior",
+      "company": "Slack",
+      "year": "2023",
+      "category": "Behavioral",
+      "topic": "Cross-Functional Alignment",
+      "source": "https://slack.com/careers/sales-manager"
+    },
+    {
+      "question": "As a Senior Sales Manager, how did you scale a new vertical from scratch?",
+      "role": "Senior Sales Manager",
+      "difficulty": "Senior",
+      "company": "Adobe",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Vertical Expansion",
+      "source": "https://adobe.com/careers/senior-sales-manager"
+    },
+    {
+      "question": "Tell me about your most successful channel partnership strategy.",
+      "role": "Senior Sales Manager",
+      "difficulty": "Senior",
+      "company": "Cisco",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Channel Partnerships",
+      "source": "https://cisco.com/careers/senior-sales-manager"
+    },
+    {
+      "question": "How would you build a high-performing SDR team in a new region?",
+      "role": "Senior Sales Manager",
+      "difficulty": "Senior",
+      "company": "Salesforce",
+      "year": "2023",
+      "category": "Leadership",
+      "topic": "Team Building",
+      "source": "https://salesforce.com/careers/senior-sales-manager"
+    },
+    {
+      "question": "Describe a time you leveraged AI tools to improve sales efficiency.",
+      "role": "Senior Sales Manager",
+      "difficulty": "Senior",
+      "company": "Google",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "AI in Sales",
+      "source": "https://careers.google.com/senior-sales-manager"
+    },
+    {
+      "question": "Tell me about how you managed a multi-million dollar pipeline forecast.",
+      "role": "Senior Sales Manager",
+      "difficulty": "Senior",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Pipeline Forecasting",
+      "source": "https://amazon.jobs/en/senior-sales-manager"
+    },
+    {
+      "question": "As a Director of Sales, how do you align sales strategy with overall business goals?",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Strategic Alignment",
+      "source": "https://ibm.com/careers/director-of-sales"
+    },
+    {
+      "question": "Describe a global sales transformation program you led.",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Transformation",
+      "source": "https://careers.microsoft.com/director-of-sales"
+    },
+    {
+      "question": "How would you allocate a $50M sales budget across regions for maximum growth?",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "Amazon",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Budget Allocation",
+      "source": "https://amazon.jobs/en/director-of-sales"
+    },
+    {
+      "question": "Tell me about a time you negotiated a global reseller agreement.",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Contract Negotiation",
+      "source": "https://oracle.com/careers/director-of-sales"
+    },
+    {
+      "question": "Describe your framework for building a high-velocity sales organization.",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "Workbench",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Org Design",
+      "source": "https://workbench.com/careers/director-of-sales"
+    },
+    {
+      "question": "How have you driven cross-selling initiatives across multiple product lines?",
+      "role": "Director of Sales",
+      "difficulty": "Executive",
+      "company": "SAP",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Cross-Selling",
+      "source": "https://sap.com/careers/director-of-sales"
+    },
+    {
+      "question": "As CVP of Sales, how would you lead go-to-market strategy for a newly acquired company?",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "Cisco",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "M&A Integration",
+      "source": "https://cisco.com/careers/cvp-of-sales"
+    },
+    {
+      "question": "Tell me about a time you transformed sales culture in a legacy organization.",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Culture Change",
+      "source": "https://ibm.com/careers/cvp-of-sales"
+    },
+    {
+      "question": "Describe your approach to building global partner ecosystems at scale.",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "Microsoft",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Partner Ecosystem",
+      "source": "https://careers.microsoft.com/cvp-of-sales"
+    },
+    {
+      "question": "How would you measure the long-term revenue impact of channel programs?",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "Oracle",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Program Measurement",
+      "source": "https://oracle.com/careers/cvp-of-sales"
+    },
+    {
+      "question": "Tell me about a time you navigated complex compliance in a regulated market.",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "Johnson & Johnson",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Compliance",
+      "source": "https://jnj.com/careers/cvp-of-sales"
+    },
+    {
+      "question": "Describe a multi-year sales transformation roadmap you developed.",
+      "role": "CVP of Sales",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2023",
+      "category": "Strategic",
+      "topic": "Roadmap Planning",
+      "source": "https://careers.google.com/cvp-of-sales"
+    },{
+        "question": "How do you design a sales retention program to reduce customer churn?",
+        "role": "Account Executive",
+        "difficulty": "Entry",
+        "company": "Spotify",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Churn Reduction",
+        "source": "https://spotify.com/careers/account-executive"
+      },
+      {
+        "question": "Describe your method for expanding an existing account by identifying cross-sell opportunities.",
+        "role": "Account Executive",
+        "difficulty": "Entry",
+        "company": "Dropbox",
+        "year": "2024",
+        "category": "Execution",
+        "topic": "Account Expansion",
+        "source": "https://dropbox.com/careers/account-executive"
+      },
+      {
+        "question": "Tell me about a time you used data analytics to improve your forecast accuracy.",
+        "role": "Account Executive",
+        "difficulty": "Entry",
+        "company": "Snowflake",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Forecasting",
+        "source": "https://snowflake.com/careers/account-executive"
+      },
+      {
+        "question": "How would you adapt your sales pitch for a highly regulated industry?",
+        "role": "Account Executive",
+        "difficulty": "Entry",
+        "company": "Medtronic",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Regulated Industry Sales",
+        "source": "https://medtronic.com/careers/account-executive"
+      },
+      {
+        "question": "Describe how you use customer segmentation to prioritize outreach.",
+        "role": "Account Executive",
+        "difficulty": "Mid",
+        "company": "Atlassian",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Segmentation",
+        "source": "https://atlassian.com/careers/account-executive"
+      },
+      {
+        "question": "Tell me about a time you built rapport with an executive sponsor to close a deal.",
+        "role": "Account Executive",
+        "difficulty": "Mid",
+        "company": "Workday",
+        "year": "2023",
+        "category": "Behavioral",
+        "topic": "Executive Selling",
+        "source": "https://workday.com/careers/account-executive"
+      },
+      {
+        "question": "How do you maintain pipeline hygiene and prevent opportunities from aging out?",
+        "role": "Account Executive",
+        "difficulty": "Mid",
+        "company": "Slack",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Pipeline Management",
+        "source": "https://slack.com/careers/account-executive"
+      },
+      {
+        "question": "Describe your approach to handling channel conflict between direct and partner sales.",
+        "role": "Sales Manager",
+        "difficulty": "Mid",
+        "company": "VMware",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Channel Conflict",
+        "source": "https://vmware.com/careers/sales-manager"
+      },
+      {
+        "question": "As a Sales Manager, how would you structure your team’s sprint planning process?",
+        "role": "Sales Manager",
+        "difficulty": "Mid",
+        "company": "Spotify",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Agile Sales",
+        "source": "https://spotify.com/careers/sales-manager"
+      },
+      {
+        "question": "Tell me about a time you designed sales incentives to align with business KPIs.",
+        "role": "Sales Manager",
+        "difficulty": "Mid/Senior",
+        "company": "HP",
+        "year": "2025",
+        "category": "Analytical",
+        "topic": "Incentive Design",
+        "source": "https://hp.com/careers/sales-manager"
+      },
+      {
+        "question": "How would you implement a gamification element in your sales contest?",
+        "role": "Sales Manager",
+        "difficulty": "Senior",
+        "company": "Shopify",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Gamification",
+        "source": "https://shopify.com/careers/sales-manager"
+      },
+      {
+        "question": "Describe a time you partnered with Customer Success to improve renewal rates.",
+        "role": "Sales Manager",
+        "difficulty": "Senior",
+        "company": "Zendesk",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Renewal Management",
+        "source": "https://zendesk.com/careers/sales-manager"
+      },
+      {
+        "question": "As a Senior Sales Manager, how have you used predictive modeling to identify at-risk accounts?",
+        "role": "Senior Sales Manager",
+        "difficulty": "Senior",
+        "company": "Tableau",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Churn Prediction",
+        "source": "https://tableau.com/careers/senior-sales-manager"
+      },
+      {
+        "question": "Tell me about a time you optimized your territory rotation to balance workload.",
+        "role": "Senior Sales Manager",
+        "difficulty": "Senior",
+        "company": "Splunk",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Territory Management",
+        "source": "https://splunk.com/careers/senior-sales-manager"
+      },
+      {
+        "question": "How would you lead a win-loss analysis program to improve your team’s conversion rate?",
+        "role": "Senior Sales Manager",
+        "difficulty": "Senior",
+        "company": "ServiceNow",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Win-Loss Analysis",
+        "source": "https://servicenow.com/careers/senior-sales-manager"
+      },
+      {
+        "question": "Describe your process for onboarding and ramping new Sales Development Reps.",
+        "role": "Senior Sales Manager",
+        "difficulty": "Senior",
+        "company": "LinkedIn",
+        "year": "2025",
+        "category": "Leadership",
+        "topic": "Onboarding",
+        "source": "https://linkedin.com/careers/senior-sales-manager"
+      },
+      {
+        "question": "As a Director of Sales, how do you establish sales enablement frameworks at scale?",
+        "role": "Director of Sales",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Sales Enablement",
+        "source": "https://careers.google.com/director-of-sales"
+      },
+      {
+        "question": "Tell me about a multi-million dollar RFP response you led—what was your approach?",
+        "role": "Director of Sales",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "RFP Management",
+        "source": "https://ibm.com/careers/director-of-sales"
+      },
+      {
+        "question": "How would you structure an executive-level deal review to drive accountability?",
+        "role": "Director of Sales",
+        "difficulty": "Executive",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Leadership",
+        "topic": "Deal Review",
+        "source": "https://amazon.jobs/en/director-of-sales"
+      },
+      {
+        "question": "Describe a time you negotiated complex contract terms to protect your company.",
+        "role": "Director of Sales",
+        "difficulty": "Executive",
+        "company": "Oracle",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Contract Negotiation",
+        "source": "https://oracle.com/careers/director-of-sales"
+      },
+      {
+        "question": "As CVP of Sales, how would you map and optimize your global sales tech stack?",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Microsoft",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Tech Stack Optimization",
+        "source": "https://careers.microsoft.com/cvp-of-sales"
+      },
+      {
+        "question": "Tell me about a time you resolved partner incentive misalignment at the executive level.",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Cisco",
+        "year": "2025",
+        "category": "Behavioral",
+        "topic": "Partner Incentives",
+        "source": "https://cisco.com/careers/cvp-of-sales"
+      },
+      {
+        "question": "Describe your approach to value-based selling when premium pricing is challenged.",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Adobe",
+        "year": "2024",
+        "category": "Strategy",
+        "topic": "Value Selling",
+        "source": "https://adobe.com/careers/cvp-of-sales"
+      },
+      {
+        "question": "How would you lead a cross-cultural sales team across APAC and EMEA?",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Salesforce",
+        "year": "2023",
+        "category": "Leadership",
+        "topic": "Global Team Management",
+        "source": "https://salesforce.com/careers/cvp-of-sales"
+      },
+      {
+        "question": "Tell me about a time you built a multi-year sales roadmap to drive strategic growth.",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Roadmap Planning",
+        "source": "https://ibm.com/careers/cvp-of-sales"
+      },
+      {
+        "question": "Describe how you use competitive intelligence to win in saturated markets.",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Google",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Competitive Strategy",
+        "source": "https://careers.google.com/cvp-of-sales"
+      },
+      {
+        "question": "As CVP of Sales, how would you integrate Customer Success metrics into your sales KPIs?",
+        "role": "CVP of Sales",
+        "difficulty": "Executive",
+        "company": "Zendesk",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "Cross-Functional Metrics",
+        "source": "https://zendesk.com/careers/cvp-of-sales"
+      }
+    ]
+  
+  
