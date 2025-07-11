@@ -1,0 +1,722 @@
+[
+    {
+      "question": "How would you coordinate daily shipping schedules to meet fluctuating demand?",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "FedEx",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "Logistics Scheduling",
+      "source": "https://fedex.com/careers/operations-coordinator"
+    },
+    {
+      "question": "Describe a time you improved accuracy in inventory counts at a warehouse.",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "Walmart",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Inventory Management",
+      "source": "https://walmartcareers.com/operations-coordinator"
+    },
+    {
+      "question": "Tell me about your process for tracking vendor performance metrics.",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "Dell",
+      "year": "2023",
+      "category": "Technical",
+      "topic": "Vendor Management",
+      "source": "https://jobs.dell.com/operations-coordinator"
+    },
+    {
+      "question": "How do you ensure compliance with safety protocols on the shop floor?",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "Boeing",
+      "year": "2025",
+      "category": "Compliance",
+      "topic": "Safety Management",
+      "source": "https://boeing.com/careers/operations-coordinator"
+    },
+    {
+      "question": "Describe how you monitor production KPIs and report them to stakeholders.",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "Toyota",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "KPI Reporting",
+      "source": "https://toyota.com/careers/operations-coordinator"
+    },
+    {
+      "question": "As an Operations Manager, how would you implement a lean process improvement initiative?",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Lean Six Sigma",
+      "source": "https://amazon.jobs/en/operations-manager"
+    },
+    {
+      "question": "Tell me about a time you optimized vendor lead times to reduce stockouts.",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Apple",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Supply Chain Optimization",
+      "source": "https://apple.com/careers/operations-manager"
+    },
+    {
+      "question": "How do you forecast capacity needs for a manufacturing line?",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Intel",
+      "year": "2023",
+      "category": "Analytical",
+      "topic": "Capacity Planning",
+      "source": "https://intel.com/careers/operations-manager"
+    },
+    {
+      "question": "Describe your approach to managing cross-functional stakeholder communication.",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Microsoft",
+      "year": "2025",
+      "category": "Behavioral",
+      "topic": "Cross-Functional Collaboration",
+      "source": "https://careers.microsoft.com/operations-manager"
+    },
+    {
+      "question": "How have you used automation tools to streamline order fulfillment?",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Shopify",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "Process Automation",
+      "source": "https://shopify.com/careers/operations-manager"
+    },
+    {
+      "question": "As a Senior Operations Manager, how would you lead a cost-reduction program without sacrificing quality?",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Tesla",
+      "year": "2025",
+      "category": "Strategy",
+      "topic": "Cost Optimization",
+      "source": "https://tesla.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "Describe a time you managed a major supplier risk event and maintained production continuity.",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Pfizer",
+      "year": "2024",
+      "category": "Risk Management",
+      "topic": "Business Continuity",
+      "source": "https://pfizer.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "How would you redesign a warehouse layout to improve picking efficiency?",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Amazon",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Warehouse Management",
+      "source": "https://amazon.jobs/en/senior-operations-manager"
+    },
+    {
+      "question": "Tell me about your use of data analytics to identify process bottlenecks.",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Netflix",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Bottleneck Analysis",
+      "source": "https://jobs.netflix.com/operations/senior-operations-manager"
+    },
+    {
+      "question": "Describe your role in leading a Kaizen event—what improvements resulted?",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Toyota",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Continuous Improvement",
+      "source": "https://toyota.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "As a Director of Operations, how would you align operations strategy with corporate goals?",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Google",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Strategic Alignment",
+      "source": "https://careers.google.com/director-of-operations"
+    },
+    {
+      "question": "Tell me about a global process standardization initiative you led.",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Process Standardization",
+      "source": "https://ibm.com/careers/director-of-operations"
+    },
+    {
+      "question": "How would you evaluate and implement a new ERP system across multiple sites?",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "SAP",
+      "year": "2023",
+      "category": "Technical",
+      "topic": "ERP Implementation",
+      "source": "https://sap.com/careers/director-of-operations"
+    },
+    {
+      "question": "Describe a time you managed a multi-site budget and achieved savings targets.",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Unilever",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Budget Management",
+      "source": "https://unilever.com/careers/director-of-operations"
+    },
+    {
+      "question": "As CVP of Operations, how would you drive digital transformation in a legacy manufacturing network?",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "GE",
+      "year": "2025",
+      "category": "Strategic",
+      "topic": "Digital Transformation",
+      "source": "https://ge.com/careers/cvp-of-operations"
+    },
+    {
+      "question": "Tell me about your approach to building a resilient global supply chain.",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "Apple",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Supply Chain Resilience",
+      "source": "https://apple.com/careers/cvp-of-operations"
+    },
+    {
+      "question": "Describe how you integrated sustainability initiatives into operations processes.",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "Nike",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "Sustainable Operations",
+      "source": "https://jobs.nike.com/cvp-of-operations"
+    },
+    {
+      "question": "How would you manage the operational integration of a recent acquisition?",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "Cisco",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "M&A Integration",
+      "source": "https://cisco.com/careers/cvp-of-operations"
+    },
+    {
+      "question": "Tell me about a time you standardized KPI frameworks across multiple business units.",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Procter & Gamble",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "KPI Standardization",
+      "source": "https://pgcareers.com/director-of-operations"
+    },
+    {
+      "question": "Describe your process for crisis management during a supply chain disruption.",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Johnson & Johnson",
+      "year": "2023",
+      "category": "Risk Management",
+      "topic": "Crisis Response",
+      "source": "https://jnj.com/careers/director-of-operations"
+    },
+    {
+      "question": "As an Operations Manager, how do you implement Takt time and line balancing?",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Ford",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Manufacturing Efficiency",
+      "source": "https://ford.com/careers/operations-manager"
+    },
+    {
+      "question": "Tell me about a time you used root cause analysis to solve a recurring defect.",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "3M",
+      "year": "2024",
+      "category": "Analytical",
+      "topic": "Root Cause Analysis",
+      "source": "https://3m.com/careers/operations-manager"
+    },
+    {
+      "question": "How would you design a continuous improvement roadmap for your team?",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "HP",
+      "year": "2023",
+      "category": "Strategy",
+      "topic": "CI Roadmap",
+      "source": "https://hp.com/careers/operations-manager"
+    },
+    {
+      "question": "Describe your experience managing a third-party logistics partner.",
+      "role": "Operations Coordinator",
+      "difficulty": "Entry",
+      "company": "DHL",
+      "year": "2025",
+      "category": "Execution",
+      "topic": "3PL Management",
+      "source": "https://dhl.com/careers/operations-coordinator"
+    },
+    {
+      "question": "As a Senior Operations Manager, how have you leveraged IoT sensors for real-time tracking?",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "Siemens",
+      "year": "2024",
+      "category": "Technical",
+      "topic": "IoT in Operations",
+      "source": "https://siemens.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "Tell me about a time you reduced lead times through process simplification.",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "PepsiCo",
+      "year": "2023",
+      "category": "Execution",
+      "topic": "Lead Time Reduction",
+      "source": "https://pepsico.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "How would you implement robotic process automation in back-office operations?",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Accenture",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "RPA Deployment",
+      "source": "https://accenture.com/careers/director-of-operations"
+    },
+    {
+      "question": "Describe your strategy for managing seasonal spikes in order volume.",
+      "role": "Operations Manager",
+      "difficulty": "Mid",
+      "company": "Airbnb",
+      "year": "2024",
+      "category": "Strategy",
+      "topic": "Demand Planning",
+      "source": "https://airbnb.com/careers/operations-manager"
+    },
+    {
+      "question": "As CVP of Operations, how would you set up a Center of Excellence for process excellence?",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "IBM",
+      "year": "2023",
+      "category": "Strategic",
+      "topic": "CoE Establishment",
+      "source": "https://ibm.com/careers/cvp-of-operations"
+    },
+    {
+      "question": "Tell me about your most successful operational scaling initiative for a high-growth business.",
+      "role": "CVP of Operations",
+      "difficulty": "Executive",
+      "company": "Uber",
+      "year": "2024",
+      "category": "Execution",
+      "topic": "Operational Scaling",
+      "source": "https://uber.com/careers/cvp-of-operations"
+    },
+    {
+      "question": "Describe how you used advanced analytics to drive predictive maintenance.",
+      "role": "Senior Operations Manager",
+      "difficulty": "Senior",
+      "company": "GE",
+      "year": "2025",
+      "category": "Technical",
+      "topic": "Predictive Maintenance",
+      "source": "https://ge.com/careers/senior-operations-manager"
+    },
+    {
+      "question": "How would you integrate sustainability KPIs into your operational dashboards?",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Unilever",
+      "year": "2025",
+      "category": "Analytical",
+      "topic": "Sustainability Metrics",
+      "source": "https://unilever.com/careers/director-of-operations"
+    },
+    {
+      "question": "Tell me about a time you led change management for a major process overhaul.",
+      "role": "Director of Operations",
+      "difficulty": "Executive",
+      "company": "Ford",
+      "year": "2024",
+      "category": "Behavioral",
+      "topic": "Change Management",
+      "source": "https://ford.com/careers/director-of-operations"
+    },{
+        "question": "How would you streamline the returns and reverse logistics process to minimize losses?",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "UPS",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Reverse Logistics",
+        "source": "https://ups.com/careers/operations-coordinator"
+      },
+      {
+        "question": "Describe your approach to coordinating cross-dock operations on tight timelines.",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "Target",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Cross-Docking",
+        "source": "https://target.com/careers/operations-coordinator"
+      },
+      {
+        "question": "Tell me about a time you scheduled preventive maintenance to avoid unplanned downtime.",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "GM",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Preventive Maintenance",
+        "source": "https://gm.com/careers/operations-coordinator"
+      },
+      {
+        "question": "How have you implemented a kanban system on a small production line?",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "Toyota",
+        "year": "2025",
+        "category": "Process Improvement",
+        "topic": "Kanban",
+        "source": "https://toyota.com/careers/operations-coordinator"
+      },
+      {
+        "question": "Describe how you monitor daily KPIs using operational dashboards.",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "Costco",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "KPI Monitoring",
+        "source": "https://costco.com/careers/operations-coordinator"
+      },
+      {
+        "question": "Tell me about your process for handling customer order exceptions in a timely manner.",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "Best Buy",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Exception Management",
+        "source": "https://bestbuy.com/careers/operations-coordinator"
+      },
+      {
+        "question": "How do you coordinate inter-departmental shipments to meet urgent requests?",
+        "role": "Operations Coordinator",
+        "difficulty": "Entry",
+        "company": "FedEx",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Shipment Coordination",
+        "source": "https://fedex.com/careers/operations-coordinator"
+      },
+      {
+        "question": "As an Operations Manager, how would you reduce lead time using value-stream mapping?",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Strategy",
+        "topic": "Value-Stream Mapping",
+        "source": "https://amazon.jobs/en/operations-manager"
+      },
+      {
+        "question": "Describe your experience implementing just-in-time inventory in a manufacturing setting.",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "Ford",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "JIT Inventory",
+        "source": "https://ford.com/careers/operations-manager"
+      },
+      {
+        "question": "Tell me about a time you negotiated a cost-saving agreement with a 3PL provider.",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "DHL",
+        "year": "2023",
+        "category": "Analytical",
+        "topic": "3PL Management",
+        "source": "https://dhl.com/careers/operations-manager"
+      },
+      {
+        "question": "How have you developed and rolled out standard operating procedures (SOPs) across teams?",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "Intel",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "SOP Development",
+        "source": "https://intel.com/careers/operations-manager"
+      },
+      {
+        "question": "Describe your approach to leading daily operations stand-ups to drive accountability.",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "Shopify",
+        "year": "2024",
+        "category": "Behavioral",
+        "topic": "Team Communication",
+        "source": "https://shopify.com/careers/operations-manager"
+      },
+      {
+        "question": "Tell me about a successful vendor negotiation you led for volume discounts.",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "Nestlé",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Vendor Negotiation",
+        "source": "https://nestle.com/careers/operations-manager"
+      },
+      {
+        "question": "How would you implement ISO 9001 quality management processes in a new facility?",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "3M",
+        "year": "2025",
+        "category": "Compliance",
+        "topic": "Quality Management",
+        "source": "https://3m.com/careers/operations-manager"
+      },
+      {
+        "question": "Describe how you track Overall Equipment Effectiveness (OEE) and address low-performing assets.",
+        "role": "Operations Manager",
+        "difficulty": "Mid",
+        "company": "GE",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "OEE Monitoring",
+        "source": "https://ge.com/careers/operations-manager"
+      },
+      {
+        "question": "Tell me about a time you launched a new production line under budget and on schedule.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Tesla",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Line Launch",
+        "source": "https://tesla.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "How have you ensured compliance with global customs regulations in cross-border logistics?",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Coca-Cola",
+        "year": "2024",
+        "category": "Compliance",
+        "topic": "Customs Compliance",
+        "source": "https://coca-cola.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "Describe your strategy for scaling warehouse operations during peak season.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Target",
+        "year": "2023",
+        "category": "Strategy",
+        "topic": "Peak Season Planning",
+        "source": "https://target.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "Tell me about a risk mitigation program you designed for a critical supplier.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Pfizer",
+        "year": "2025",
+        "category": "Risk Management",
+        "topic": "Supplier Risk",
+        "source": "https://pfizer.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "How would you integrate robotics into an existing assembly line to boost throughput?",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Siemens",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "Robotics Integration",
+        "source": "https://siemens.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "Describe how you managed remote or flexible workforce scheduling across plants.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2023",
+        "category": "Behavioral",
+        "topic": "Workforce Management",
+        "source": "https://ibm.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "Tell me about your experience piloting digital twin simulations for process optimization.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "Technical",
+        "topic": "Digital Twin",
+        "source": "https://careers.microsoft.com/senior-operations-manager"
+      },
+      {
+        "question": "How have you led a cross-functional operations council to improve end-to-end flow?",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Procter & Gamble",
+        "year": "2024",
+        "category": "Leadership",
+        "topic": "Cross-Functional Governance",
+        "source": "https://pg.com/careers/senior-operations-manager"
+      },
+      {
+        "question": "Describe a successful project where you optimized reverse logistics to cut costs.",
+        "role": "Senior Operations Manager",
+        "difficulty": "Senior",
+        "company": "Walmart",
+        "year": "2023",
+        "category": "Execution",
+        "topic": "Reverse Logistics",
+        "source": "https://walmartcareers.com/senior-operations-manager"
+      },
+      {
+        "question": "As a Director of Operations, how would you design a global operations strategy for a new product line?",
+        "role": "Director of Operations",
+        "difficulty": "Executive",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Global Strategy",
+        "source": "https://apple.com/careers/director-of-operations"
+      },
+      {
+        "question": "Tell me about a time you balanced CAPEX and OPEX budgets across multiple facilities.",
+        "role": "Director of Operations",
+        "difficulty": "Executive",
+        "company": "Unilever",
+        "year": "2024",
+        "category": "Analytical",
+        "topic": "Budget Balancing",
+        "source": "https://unilever.com/careers/director-of-operations"
+      },
+      {
+        "question": "Describe your approach to leading supplier audits and ensuring corrective actions are implemented.",
+        "role": "Director of Operations",
+        "difficulty": "Executive",
+        "company": "Johnson & Johnson",
+        "year": "2023",
+        "category": "Technical",
+        "topic": "Supplier Audits",
+        "source": "https://jnj.com/careers/director-of-operations"
+      },
+      {
+        "question": "How would you develop and test a disaster recovery plan for critical operations?",
+        "role": "Director of Operations",
+        "difficulty": "Executive",
+        "company": "Cisco",
+        "year": "2025",
+        "category": "Risk Management",
+        "topic": "Disaster Recovery",
+        "source": "https://cisco.com/careers/director-of-operations"
+      },
+      {
+        "question": "Tell me about your experience managing a portfolio of manufacturing sites across regions.",
+        "role": "Director of Operations",
+        "difficulty": "Executive",
+        "company": "Toyota",
+        "year": "2024",
+        "category": "Leadership",
+        "topic": "Site Portfolio Management",
+        "source": "https://toyota.com/careers/director-of-operations"
+      },
+      {
+        "question": "As CVP of Operations, how would you drive an enterprise-wide lean transformation?",
+        "role": "CVP of Operations",
+        "difficulty": "Executive",
+        "company": "GE",
+        "year": "2025",
+        "category": "Strategic",
+        "topic": "Lean Transformation",
+        "source": "https://ge.com/careers/cvp-of-operations"
+      },
+      {
+        "question": "Describe how you would align operations with a new corporate digital strategy.",
+        "role": "CVP of Operations",
+        "difficulty": "Executive",
+        "company": "Accenture",
+        "year": "2024",
+        "category": "Strategic",
+        "topic": "Digital Alignment",
+        "source": "https://accenture.com/careers/cvp-of-operations"
+      },
+      {
+        "question": "Tell me about your role in achieving ISO 14001 certification across global plants.",
+        "role": "CVP of Operations",
+        "difficulty": "Executive",
+        "company": "Nike",
+        "year": "2023",
+        "category": "Compliance",
+        "topic": "Environmental Certification",
+        "source": "https://jobs.nike.com/cvp-of-operations"
+      },
+      {
+        "question": "How would you set up a global shared-services center to optimize back-office operations?",
+        "role": "CVP of Operations",
+        "difficulty": "Executive",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Execution",
+        "topic": "Shared Services",
+        "source": "https://ibm.com/careers/cvp-of-operations"
+      },
+      {
+        "question": "Describe your process for operational due-diligence during a merger or acquisition.",
+        "role": "CVP of Operations",
+        "difficulty": "Executive",
+        "company": "Cisco",
+        "year": "2024",
+        "category": "Technical",
+        "topic": "M&A Due-Diligence",
+        "source": "https://cisco.com/careers/cvp-of-operations"
+      }
+    ]
+  
