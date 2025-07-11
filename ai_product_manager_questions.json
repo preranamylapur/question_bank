@@ -1,0 +1,898 @@
+[
+    {
+      "question": "How do you manage the lifecycle of an AI project from ideation to deployment?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Project Lifecycle",
+      "source": "https://careers.google.com/ai-technical"
+    },
+    {
+      "question": "How do you handle model accuracy vs. delivery speed when shipping new ML models?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Accuracy vs Delivery",
+      "source": "https://amazon.jobs/ai-technical"
+    },
+    {
+      "question": "Explain the concept of overfitting and underfitting in machine learning models. How can you address these issues?",
+      "role": "AI Product Manager",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Overfitting vs Underfitting",
+      "source": "https://careers.microsoft.com/ai-technical"
+    },
+    {
+      "question": "Describe your experience with managing data pipelines for AI projects. How do you ensure data quality and scalability?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Meta",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Data Pipelines",
+      "source": "https://meta.com/careers/ai-technical"
+    },
+    {
+      "question": "What strategies do you use for hyperparameter tuning in machine learning models?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Apple",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Hyperparameter Tuning",
+      "source": "https://apple.com/careers/ai-technical"
+    },
+    {
+      "question": "How do you ensure continuous improvement of AI models post-deployment?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Uber",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Model Improvement",
+      "source": "https://uber.com/careers/ai-technical"
+    },
+    {
+      "question": "How would you finetune a trained model?",
+      "role": "AI Product Manager",
+      "difficulty": "Entry",
+      "company": "Netflix",
+      "year": "2023",
+      "category": "AI Technical",
+      "topic": "Model Finetuning",
+      "source": "https://jobs.netflix.com/ai-technical"
+    },
+    {
+      "question": "Describe a situation where you had to implement real-time AI processing. What challenges did you face?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Twitter",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Real-Time Processing",
+      "source": "https://careers.twitter.com/ai-technical"
+    },
+    {
+      "question": "How do you handle class imbalance in a dataset for an AI project?",
+      "role": "AI Product Manager",
+      "difficulty": "Entry",
+      "company": "LinkedIn",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Class Imbalance",
+      "source": "https://linkedin.com/careers/ai-technical"
+    },
+    {
+      "question": "When would you use deep learning instead of a simpler machine learning model?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "OpenAI",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Model Selection",
+      "source": "https://openai.com/careers/ai-technical"
+    },
+    {
+      "question": "How do you approach defining the scope and requirements for an AI product?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Salesforce",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Requirements Definition",
+      "source": "https://salesforce.com/careers/ai-technical"
+    },
+    {
+      "question": "Describe the differences between reinforcement learning and supervised learning.",
+      "role": "AI Product Manager",
+      "difficulty": "Entry",
+      "company": "IBM",
+      "year": "2023",
+      "category": "AI Technical",
+      "topic": "RL vs Supervised",
+      "source": "https://ibm.com/careers/ai-technical"
+    },
+    {
+      "question": "How do you measure the success of an AI feature or product?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Success Metrics",
+      "source": "https://careers.google.com/ai-technical"
+    },
+    {
+      "question": "What methods do you use for feature selection in machine learning models?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Amazon",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Feature Selection",
+      "source": "https://amazon.jobs/ai-technical"
+    },
+    {
+      "question": "Explain the concept of transfer learning and how it can be applied in AI projects.",
+      "role": "AI Product Manager",
+      "difficulty": "Entry",
+      "company": "Microsoft",
+      "year": "2023",
+      "category": "AI Technical",
+      "topic": "Transfer Learning",
+      "source": "https://careers.microsoft.com/ai-technical"
+    },
+    {
+      "question": "What are the key trends in AI technology that you are focusing on?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Meta",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "AI Trends",
+      "source": "https://meta.com/careers/ai-technical"
+    },
+    {
+      "question": "How do you address the \"cold start\" problem in recommendation systems?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Netflix",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Cold Start",
+      "source": "https://jobs.netflix.com/ai-technical"
+    },
+    {
+      "question": "Explain the concept of Explainable AI (XAI) and its importance in building trust with users.",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "IBM",
+      "year": "2023",
+      "category": "AI Technical",
+      "topic": "Explainable AI",
+      "source": "https://ibm.com/careers/ai-technical"
+    },
+    {
+      "question": "Describe the data pipeline for the last AI project you worked on. What were the top challenges in obtaining data, and how did you resolve them?",
+      "role": "AI Product Manager",
+      "difficulty": "Mid",
+      "company": "Google",
+      "year": "2025",
+      "category": "AI Technical",
+      "topic": "Data Pipeline Challenges",
+      "source": "https://careers.google.com/ai-technical"
+    },
+    {
+      "question": "How do you measure the success of a cancer diagnostic model that accepts MRI images as input and detects whether or not a patient has cancer?",
+      "role": "AI Product Manager",
+      "difficulty": "Senior",
+      "company": "Siemens",
+      "year": "2024",
+      "category": "AI Technical",
+      "topic": "Diagnostic Model Metrics",
+      "source": "https://siemens.com/careers/ai-technical"
+    },{
+        "question": "How do you identify opportunities for AI integration in existing products?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Salesforce",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Opportunity Identification",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What should Uber’s mobile app strategy be given recent LLM developments?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Uber",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "LLM Strategy",
+        "source": "https://uber.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you envision the future impact of AI on your industry?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Tesla",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "Industry Trends",
+        "source": "https://tesla.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you stay aligned with the company's overall business strategy while developing AI products?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Airbnb",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Business Alignment",
+        "source": "https://airbnb.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you evaluate the potential ROI of an AI project?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "ROI Evaluation",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "What is your approach to developing a long-term AI roadmap for a product?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Microsoft",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "Roadmap Planning",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "How do you balance short-term wins with long-term AI strategy goals?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Strategic Prioritization",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "If you were in charge of Walmart, how would you use GenAI to improve the customer experience?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Walmart",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "GenAI Use Case",
+        "source": "https://careers.walmart.com/ai-product-manager"
+      },
+      {
+        "question": "How would you design a solution for fake news reduction on Twitter?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Twitter",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "Misinformation Mitigation",
+        "source": "https://careers.twitter.com/ai-product-manager"
+      },
+      {
+        "question": "What AI product would you develop for schools if you had infinite resources?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Coursera",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "EdTech Innovation",
+        "source": "https://coursera.org/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you ensure that AI solutions align with business requirements?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Slack",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "Requirements Alignment",
+        "source": "https://slack.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How can AI be used to improve the user experience in a specific product or domain (e.g., e-commerce, social media, customer service)?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Shopify",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "UX Enhancement",
+        "source": "https://shopify.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you balance innovation with practicality in AI product development?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Innovation vs Practicality",
+        "source": "https://ibm.com/careers/ai-product-manager"
+      },
+      {
+        "question": "You are the Product Manager for a new feature on a major e-commerce platform that personalizes product recommendations for users using AI. How would you design this feature? What challenges would you anticipate and how would you address them?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "Personalization Design",
+        "source": "https://amazon.jobs/en/ai-product-manager"
+      },
+      {
+        "question": "A travel booking platform wants to develop an AI assistant that helps users personalize their travel itineraries. How would you approach this project? What data sources would be valuable and how would you ensure the AI assistant provides relevant and helpful suggestions?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Expedia",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "AI Assistant Design",
+        "source": "https://expedia.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How would you go about scaling an AI product to meet the needs of a large user base?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Scaling Strategy",
+        "source": "https://uber.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you prioritize AI projects and allocate resources effectively?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "Project Prioritization",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "How do you see product management daily tasks evolving with AI-first tools?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Notion",
+        "year": "2023",
+        "category": "Product Vision and Strategy",
+        "topic": "AI-First PM",
+        "source": "https://notion.com/careers/ai-product-manager"
+      },
+      {
+        "question": "You are building an AI-powered recommendation engine for a music streaming service. How would you design this system and what challenges might you encounter?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Spotify",
+        "year": "2025",
+        "category": "Product Vision and Strategy",
+        "topic": "Music Recommendations",
+        "source": "https://spotify.com/careers/ai-product-manager"
+      },
+      {
+        "question": "A company offers a productivity app with several existing features. User engagement has plateaued. How would you use a data-driven approach to identify opportunities for improvement and prioritize new features to re-engage users?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Asana",
+        "year": "2024",
+        "category": "Product Vision and Strategy",
+        "topic": "Engagement Optimization",
+        "source": "https://asana.com/careers/ai-product-manager"
+      },{
+        "question": "Describe a time when you had to pivot your approach to an AI project. What prompted the change?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Netflix",
+        "year": "2025",
+        "category": "Behavioral and Situational",
+        "topic": "Project Pivot",
+        "source": "https://jobs.netflix.com/ai-product-manager"
+      },
+      {
+        "question": "How do you handle disagreements with stakeholders about the direction of an AI product?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "LinkedIn",
+        "year": "2024",
+        "category": "Behavioral and Situational",
+        "topic": "Stakeholder Management",
+        "source": "https://linkedin.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Can you give an example of a project in which you had to balance AI innovation with regulatory compliance and privacy concerns?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Meta",
+        "year": "2023",
+        "category": "Behavioral and Situational",
+        "topic": "Compliance vs Innovation",
+        "source": "https://meta.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Describe a situation where you had to make a difficult decision regarding an AI product's development.",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Behavioral and Situational",
+        "topic": "Difficult Decision",
+        "source": "https://ibm.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you manage stress and maintain productivity when dealing with complex AI projects?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Google",
+        "year": "2024",
+        "category": "Behavioral and Situational",
+        "topic": "Stress Management",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "Could you give an instance of a risk you encountered in deploying an AI product despite concerns from your compliance team? How did you mitigate this risk?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2023",
+        "category": "Behavioral and Situational",
+        "topic": "Risk Mitigation",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "Have you ever felt overwhelmed by the prevalence of AI and automation in your daily life? What’s your biggest qualm with device automation today?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Behavioral and Situational",
+        "topic": "Personal Reflection",
+        "source": "https://apple.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Can you provide an example of a time when you had to advocate for the inclusion of AI in a product?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Microsoft",
+        "year": "2024",
+        "category": "Behavioral and Situational",
+        "topic": "AI Advocacy",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "Describe a scenario where you had to justify the investment required for an AI product. How did you approach this challenge?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Salesforce",
+        "year": "2023",
+        "category": "Behavioral and Situational",
+        "topic": "Investment Justification",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How would you approach the challenge of explainability in AI models? How can you make complex AI models more understandable to non-technical users?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "OpenAI",
+        "year": "2025",
+        "category": "Behavioral and Situational",
+        "topic": "Explainability",
+        "source": "https://openai.com/careers/ai-product-manager"
+      },{
+        "question": "How do you manage the data collection process for an AI project?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Google",
+        "year": "2025",
+        "category": "Operational and Process Management",
+        "topic": "Data Collection",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "How do you handle model drift in production AI systems?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2024",
+        "category": "Operational and Process Management",
+        "topic": "Model Drift",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "Describe your approach to documentation for AI projects to ensure clarity and consistency.",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Operational and Process Management",
+        "topic": "Project Documentation",
+        "source": "https://apple.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you approach defining the scope and requirements for an AI product?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Salesforce",
+        "year": "2023",
+        "category": "Operational and Process Management",
+        "topic": "Scope Definition",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What processes do you have in place for monitoring AI model performance?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Microsoft",
+        "year": "2024",
+        "category": "Operational and Process Management",
+        "topic": "Performance Monitoring",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "How do you prioritize features and improvements for your AI products?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Uber",
+        "year": "2025",
+        "category": "Operational and Process Management",
+        "topic": "Feature Prioritization",
+        "source": "https://uber.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What are some challenges that come up relating to ML that might not be obvious?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "LinkedIn",
+        "year": "2023",
+        "category": "Operational and Process Management",
+        "topic": "Hidden ML Challenges",
+        "source": "https://linkedin.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you ensure effective communication between data scientists, engineers, and business stakeholders?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Facebook (Meta)",
+        "year": "2024",
+        "category": "Operational and Process Management",
+        "topic": "Cross-Functional Communication",
+        "source": "https://meta.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you ensure the robustness and reliability of AI models in production?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2025",
+        "category": "Operational and Process Management",
+        "topic": "Model Robustness",
+        "source": "https://ibm.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you manage risks unique to AI projects such as model bias and data quality issues?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2023",
+        "category": "Operational and Process Management",
+        "topic": "Risk Management",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "How do you foster a culture of innovation and experimentation in your team?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Google",
+        "year": "2025",
+        "category": "Collaborative and Leadership",
+        "topic": "Innovation Culture",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "Describe your experience in mentoring junior team members in AI concepts.",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Microsoft",
+        "year": "2024",
+        "category": "Collaborative and Leadership",
+        "topic": "Mentorship",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "How do you handle conflicts within your team during high-pressure AI projects?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Amazon",
+        "year": "2023",
+        "category": "Collaborative and Leadership",
+        "topic": "Conflict Resolution",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "How do you work with data science teams?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Facebook (Meta)",
+        "year": "2025",
+        "category": "Collaborative and Leadership",
+        "topic": "Data Science Collaboration",
+        "source": "https://meta.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Can you provide an example of a successful collaboration with a cross-functional team on an AI project?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Salesforce",
+        "year": "2024",
+        "category": "Collaborative and Leadership",
+        "topic": "Cross-Functional Teamwork",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you build and maintain relationships with external AI vendors and partners?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "IBM",
+        "year": "2023",
+        "category": "Collaborative and Leadership",
+        "topic": "Vendor Management",
+        "source": "https://ibm.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you handle disagreements with stakeholders about the direction of an AI product?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "LinkedIn",
+        "year": "2025",
+        "category": "Collaborative and Leadership",
+        "topic": "Stakeholder Management",
+        "source": "https://linkedin.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you communicate complex AI concepts to non-technical stakeholders effectively?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Apple",
+        "year": "2024",
+        "category": "Collaborative and Leadership",
+        "topic": "Technical Communication",
+        "source": "https://apple.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Describe a time when you had to pivot your approach to an AI project. What prompted the change?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Netflix",
+        "year": "2023",
+        "category": "Collaborative and Leadership",
+        "topic": "Project Pivot",
+        "source": "https://jobs.netflix.com/ai-product-manager"
+      },
+      {
+        "question": "How do you stay current with AI technology and advancements?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "OpenAI",
+        "year": "2025",
+        "category": "Collaborative and Leadership",
+        "topic": "Continuous Learning",
+        "source": "https://openai.com/careers/ai-product-manager"
+      },{
+        "question": "What are some ways that machine learning can be applied to product management when dealing with customer feedback (e.g., forums, Twitter responses)?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Airbnb",
+        "year": "2023",
+        "category": "General AI and Machine Learning",
+        "topic": "ML for Feedback",
+        "source": "https://airbnb.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What do you think is the biggest benefit of using AI/machine learning for data analysis?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Google",
+        "year": "2024",
+        "category": "General AI and Machine Learning",
+        "topic": "ML Benefits",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "Do you think AI/machine learning will help automate some of the work product managers do?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Microsoft",
+        "year": "2025",
+        "category": "General AI and Machine Learning",
+        "topic": "PM Automation",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "Is there an aspect of your job that you wish were automated by AI/ML more than anything else?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Facebook (Meta)",
+        "year": "2023",
+        "category": "General AI and Machine Learning",
+        "topic": "Desired Automation",
+        "source": "https://meta.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Do you think that machines will be able to do what was traditionally done by humans much more quickly, better, and cheaper over time?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "IBM",
+        "year": "2024",
+        "category": "General AI and Machine Learning",
+        "topic": "Future of Automation",
+        "source": "https://ibm.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What are your favorite machine learning tools?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Amazon",
+        "year": "2025",
+        "category": "General AI and Machine Learning",
+        "topic": "ML Tooling",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "What are some examples of when you’ve done data mining to gather insights on your products?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Salesforce",
+        "year": "2023",
+        "category": "General AI and Machine Learning",
+        "topic": "Data Mining",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Which AI product management methodologies do you prefer and why (e.g., Agile, Waterfall)? Why not the other ones?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Spotify",
+        "year": "2024",
+        "category": "General AI and Machine Learning",
+        "topic": "Methodology Preference",
+        "source": "https://spotify.com/careers/ai-product-manager"
+      },
+      {
+        "question": "What are some of the ways you're using Generative AI today and how is it impacting your work or business?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Notion",
+        "year": "2025",
+        "category": "General AI and Machine Learning",
+        "topic": "Generative AI Usage",
+        "source": "https://notion.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you identify whether a problem requires a machine learning solution?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Adobe",
+        "year": "2023",
+        "category": "General AI and Machine Learning",
+        "topic": "Problem Assessment",
+        "source": "https://adobe.com/careers/ai-product-manager"
+      },{
+        "question": "Imagine you are launching a new AI chatbot for customer service. Discuss the potential benefits and risks associated with this product.",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Zendesk",
+        "year": "2025",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Chatbot Benefits & Risks",
+        "source": "https://zendesk.com/careers/ai-product-manager"
+      },
+      {
+        "question": "A social media platform is facing issues with online harassment. How could you leverage AI to address this challenge?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Twitter",
+        "year": "2024",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Harassment Mitigation",
+        "source": "https://careers.twitter.com/ai-product-manager"
+      },
+      {
+        "question": "You are tasked with developing a new AI-powered fraud detection system for a mobile banking app. What factors would you consider when designing this system? How would you ensure it minimizes false positives while effectively detecting fraudulent activity?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Chase",
+        "year": "2023",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Fraud Detection Design",
+        "source": "https://jpmorganchase.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Describe a time you faced a technical hurdle with an AI project. How did you troubleshoot and overcome this challenge?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Google",
+        "year": "2025",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Technical Troubleshooting",
+        "source": "https://careers.google.com/ai-product-manager"
+      },
+      {
+        "question": "Explain the data pipeline for the last AI project you worked on. What were the top challenges in getting data, and how did you resolve them?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Microsoft",
+        "year": "2024",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Data Pipeline Challenges",
+        "source": "https://careers.microsoft.com/ai-product-manager"
+      },
+      {
+        "question": "How would you approach the development of an AI model for sentiment analysis of social media posts? Describe the data pre-processing steps you would take before training the model.",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Meta",
+        "year": "2023",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Sentiment Analysis Design",
+        "source": "https://meta.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How would you build a thick LLM to facilitate note-taking for legal hearings?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "OpenAI",
+        "year": "2025",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "LLM Design",
+        "source": "https://openai.com/careers/ai-product-manager"
+      },
+      {
+        "question": "Describe a scenario where you had to justify the investment required for an AI product. How did you approach this challenge?",
+        "role": "AI Product Manager",
+        "difficulty": "Senior",
+        "company": "Salesforce",
+        "year": "2024",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Investment Justification",
+        "source": "https://salesforce.com/careers/ai-product-manager"
+      },
+      {
+        "question": "How do you know how often you should retrain your model?",
+        "role": "AI Product Manager",
+        "difficulty": "Mid",
+        "company": "Amazon",
+        "year": "2023",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "Retraining Strategy",
+        "source": "https://amazon.jobs/ai-product-manager"
+      },
+      {
+        "question": "What is your favorite product, and how would you integrate AI into it?",
+        "role": "AI Product Manager",
+        "difficulty": "Entry",
+        "company": "Apple",
+        "year": "2025",
+        "category": "Case Scenarios and Problem Solving",
+        "topic": "AI Integration Ideation",
+        "source": "https://apple.com/careers/ai-product-manager"
+      }
+    ]
+  
