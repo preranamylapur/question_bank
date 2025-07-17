@@ -1,0 +1,322 @@
+[
+    {
+      "question": "What are React Hooks and why were they introduced?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Introduction to Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how useState works with an example.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useState",
+      "source": "Custom"
+    },
+    {
+      "question": "How does useEffect replace componentDidMount and componentDidUpdate?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useEffect",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the purpose of the cleanup function returned from useEffect?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Effect Cleanup",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conditionally run an effect only once?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Conditional useEffect",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how useContext works with an example.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useContext",
+      "source": "Custom"
+    },
+    {
+      "question": "What problems does useReducer solve over useState?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useReducer",
+      "source": "Custom"
+    },
+    {
+      "question": "Provide an example of a custom hook and explain its use case.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Custom Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the Rules of Hooks and why are they important?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Rules of Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "Why can’t you call hooks inside loops or conditions?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Hook Positioning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain useCallback and when you would use it.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useCallback",
+      "source": "Custom"
+    },
+    {
+      "question": "How does useMemo help with performance optimization?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useMemo",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a stale closure in hooks and how can you avoid it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Stale Closures",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain useRef and its common use cases.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useRef",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the difference between useLayoutEffect and useEffect?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useLayoutEffect",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you share stateful logic between components using hooks?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "State Sharing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to cancel asynchronous tasks inside useEffect.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Async Cleanup",
+      "source": "Custom"
+    },
+    {
+      "question": "What is useImperativeHandle and when should you use it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useImperativeHandle",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe useSyncExternalStore and its use case.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useSyncExternalStore",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you reset multiple state variables at once?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "State Reset",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between passing a value vs a function to setState?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "State Updates",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the pattern for data fetching with hooks.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Data Fetching",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you avoid prop drilling without Redux using hooks?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Avoiding Prop Drilling",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe debouncing or throttling inside a custom hook.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Debounce & Throttle",
+      "source": "Custom"
+    },
+    {
+      "question": "What is useDeferredValue and when would you use it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useDeferredValue",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain useTransition and its benefits.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useTransition",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate a third‑party hook library like react-query?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Third‑Party Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "What are common pitfalls when using hooks?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Hooks Pitfalls",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of React Query’s useQuery hook.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "React Query useQuery",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you memoize expensive values with useMemo vs useRef?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Memoization Techniques",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to debug a broken hook dependency array.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "Debugging Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the use of useId hook in React 18?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Hooks & State Management",
+      "topic": "useId",
+      "source": "Custom"
+    }
+  ]
