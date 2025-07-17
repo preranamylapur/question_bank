@@ -1,0 +1,225 @@
+[
+    {
+      "question": "What are the main types of data visualizations and when would you use each?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Visualization Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of visual perception in dashboard design.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "UX Principles",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose the right chart for time‑series data?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Time-Series Charts",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe best practices for color usage in visuals.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Color Theory",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a heatmap and when is it useful?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Heatmaps",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to handle overplotting in scatter plots.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Scatter Plots",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of small multiples.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Small Multiples",
+      "source": "Custom"
+    },
+    {
+      "question": "What are bullet charts and where would you use them?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Bullet Charts",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you visualize distributions of continuous data?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Distribution Plots",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between box plots and violin plots.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Box vs Violin",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a waterfall chart and how do you interpret it?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Waterfall Charts",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of geospatial maps in analytics.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Geospatial",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle multiple measures on different scales in one chart?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Dual Axis",
+      "source": "Custom"
+    },
+    {
+      "question": "What are interactive filters and why are they important?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Interactivity",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain storytelling with data dashboards.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Storytelling",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe performance considerations for large dashboards.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Performance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a KPI tile and how do you design one?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "KPI Tiles",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose layout and spacing in dashboards?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Layout",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain accessibility considerations in visualizations.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Accessibility",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of annotations in charts?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Annotations",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe best practices for dashboard navigation.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Navigation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you version‑control visualization code?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Visualization",
+      "topic": "Version Control",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a ch … [CONTINUED with 16 more objects to total 40]"
+    }
+  ]

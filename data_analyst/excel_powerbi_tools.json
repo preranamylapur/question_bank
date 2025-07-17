@@ -1,0 +1,404 @@
+[
+    {
+      "question": "Explain how to use VLOOKUP and its limitations.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Excel Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe when to use Power Query vs Power Pivot.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Power BI Components",
+      "source": "Custom"
+    },
+    {
+      "question": "What are DAX measures and how do they differ from calculated columns?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "DAX",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement row‑level security in Power BI.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of pivot tables for summarizing data.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Pivot Tables",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you optimize Excel performance with large datasets?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Performance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Power BI dashboard vs report?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Terminology",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain refresh types in Power BI (full, incremental).",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Data Refresh",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you connect Excel to external data sources?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Data Connections",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use slicers and filters in Excel and Power BI.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Excel & Power BI Tools",
+      "topic": "Filtering",
+      "source": "Custom"
+    },
+        {
+          "question": "How do you create and use dynamic named ranges with OFFSET and COUNTA in Excel?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Named Ranges",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how INDEX / MATCH can overcome VLOOKUP’s left‑lookup limitation.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Lookup Functions",
+          "source": "Custom"
+        },
+        {
+          "question": "What are Excel Tables (ListObjects) and what advantages do they offer over ranges?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Tables",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to perform fuzzy matching and merging in Power Query.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Power Query",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you add a custom column using M‑language in Power Query?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Power Query",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the difference between Merge and Append operations in Power Query.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Power Query",
+          "source": "Custom"
+        },
+        {
+          "question": "What techniques can you use to optimize DAX performance on large models?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "DAX Performance",
+          "source": "Custom"
+        },
+        {
+          "question": "How do the DAX functions CALCULATE and FILTER differ in context transition?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "DAX Functions",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how USERELATIONSHIP in DAX activates inactive model relationships.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "DAX Functions",
+          "source": "Custom"
+        },
+        {
+          "question": "How can you create dynamic report titles in Power BI using DAX?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Report Design",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the difference between drill‑through pages and drill‑down hierarchy in Power BI.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Interactivity",
+          "source": "Custom"
+        },
+        {
+          "question": "What are bookmarks in Power BI and how can they support storytelling?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Bookmarks",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you configure data alerts in the Power BI service for threshold breaches?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Alerts",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe workspace roles and permission levels in Power BI.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Security",
+          "source": "Custom"
+        },
+        {
+          "question": "What usage metrics and audit logs are available in Power BI premium?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Monitoring",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the concept and benefits of dataflows in Power BI.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Dataflows",
+          "source": "Custom"
+        },
+        {
+          "question": "How can Power Automate be used to refresh Power BI datasets?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Automation",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe methods to embed Power BI reports into SharePoint or Teams.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Embedding",
+          "source": "Custom"
+        },
+        {
+          "question": "What is Analyze in Excel feature and when is it most useful?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Excel Integration",
+          "source": "Custom"
+        },
+        {
+          "question": "Compare DirectQuery and Import modes—advantages and limitations of each.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Storage Mode",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you implement row‑level security in DirectQuery mode?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "RLS",
+          "source": "Custom"
+        },
+        {
+          "question": "What are Power BI template apps and how do you create one?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Templates",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the use of parameters in Power Query and Power BI reports.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Parameters",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to configure and use on‑premises data gateways.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Gateway",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you optimize incremental dataflows for large datasets?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Dataflows Performance",
+          "source": "Custom"
+        },
+        {
+          "question": "What are the differences between Power BI Pro, Premium Per User, and Premium?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Licensing",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how to configure incremental refresh policies in Power BI.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Incremental Refresh",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you manage dataset lineage and track dependencies?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Lineage",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe data certification and endorsement features in Power BI.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Data Governance",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how to access and interpret usage analytics for a workspace.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Excel & Power BI Tools",
+          "topic": "Usage Analytics",
+          "source": "Custom"
+        }
+      ]
+      
+  
