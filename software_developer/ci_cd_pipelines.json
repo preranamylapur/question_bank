@@ -1,0 +1,303 @@
+[
+    {
+      "question": "What is Continuous Integration (CI) and why is it important?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "CI Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Continuous Deployment (CD) and how it differs from Continuous Delivery.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "CD vs Continuous Delivery",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the benefits of automated builds in a CI/CD pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Automated Builds",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of unit tests in a CI process.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Unit Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do integration tests fit into the CI pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Integration Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a build artifact and how do you manage it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Artifacts",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how environment configuration is handled across stages (dev, staging, prod).",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Environment Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a pipeline as code and which tools support it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Pipeline as Code",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you’d implement a blue–green deployment.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Blue–Green Deployment",
+      "source": "Custom"
+    },
+    {
+      "question": "How does canary deployment work and when would you use it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Canary Deployment",
+      "source": "Custom"
+    },
+    {
+      "question": "What role do containers (Docker) play in CI/CD?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Containers in CI/CD",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how infrastructure as code (IaC) integrates with pipelines.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "IaC Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how feature flags can be used within a CI/CD workflow.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Feature Flags",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure secrets (API keys, passwords) in a pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Secret Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is rollback and how do you automate it in a pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Automated Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to integrate performance testing into CI/CD.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Performance Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to run security scans (SAST/DAST) in your pipeline.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Security Scanning",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools have you used for CI/CD (e.g., Jenkins, GitHub Actions)?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "CI/CD Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you parallelize jobs to speed up pipelines?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Job Parallelization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement approval gates in a pipeline.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Approval Gates",
+      "source": "Custom"
+    },
+    {
+      "question": "What is artifact promotion and how is it handled?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Artifact Promotion",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to monitor pipeline health and metrics.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Pipeline Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain rollback strategies for databases during deployment.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "DB Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle versioning of Docker images in CI/CD?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Image Versioning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is GitOps and how does it relate to CI/CD?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "GitOps",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to test pipeline changes before merging.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Pipeline Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain canary analysis tools and their integration.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Canary Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage pipeline credentials securely?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Credential Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a multi-branch pipeline and when would you use one?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "Multi-branch Pipelines",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement rolling deployments in Kubernetes via pipeline.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD Pipelines",
+      "topic": "K8s Rolling Deployments",
+      "source": "Custom"
+    }
+  ]
+  
