@@ -1,0 +1,383 @@
+[
+    {
+      "question": "What is the difference between training, validation, and test sets?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Data Splits",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain k‑fold cross‑validation and its advantages.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Cross‑Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose the value of k in k‑fold CV?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "CV Hyperparameters",
+      "source": "Custom"
+    },
+    {
+      "question": "What is stratified sampling and why use it?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Stratification",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe leave‑one‑out cross‑validation.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "LOOCV",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the bias introduced by reusing test data.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Data Leakage",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics would you use to evaluate regression models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Regression Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you interpret R‑squared and adjusted R‑squared?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "R‑Squared",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe mean absolute error vs. mean squared error.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Loss Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics would you use to evaluate classification models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Classification Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain precision, recall, and F1‑score.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Precision vs Recall",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose a decision threshold?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Thresholding",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the ROC curve and how is it used?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "ROC & AUC",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain confusion matrix and error types.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Confusion Matrix",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe precision‑recall curves and when to use them.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "PR Curves",
+      "source": "Custom"
+    },
+    {
+      "question": "What is calibration and how do you assess it?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Calibration",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Brier score for probabilistic forecasts.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Brier Score",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you evaluate clustering without ground truth?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Unsupervised Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe silhouette score and its interpretation.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Silhouette Score",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the elbow method for clustering?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Elbow Method",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain gap statistic in clustering evaluation.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Gap Statistic",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform uplift modeling evaluation?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Uplift Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Kolmogorov–Smirnov test for model performance?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "KS Test",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to evaluate time‑series forecasts.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Forecast Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain mean absolute percentage error (MAPE).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "MAPE",
+      "source": "Custom"
+    },
+    {
+      "question": "What is symmetric MAPE (sMAPE)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "sMAPE",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect concept drift post‑deployment?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Drift Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain back‑testing for predictive models.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Back‑Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is nested cross‑validation?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Nested CV",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use learning curves to diagnose performance.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Learning Curves",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you evaluate fairness in machine learning models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Fairness Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain model interpretability techniques (SHAP, LIME).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Explainability",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of confidence intervals in model predictions?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Prediction Uncertainty",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate model assumptions?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Assumption Checking",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe post‑hoc analysis for model improvement.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Post‑Hoc Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of a gain chart or lift curve?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Gain & Lift",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you monitor model performance in production.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Production Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you automate model evaluation pipelines?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Evaluation",
+      "topic": "Automation",
+      "source": "Custom"
+    }
+  ]
+  
