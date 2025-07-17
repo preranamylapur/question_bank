@@ -1,0 +1,362 @@
+[
+    {
+      "question": "What is the difference between logical and physical database performance tuning?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Tuning Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you use execution plans to diagnose slow queries.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Execution Plans",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you identify and remediate missing or unused indexes?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Index Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe index fragmentation and how to address it.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Fragmentation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is parameter sniffing and how can it lead to performance issues?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Parameter Sniffing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of statistics in query optimization.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Statistics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you update and maintain accurate statistics?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Stats Maintenance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the impact of parameterization on plan reuse.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Plan Reuse",
+      "source": "Custom"
+    },
+    {
+      "question": "What are covering indexes and when should you use them?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Covering Indexes",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of indexed views/materialized views.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Indexed Views",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune tempdb for high‑volume systems?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Tempdb",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe lock escalation and strategies to avoid it.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Locking",
+      "source": "Custom"
+    },
+    {
+      "question": "What is page splitting and how does it affect performance?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Page Splits",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to identify and fix parameter sniffing issues.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Sniffing Fixes",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor wait stats and interpret them?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Wait Statistics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe I/O bottlenecks and mitigation techniques.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "I/O Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is CPU pressure and how can you diagnose it?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "CPU Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain memory grants and excessive memory waits.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Memory Grants",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use Query Store (or equivalent) for tuning?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Query Store",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe adaptive query processing techniques.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Adaptive Processing",
+      "source": "Custom"
+    },
+    {
+      "question": "What indexing strategies optimize large fact‑lookup joins?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Star Schema Joins",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain parameterization options in SQL (forced vs simple).",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Parameterization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you identify and optimize scalar UDF performance?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "UDF Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "What are columnstore indexes and when do you use them?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Columnstore",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how data compression modes impact performance.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Compression Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you optimize temp table usage in large workloads?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Temp Tables",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain parallelism and its impact on query plans.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Parallelism",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between interleaved and MaxDOP settings?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "MaxDOP",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune tempdb file count and placement?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Tempdb Layout",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe table partitioning strategies for performance.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Partitioning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of in‑memory tables (Hekaton) in tuning?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "In‑Memory Tables",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain buffer pool extension and its benefits.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Buffer Pool",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you profile and optimize OLAP cube queries?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "OLAP Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe monitoring strategies for identifying performance regressions.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Regression Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What tracing and extended events would you capture for tuning?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Tracing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate performance baselining into your workflow?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Tuning",
+      "topic": "Baselining",
+      "source": "Custom"
+    }
+  ]
