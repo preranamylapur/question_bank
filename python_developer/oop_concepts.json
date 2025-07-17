@@ -1,0 +1,292 @@
+[
+    {
+      "question": "What is object‑oriented programming (OOP) and its four main principles?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "OOP Principles",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how Python implements encapsulation.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Encapsulation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe inheritance in Python and provide a code example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Inheritance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is method overriding vs method overloading in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Method Overriding vs Overloading",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain polymorphism with an example in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Polymorphism",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you define a class in Python and create an instance of it?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Classes & Instances",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of the __init__ method?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "__init__ Method",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of @staticmethod and @classmethod.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Static & Class Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement abstract base classes in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Abstract Base Classes",
+      "source": "Custom"
+    },
+    {
+      "question": "What is multiple inheritance and how does Python handle the diamond problem?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Multiple Inheritance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe composition vs inheritance.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Composition vs Inheritance",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use properties (getter/setter) in Python classes.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Properties",
+      "source": "Custom"
+    },
+    {
+      "question": "What is duck typing and how does it relate to OOP in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Duck Typing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement operator overloading in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Operator Overloading",
+      "source": "Custom"
+    },
+    {
+      "question": "What are magic methods? Give examples.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Magic Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to enforce encapsulation with name mangling.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Name Mangling",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe mixins and when to use them.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Mixins",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement the singleton pattern in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Singleton Pattern",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the factory pattern? Provide an example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Factory Pattern",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the adapter pattern in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Adapter Pattern",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you document classes and methods per PEP 257?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Docstrings",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how __slots__ improve memory usage.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "__slots__",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a data class and how do you use @dataclass?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Data Classes",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how inheritance and composition can be combined.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Inheritance & Composition",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you enforce interface contracts in Python without an interface keyword?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Interface Contracts",
+      "source": "Custom"
+    },
+    {
+      "question": "What are class decorators and how do they work?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Class Decorators",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use metaclasses in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Metaclasses",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you debug complex inheritance hierarchies?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Debugging OOP",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between composition over inheritance and vice versa.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "OOP Concepts",
+      "topic": "Composition vs Inheritance",
+      "source": "Custom"
+    }
+  ]
