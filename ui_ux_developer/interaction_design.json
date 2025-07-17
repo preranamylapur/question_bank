@@ -1,0 +1,343 @@
+[
+    {
+      "question": "What is interaction design and how does it differ from visual design?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of affordance in UI controls.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Affordance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feedback and feedforward in interactive systems.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Feedback & Feedforward",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the principles of direct manipulation interfaces?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Direct Manipulation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design for discoverability in a UI?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Discoverability",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of affordances vs signifiers.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Signifiers",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the goal of mapping in control design?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Mapping",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe constraints and their use in guiding user actions.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Constraints",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design effective microinteractions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Microinteractions",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the importance of response time in interactive design?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Response Time",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of modes and why to avoid them when possible.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle error prevention and recovery in interactions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Error Prevention & Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the key principles of gesture-based interfaces?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Gestural UI",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to design touch targets for mobile interfaces.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Touch Targets",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain affordance and discoverability in voice interfaces.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Voice UI",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design for accessibility in interactive components?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Accessible Interaction",
+      "source": "Custom"
+    },
+    {
+      "question": "What is progressive disclosure and when should it be used?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Progressive Disclosure",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe design patterns for multi-step tasks.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Task Flows",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design interactive feedback for form validation?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Form Feedback",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how skeletal screens improve perceived performance.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Skeleton Screens",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of animations in guiding user attention?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Attention Guidance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe motion design principles for UI transitions.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Motion Transitions",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure consistency across interactive elements?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Consistency",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the challenges of designing conversational interfaces?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Conversational UI",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to design for error prevention in voice UIs.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Voice Error Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to prototype and test interactive states.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "State Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of path reinforcement in navigation menus?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Navigation Feedback",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design drag-and-drop interactions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Drag & Drop",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of hover states in desktop interfaces.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Hover States",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to design infinite scroll vs pagination.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "List Navigation",
+      "source": "Custom"
+    },
+    {
+      "question": "What are skeleton loaders and when do you use them?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Loading Indicators",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design gesture-based shortcuts for power users?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Gestural Shortcuts",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of microcopy and its role in interactions",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Microcopy",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe best practices for tooltips and contextual help.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Interaction Design",
+      "topic": "Contextual Help",
+      "source": "Custom"
+    }
+  ]
+  
