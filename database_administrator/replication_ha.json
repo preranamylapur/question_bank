@@ -1,0 +1,343 @@
+[
+    {
+      "question": "What are the differences between synchronous and asynchronous replication?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Replication Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to configure master–slave (primary–secondary) replication.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Primary–Secondary",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you set up multi‑master replication and what are its challenges?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Multi‑Master",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe log‑based vs statement‑based replication.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Replication Formats",
+      "source": "Custom"
+    },
+    {
+      "question": "What is top‑of‑the‑line monitoring metrics for replication lag?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Lag Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain automatic failover and how it’s implemented.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Auto‑Failover",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to configure quorum and witness nodes.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Quorum Configuration",
+      "source": "Custom"
+    },
+    {
+      "question": "What techniques are used to ensure split‑brain avoidance?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Split‑Brain Avoidance",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform switchover vs failover?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Switchover vs Failover",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain replication in cloud‑managed databases (RDS, Cloud SQL).",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Cloud Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe cascade vs chained replication topologies.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Topology Types",
+      "source": "Custom"
+    },
+    {
+      "question": "What is geographic replication and how do you implement it?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Geo‑Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you bootstrap a new replica from backups?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Replica Bootstrapping",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain filtering and partial replication of tables.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Filtered Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "What is transparent data encryption in replication?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Encrypted Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe repointing and reconfiguring replicas during maintenance.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Reconfiguration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle DDL changes in a replicated environment?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "DDL Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the impacts of replication on performance?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Performance Impact",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain peer‑to‑peer replication and use cases.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Peer‑to‑Peer",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe snapshot vs continuous replication for HADR.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Snapshot vs Continuous",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate data consistency across replicas?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Consistency Checks",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring tools and metrics do you use for HA?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "HA Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain quorum loss and how to recover from it.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Quorum Loss",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to test failover and failback procedures.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Failover Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is rolling upgrade in an HA cluster?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Rolling Upgrades",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate replication into DR drills?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "DR Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to handle split‑rollbacks in multi‑primary setups.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Split‑Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the security considerations for replication channels?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Replication Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe cross‑platform replication challenges.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Cross‑Platform",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure zero data loss in HADR?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Zero Data Loss",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of virtual IPs in HA clusters?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Virtual IPs",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain repointing applications after failover.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "App Repointing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you document and audit HA configurations?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Documentation & Audit",
+      "source": "Custom"
+    },
+    {
+      "question": "What is automated failback and how is it configured?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Replication & HA",
+      "topic": "Automated Failback",
+      "source": "Custom"
+    }
+  ]
+  
