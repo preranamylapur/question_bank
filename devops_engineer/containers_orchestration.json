@@ -1,0 +1,323 @@
+[
+    {
+      "question": "What are the benefits of using containers over virtual machines?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Containers vs VMs",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the core components of Docker (images, containers, registries).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Docker Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you write a Dockerfile to build a multi‑stage image?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Multi‑Stage Builds",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Docker Compose works and when to use it.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Compose",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Kubernetes and why is it popular for orchestration?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Kubernetes Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Kubernetes control plane components.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Control Plane",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you define and manage Pods, Deployments, and Services?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "K8s Workloads",
+      "source": "Custom"
+    },
+    {
+      "question": "What are ConfigMaps and Secrets in Kubernetes?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Config & Secrets",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement rolling updates and rollbacks in Kubernetes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Rolling Updates",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you set up health checks and readiness probes?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Probes",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between DaemonSets, StatefulSets, and Jobs.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Workload Types",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a Service Mesh (e.g., Istio) and why use it?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Service Mesh",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe network policies in Kubernetes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Network Policies",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage persistent storage (PVCs, PVs) in K8s?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Persistent Storage",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use Helm charts for templating.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Helm",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the container runtime interface (CRI)?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "CRI",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of operators in Kubernetes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Operators",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement horizontal and vertical pod autoscaling?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Autoscaling",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to secure container images and runtimes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Container Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging and monitoring strategies suit containerized environments?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Logs & Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to perform cluster upgrades with minimal downtime.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Cluster Upgrades",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you configure and use Kubernetes ingress controllers?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Ingress",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of etcd in Kubernetes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "etcd",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies exist for multi‑cluster management?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Multi‑Cluster",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use Kubernetes APIs and kubectl effectively.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "kubectl & APIs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you backup and restore etcd data?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "etcd Backup",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to troubleshoot container networking issues.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the trade‑offs of using CRI‑O vs Docker as a runtime?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "CRI Choices",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how containerd and runc interact under the hood.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Runtime Internals",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you enforce resource quotas and limits in Kubernetes?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Resource Quotas",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain sidecar and init‑container patterns.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Containers & Orchestration",
+      "topic": "Pod Patterns",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Kubernetes federation and when would you use it?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Containers & Orchestration",
+    "topic": "Federation",
+    "source": "Custom"
+    }
+  ]
+  
