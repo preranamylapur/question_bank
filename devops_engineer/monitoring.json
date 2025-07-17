@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What is the difference between monitoring and observability?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain SLIs, SLOs, and SLAs and how they relate.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Service Level Objectives",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose metrics to track for a microservice?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Metrics Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Prometheus scrapes and stores time‑series data.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Prometheus",
+      "source": "Custom"
+    },
+    {
+      "question": "What are Grafana dashboards and how do you design them effectively?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Dashboards",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how alerting works and best practices for alert fatigue.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Alerting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement black‑box vs white‑box monitoring?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Monitoring Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how distributed tracing works (e.g., Jaeger, Zipkin).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Tracing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are error budgets and how do you calculate them?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Error Budgets",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain log aggregation and search with the ELK stack.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "ELK",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you instrument an application for metrics exposure?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Instrumentation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of health checks and readiness probes?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Health Checks",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you monitor container metrics in Kubernetes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Kubernetes Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the trade‑offs of pull vs push metric collection.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Collection Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you correlate metrics, logs, and traces for root cause analysis?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Correlation",
+      "source": "Custom"
+    },
+    {
+      "question": "What retention policies do you apply to monitoring data?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Data Retention",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how synthetic monitoring works and when to use it.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Synthetic Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of monitoring at the edge.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Edge Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "How do Service Discovery and monitoring integrate?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Service Discovery",
+      "source": "Custom"
+    },
+    {
+      "question": "What are key considerations when monitoring serverless functions?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Serverless Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you set up anomaly detection on metrics.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Anomaly Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure your monitoring pipeline and data?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Monitoring Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you monitor database performance metrics.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Database Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of alert routing and deduplication?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Alert Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you integrate monitoring into your CI/CD pipeline.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Pipeline Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor and alert on configuration drift?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Drift Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track to measure monitoring system health?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Monitoring Health",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain your approach to testing alert rules before production.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Alert Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you balance resolution and retention of logs?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Log Retention",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the benefits of metric histograms vs gauges.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Metric Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of multi‑tenant monitoring architectures.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Multi‑Tenant",
+      "source": "Custom"
+    },
+    {
+      "question": "What approaches exist for high‑cardinality label handling?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "High‑Cardinality",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement heatmaps or flame graphs for performance visualization?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Performance Visualization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you manage service maps and topology for alerting.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Service Maps",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how retention tiers optimize storage costs for metrics.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+    "difficulty": "medium",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Retention Tiers",
+      "source": "Custom"
+    },
+    {
+      "question": "What is up‑down monitoring and how is it implemented?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Monitoring",
+      "topic": "Up‑Down Checking",
+      "source": "Custom"
+    }
+  ]
+  
