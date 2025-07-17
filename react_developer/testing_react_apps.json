@@ -1,0 +1,383 @@
+[
+    {
+      "question": "Why is testing important in React development?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Importance of Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the difference between unit, integration, and end-to-end tests?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Test Levels",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you set up Jest in a React project?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Jest Setup",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain snapshot testing and when to use it.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Snapshot Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is React Testing Library and how is it different from Enzyme?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Testing Libraries",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you select elements in RTL (e.g., getByText)?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "RTL Queries",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of the `act()` function in React tests.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "act()",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you mock API calls in Jest?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Mocking Fetch",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to test asynchronous behavior in components.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Async Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are test IDs and when should you use them?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Test IDs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you simulate user events like click and change?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Simulating Events",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to test custom hooks.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Hook Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is code coverage and how do you measure it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Code Coverage",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you mock modules in Jest?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Module Mocking",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to test context providers.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Context Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies can you use to avoid flaky tests?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Flaky Test Prevention",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test components that use React Router?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Router Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain end‑to‑end testing with Cypress for a React app.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "End‑to‑End Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between mount and shallow rendering in Enzyme?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Enzyme Rendering",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test error boundaries?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing React Apps",
+      "topic": "Error Boundary Testing",
+      "source": "Custom"
+    },  {
+        "question": "How do you test Redux-connected components with React Testing Library?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Redux Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "Explain how to mock React Context values in your tests.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Context Mocking",
+        "source": "Custom"
+      },
+      {
+        "question": "What is snapshot testing’s downside, and how do you mitigate it?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Snapshot Pitfalls",
+        "source": "Custom"
+      },
+      {
+        "question": "How can you test components that use React Suspense for data fetching?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Suspense Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "Describe how to test error states and loading states in components.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "State Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "What strategies do you use to test React Hooks without rendering a component?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Hook-Only Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "Explain how to use React Testing Library’s `waitFor` and `findBy` methods.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Async Utilities",
+        "source": "Custom"
+      },
+      {
+        "question": "How do you test component accessibility (a11y) with testing tools?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Accessibility Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "What is the best way to test styled-components or CSS modules?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Style Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "Describe how to integrate test coverage enforcement in a CI workflow.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Coverage Enforcement",
+        "source": "Custom"
+      },
+      {
+        "question": "How can you simulate network failures in your tests?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Network Error Simulation",
+        "source": "Custom"
+      },
+      {
+        "question": "Explain how to test file uploads and drag‑and‑drop interactions.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "File Interaction Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "What tools can you use to create visual regression tests in React?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Visual Regression",
+        "source": "Custom"
+      },
+      {
+        "question": "How do you mock timers (setTimeout, setInterval) in your tests?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Timer Mocking",
+        "source": "Custom"
+      },
+      {
+        "question": "Describe how to test focus management and keyboard navigation.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Keyboard & Focus Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "What is the role of cleanup functions in Jest afterEach hooks?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "easy",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Test Cleanup",
+        "source": "Custom"
+      },
+      {
+        "question": "How can you speed up your test suite for large React apps?",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Test Performance",
+        "source": "Custom"
+      },
+      {
+        "question": "Explain snapshot testing with storybook and its benefits.",
+        "role": "React Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Testing React Apps",
+        "topic": "Storybook Snapshots",
+        "source": "Custom"
+      }
+]
+   
+  
