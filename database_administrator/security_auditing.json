@@ -1,0 +1,403 @@
+[
+    {
+      "question": "What is the principle of least privilege and how do you enforce it in a database?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Least Privilege",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how database roles and permissions differ.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Roles vs Permissions",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe transparent data encryption (TDE) and its impact.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "TDE",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement column‑level and row‑level security?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Fine‑Grained Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What are SQL injection attacks and how do you prevent them?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "SQL Injection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain auditing vs logging and when to use each.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Auditing vs Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to configure and review database audit logs.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Audit Configuration",
+      "source": "Custom"
+    },
+    {
+      "question": "What is dynamic data masking and how is it applied?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Data Masking",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage database encryption keys securely?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Key Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of SSL/TLS for database connections.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Encryption in Transit",
+      "source": "Custom"
+    },
+    {
+      "question": "What are common database hardening practices?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Hardening",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to detect and respond to suspicious database activity.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Threat Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain separation of duties in database security.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Segregation of Duties",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you enforce password policies at the database layer?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Password Policies",
+      "source": "Custom"
+    },
+    {
+      "question": "What is monitoring of privileged accounts and how is it implemented?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Privileged Account Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement IP‑based access controls.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Network Restrictions",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain database activity monitoring (DAM) solutions.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "DAM",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you audit changes to database schema and objects?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Schema Auditing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is database vault or similar fine‑grained access control?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Database Vault",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate database auditing with SIEM.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "SIEM Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the performance impacts of extensive auditing?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Auditing Overhead",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to handle PCI DSS requirements in databases.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform a security review and assessment?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Security Assessment",
+      "source": "Custom"
+    },
+    {
+      "question": "What encryption algorithms are supported by your DBMS?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Encryption Algorithms",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe role‑based vs attribute‑based access control.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "RBAC vs ABAC",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement auditing in NoSQL databases?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "NoSQL Auditing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to secure backups against unauthorized access.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Backup Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What steps do you take to mitigate SQL injection at the DBA level?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Injection Mitigation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use encryption at column vs tablespace level.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Encryption Granularity",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you rotate encryption keys without downtime?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Key Rotation",
+      "source": "Custom"
+    },
+    {
+      "question": "What methods exist for tamper‑evident audit logs?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Tamper Evidence",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain GDPR requirements for database data access logging.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "GDPR Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle auditing for multi‑tenant databases?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Multi‑Tenant Auditing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe integration of database security with IAM solutions.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "IAM Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of firewall and network ACLs for database security?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Network Security",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you respond to a potential data breach in the database?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Incident Response",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain audit trail retention and purge policies.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Retention & Purge",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe auditing and monitoring differences for PaaS vs IaaS DBs.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "PaaS vs IaaS",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools and frameworks facilitate database compliance reporting?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Compliance Reporting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you automate security audits for databases?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security & Auditing",
+      "topic": "Audit Automation",
+      "source": "Custom"
+    }
+  ]
+  
