@@ -1,0 +1,323 @@
+[
+    {
+      "question": "What is AWS and what are its core services?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the differences between EC2, Lambda, and ECS.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Compute Services",
+      "source": "Custom"
+    },
+    {
+      "question": "What is S3 and how do you secure objects stored in it?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Storage",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe VPC and its main components.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "How do IAM roles differ from IAM users?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Security & Identity",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the AWS shared responsibility model.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Security & Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is CloudWatch and how do you use it?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Route 53 works and when to use it.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "DNS & Routing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS CLI and why is it useful?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Automation & SDKs",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to set up a CloudFormation stack.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Infrastructure as Code",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage secrets in AWS?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Secrets Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What are AWS availability zones and regions?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "High Availability",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement autoscaling for EC2.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Scalability",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS Elastic Beanstalk and when would you use it?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Platform Services",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how AWS Cognito works for authentication.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Identity Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe AWS Lambda cold starts and how to mitigate them.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Serverless",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS EKS and how does it differ from ECS?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Containers & Orchestration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you configure VPC peering?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to encrypt data at rest in AWS.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS KMS and when do you use it?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Key Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement cross-region replication in S3.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Data Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use CloudTrail for auditing?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Audit & Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement a VPC endpoint.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS Systems Manager and how can it help operations?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Operations",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to set up CloudWatch alarms.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage AWS costs and billing alerts?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Cost Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS Well-Architected Framework?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Best Practices",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use AWS Config for compliance checks.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to automate deployments with CodeDeploy.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Automation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement tagging strategies in AWS?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Resource Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS CLI profiles and how do you configure them?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "CLI Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to set up MFA for AWS accounts.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "AWS Fundamentals",
+      "topic": "Security",
+      "source": "Custom"
+    }
+  ]
+  

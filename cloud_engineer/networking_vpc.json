@@ -1,0 +1,352 @@
+[
+    {
+      "question": "What is a VPC and why is it used in AWS?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPC Basics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain CIDR notation and how it’s used to define VPC and subnet ranges.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "CIDR Notation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose subnet sizes for public vs private subnets?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Subnet Sizing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of an Internet Gateway in a VPC?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Internet Gateway",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how a NAT Gateway works and when to use it.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "NAT Gateway",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between Security Groups and Network ACLs.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "SG vs NACL",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you configure a custom route table for multi‑AZ traffic?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Routing Tables",
+      "source": "Custom"
+    },
+    {
+      "question": "What is VPC Peering and what limitations should you consider?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPC Peering",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Transit Gateway simplifies connectivity between multiple VPCs.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Transit Gateway",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to set up a Site‑to‑Site VPN connection to your VPC.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPN Connections",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS Direct Connect and when would you use it over VPN?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Direct Connect",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you design a hybrid connectivity architecture with on‑premises networks?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Hybrid Connectivity",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how an Elastic IP works and its typical use cases.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Elastic IP",
+      "source": "Custom"
+    },
+    {
+      "question": "What are VPC Endpoints and how do they enhance security?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPC Endpoints",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between Interface and Gateway VPC Endpoints.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Endpoint Types",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you enable and interpret VPC Flow Logs?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Flow Logs",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a DHCP Options Set and how is it applied to a VPC?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "DHCP Options",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement an Egress‑Only Internet Gateway for IPv6 traffic.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "IPv6 Egress",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to configure Private DNS within a VPC using Route 53.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Private DNS",
+      "source": "Custom"
+    },
+    {
+      "question": "What are security best practices for designing VPC subnets?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Subnet Security",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you mitigate overlapping CIDR blocks when peering VPCs?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "CIDR Overlap",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the process of configuring VPC peering with cross‑account resources.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Cross‑Account Peering",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Traffic Mirroring and how can it be used for network analysis?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Traffic Mirroring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement VPC sharing across AWS Organizations.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPC Sharing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune MTU settings for enhanced network performance?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "MTU Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "What techniques exist for filtering and shaping VPC traffic?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Traffic Shaping",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe best practices for designing multi‑VPC architectures.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Multi‑VPC Design",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of a Bastion Host and how to secure it.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Bastion Hosts",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AWS PrivateLink and how does it differ from VPC Endpoints?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "PrivateLink",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement a Transit VPC pattern for shared services?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Transit VPC",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe considerations for DNS failover within a VPC.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "DNS Failover",
+      "source": "Custom"
+    },
+    {
+      "question": "What is an interface endpoint and when would you use it?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Interface Endpoint",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to set up cross‑region VPC peering.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "Cross‑Region Peering",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement high‑availability for VPN connections?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPN HA",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging and monitoring strategies do you use for VPC security?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Networking & VPC",
+      "topic": "VPC Monitoring",
+      "source": "Custom"
+    }
+  ]
