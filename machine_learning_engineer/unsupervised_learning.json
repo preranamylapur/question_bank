@@ -1,0 +1,333 @@
+[
+    {
+      "question": "What’s the difference between clustering and dimensionality reduction?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Clustering vs DR",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how k‑means clustering works and its complexity.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "K‑Means",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose the number of clusters (e.g., elbow method)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Cluster Count Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe hierarchical clustering and linkage criteria.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Hierarchical Clustering",
+      "source": "Custom"
+    },
+    {
+      "question": "What is DBSCAN and when is it useful?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "DBSCAN",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Gaussian mixture models and expectation–maximization.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "GMM & EM",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you evaluate clustering quality without labels?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Clustering Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "What is PCA and how does it reduce dimensionality?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "PCA",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe t‑SNE and UMAP for visualization.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "t‑SNE & UMAP",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain autoencoders for feature learning.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Autoencoders",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect anomalies in an unsupervised way?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Anomaly Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "What role does distance metric play in clustering?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Distance Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feature scaling’s impact on clustering.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Feature Scaling",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare hard versus soft clustering.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Hard vs Soft",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how spectral clustering works.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Spectral Clustering",
+      "source": "Custom"
+    },
+    {
+      "question": "What is latent Dirichlet allocation (LDA)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Topic Modeling",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you interpret and use the elbow and silhouette methods?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Cluster Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe manifold learning techniques.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Manifold Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain dictionary learning and sparse coding.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Sparse Coding",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the concept of co‑training for semi‑supervised learning?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Co‑Training",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate unsupervised pre‑training into workflows?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Unsupervised Pre‑Training",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe evaluation metrics for dimensionality reduction.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "DR Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain subspace clustering techniques.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Subspace Clustering",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the trade‑offs of batch vs online clustering?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Batch vs Online",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you store and serve cluster models in production?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Model Serving",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe privacy‑preserving clustering methods.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Privacy",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain spectral embedding and its applications.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Spectral Embedding",
+      "source": "Custom"
+    },
+    {
+      "question": "What frameworks support large‑scale unsupervised learning?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Frameworks",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you debug and visualize high‑dimensional clusters?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Debugging & Visualization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain anomaly scoring vs binary classification.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Scoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the integration of unsupervised learning in MLOps pipelines.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "MLOps Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What security implications exist for unsupervised training data?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Data Security",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure reproducibility in unsupervised experiments?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Unsupervised Learning",
+      "topic": "Reproducibility",
+      "source": "Custom"
+    }
+  ]
+  
