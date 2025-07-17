@@ -1,0 +1,372 @@
+[
+    {
+      "question": "What is a data structure, and why are they important in programming?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Introduction to Data Structures",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between a list and a tuple in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Lists vs Tuples",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you append an element to a list, and what is its time complexity?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "List Operations",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how a Python dictionary is implemented under the hood.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Dictionaries",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the average time complexity for looking up a key in a dictionary?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Dictionary Lookup",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how Python’s set data type works and give a use case.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Sets",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the pros and cons of using a list vs. a deque from the collections module?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Deque vs List",
+      "source": "Custom"
+    },
+    {
+      "question": "How would you reverse a list in place? Provide a code example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "List Reversal",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how slicing works on sequences in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Sequence Slicing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a linked list and how does it differ from an array?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Linked Lists",
+      "source": "Custom"
+    },
+    {
+      "question": "Implement a singly linked list node class in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Linked Lists",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain what a stack is and demonstrate push/pop operations.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Stacks",
+      "source": "Custom"
+    },
+    {
+      "question": "How would you use a list to implement a stack? Are there better alternatives?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Stacks Implementation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a queue and how does it work in FIFO order?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Queues",
+      "source": "Custom"
+    },
+    {
+      "question": "Show how to implement a queue using collections.deque.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Deque Queues",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain what a binary tree is and its common use cases.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Binary Trees",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe in-order, pre-order, and post-order traversals on a binary tree.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Tree Traversal",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a heap, and how is it represented in Python’s heapq module?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Heaps",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you push and pop elements from a heap in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Heap Operations",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between min-heap and max-heap structures.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Heap Types",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a graph in computer science and how can it be represented?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Graphs",
+      "source": "Custom"
+    },
+    {
+      "question": "Show how to represent a graph using adjacency lists in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Graph Representation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain depth-first search (DFS) and breadth-first search (BFS) on graphs.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Graph Traversal",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a hash table and how does it handle collisions?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Hash Tables",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe chaining vs open addressing in hash table collision resolution.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Collision Resolution",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a trie (prefix tree) and where would you use it?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Tries",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how a trie can be used for autocomplete features.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Trie Applications",
+      "source": "Custom"
+    },
+    {
+      "question": "What is big‑O notation, and how is it used to compare data structures?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Big‑O Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare the time complexity of inserting into a list vs. a balanced tree.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Complexity Comparison",
+      "source": "Custom"
+    },
+    {
+      "question": "How would you choose the right data structure for a given problem?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Data Structure Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe a real‑world scenario where a queue is more appropriate than a stack.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Use Cases",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain memory usage differences between a list and a linked list.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Memory Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a circular buffer and how can you implement one in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Circular Buffers",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle dynamic array resizing under the hood?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Dynamic Arrays",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how Python’s list growth strategy affects performance.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "List Growth Strategy",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a skip list and in what scenarios might you use it?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Skip Lists",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you implement a priority queue in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Structures",
+      "topic": "Priority Queues",
+      "source": "Custom"
+    }
+  ]
