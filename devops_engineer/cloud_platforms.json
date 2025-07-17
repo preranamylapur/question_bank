@@ -1,0 +1,303 @@
+[
+    {
+      "question": "Compare the major cloud providers (AWS, Azure, GCP) in terms of core services.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Provider Comparison",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you’d design a highly available architecture on AWS.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "HA Architecture",
+      "source": "Custom"
+    },
+    {
+      "question": "What is serverless computing and what are its trade‑offs?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Serverless",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to set up auto‑scaling in AWS, Azure, or GCP.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Auto‑Scaling",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure cloud resources using IAM best practices?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "IAM",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of shared responsibility in the cloud.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Shared Responsibility",
+      "source": "Custom"
+    },
+    {
+      "question": "What are VPCs (or VNets) and why are they important?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you’d implement multi‑region disaster recovery.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Disaster Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage secrets in cloud environments (e.g., AWS Secrets Manager)?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Secrets Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain cost‑optimization techniques for cloud workloads.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Cost Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Infrastructure as a Service (IaaS) vs Platform as a Service (PaaS)?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "IaaS vs PaaS",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement hybrid cloud connectivity.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Hybrid Cloud",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you configure and manage CDN services (CloudFront, Azure CDN)?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "CDN",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of managed databases in the cloud.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Managed DB",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging and monitoring services does your cloud provider offer?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Cloud Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you’d implement network peering between VPCs/VNets.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Peering",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use cloud-native load balancers?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Load Balancing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to secure data at rest and in transit in the cloud.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "What are spot/​preemptible instances and when do you use them?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Spot Instances",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to deploy container workloads to managed services (ECS, AKS, GKE).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Managed Containers",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage IAM roles for service‑to‑service communication?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cloud Platforms",
+      "topic": "Service IAM",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of serverless database offerings (Aurora Serverless, Cosmos DB).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Serverless DB",
+    "source": "Custom"
+    },
+    {
+      "question": "What strategies exist for cloud cost monitoring and alerting?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Cost Monitoring",
+    "source": "Custom"
+    },
+    {
+      "question": "Describe how to migrate on‑prem workloads to the cloud.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Migration",
+    "source": "Custom"
+    },
+    {
+      "question": "How do you implement tagging strategies for cost allocation?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Tagging",
+    "source": "Custom"
+    },
+    {
+      "question": "Explain how to use managed identity services (IAM, Managed Identities).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Managed Identity",
+    "source": "Custom"
+    },
+    {
+      "question": "What is infrastructure monitoring in the cloud (CloudWatch, Azure Monitor)?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Infra Monitoring",
+    "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement cross‑account access securely.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Cross‑Account Access",
+    "source": "Custom"
+    },
+    {
+      "question": "How do you architect event‑driven systems using cloud services?",
+    "role": "DevOps Engineer",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Event‑Driven Architectures",
+    "source": "Custom"
+    },
+    {
+      "question": "Explain the role of service catalogs and marketplaces.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Cloud Platforms",
+    "topic": "Service Catalogs",
+    "source": "Custom"
+    }
+  ]
+  
