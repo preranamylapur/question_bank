@@ -1,0 +1,313 @@
+[
+    {
+      "question": "What is a wireframe and how does it differ from a prototype?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Wireframe vs Prototype",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain low-fidelity vs high-fidelity prototypes and when to use each.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Fidelity Levels",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools have you used for wireframing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Wireframing Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe your process for creating a clickable prototype.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Clickable Prototypes",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate a prototype with users?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Prototype Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is rapid prototyping and which methods support it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Rapid Prototyping",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use paper prototyping in early discovery.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Paper Prototyping",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you incorporate user feedback into your wireframes?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Feedback Iteration",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a design system and how does it support prototyping?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Design Systems",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you handle responsive layouts in wireframes.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Responsive Wireframes",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the benefits of interactive prototypes over static ones?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Interactive vs Static",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to annotate wireframes for handoff to developers.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Annotation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you decide which screens to prototype first?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Prioritization",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track during prototype testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Testing Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to prototype microinteractions.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Microinteractions",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you prototype complex animations efficiently?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Animation Prototypes",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a clickable flow and how do you map one?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "User Flows",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain framer or principle as prototyping tools.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Advanced Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage versioning of prototypes?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Version Control",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s your approach to prototyping for accessibility?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Accessible Prototypes",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you hand off prototypes to stakeholders for review.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Stakeholder Handoff",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you incorporate real data into your prototypes?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Data-driven Prototypes",
+      "source": "Custom"
+    },
+    {
+      "question": "What is skeleton loading and how do you prototype it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Skeleton Screens",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to prototype responsive behaviors.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Responsive Prototypes",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe prototyping for multi-platform experiences.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Cross‑Platform",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test prototypes on real devices?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Device Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is dark mode prototyping and what considerations apply?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Dark Mode",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you prototype voice interactions.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Voice UI",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe prototyping for AR/VR experiences.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "AR/VR Prototyping",
+      "source": "Custom"
+    },
+    {
+      "question": "What ethical considerations arise when prototyping user data flows?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Ethical Prototyping",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate prototyping into an Agile sprint?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Wireframing & Prototyping",
+      "topic": "Agile Prototyping",
+      "source": "Custom"
+    }
+  ]
+  
