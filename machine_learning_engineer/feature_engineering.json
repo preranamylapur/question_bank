@@ -1,0 +1,383 @@
+[
+    {
+      "question": "What is feature engineering and why is it important?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle missing values in features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Missing Data",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain one‑hot encoding vs. embedding for categorical variables.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Categorical Encoding",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe binning and its effects on model performance.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Binning",
+      "source": "Custom"
+    },
+    {
+      "question": "What techniques exist for scaling numerical features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Scaling",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you generate interaction features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Interactions",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain polynomial feature expansion and when to use it.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Polynomial Features",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe target encoding and its pitfalls.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Target Encoding",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect and remove low‑variance features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Variance Threshold",
+      "source": "Custom"
+    },
+    {
+      "question": "What is feature selection vs feature extraction?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Selection vs Extraction",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain recursive feature elimination (RFE).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "RFE",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe permutation importance for feature evaluation.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Permutation Importance",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you apply PCA as a feature extraction method?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "PCA Extraction",
+      "source": "Custom"
+    },
+    {
+      "question": "What are autoencoder‑based features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Autoencoder Features",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain time‑based feature creation for time series data.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Time Features",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle multicollinearity in feature sets?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Multicollinearity",
+      "source": "Custom"
+    },
+    {
+      "question": "What is target leakage and how do you prevent it?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Target Leakage",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to generate text features (TF‑IDF, embeddings).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Text Features",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain image feature extraction using convolutional nets.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Image Features",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you incorporate domain knowledge into features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Domain Features",
+      "source": "Custom"
+    },
+    {
+      "question": "What are interaction embeddings for categorical variables?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Interaction Embeddings",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feature hashing and its trade‑offs.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Hashing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage high‑cardinality categorical features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "High Cardinality",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain drift‑resistant feature design.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Drift Resistance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is automated feature engineering (e.g., FeatureTools)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Auto FE",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feature store integration in production.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Store Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate engineered features before training?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring do you implement for feature drift?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Drift Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain creating features from streaming data.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Streaming Features",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you store and retrieve features at inference time?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Serving",
+      "source": "Custom"
+    },
+    {
+      "question": "What are privacy‑preserving feature engineering methods?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Privacy",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe multi‑view feature learning.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Multi‑View Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain feedback loops for feature updates in production.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Feedback",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate feature testing into CI pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What challenges exist for cross‑feature interaction at scale?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Scale Challenges",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe managing feature schemas across teams.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Schema Management",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you version‑control feature definitions?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Feature Versioning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain best practices for feature documentation.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Feature Engineering",
+      "topic": "Documentation",
+      "source": "Custom"
+    }
+  ]
+  
