@@ -1,0 +1,373 @@
+[
+    {
+      "question": "What are the differences between full, differential, and incremental backups?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Backup Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Recovery Point Objective (RPO) and Recovery Time Objective (RTO).",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "RPO vs RTO",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform point‑in‑time recovery in a relational database?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Point‑in‑Time Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe log shipping and how it supports disaster recovery.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Log Shipping",
+      "source": "Custom"
+    },
+    {
+      "question": "What is database snapshot backup and when would you use it?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Snapshots",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how backup compression works and its benefits.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Compression",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure backup files and encryption keys?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe a backup retention policy and how to implement it.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Retention Policy",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies exist for backing up very large databases (VLDB)?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "VLDB Backups",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test and validate backups regularly?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Backup Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain tape‑based vs disk‑based backup solutions.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Storage Media",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how cloud‑native backups differ from on‑premise backups.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Cloud Backups",
+      "source": "Custom"
+    },
+    {
+      "question": "What is bare‑metal recovery and how do you prepare for it?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Bare‑Metal Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you schedule automated backups and handle failures?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Automation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of backup catalog or metadata management.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Catalog Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is differential backup chaining and its risks?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Chain Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe cross‑region or cross‑site backup replication.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Geo‑Replication",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform transactional log backup and restore?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Log Backups",
+      "source": "Custom"
+    },
+    {
+      "question": "What third‑party backup tools have you used and why?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Backup Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to backup and restore partitioned tables.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Partitioned Data",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe backup performance tuning techniques.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Performance Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle backup and recovery for high‑availability clusters?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "HA Environments",
+      "source": "Custom"
+    },
+    {
+      "question": "What are synthetic full backups and when are they used?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Synthetic Backups",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain database consistency checks after a restore.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Consistency Checks",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe archiving and purging strategies for backup files.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Archival",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate backup operations into DevOps pipelines?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "CI/CD Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring and alerting would you put around backups?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain backup consistency models in distributed databases.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Distributed Consistency",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate backup integrity (checksums, hashes)?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Integrity Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe emergency restore procedures under tight SLAs.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Emergency Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the challenges of backing up NoSQL databases?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "NoSQL Backups",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain continuous data protection (CDP).",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "CDP",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle backing up encrypted data at rest?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Encrypted Data",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of warm, cold, and hot standby for recovery.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Standby Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "What is cross‑platform restore and its limitations?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Cross‑Platform",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you document and audit backup and recovery procedures?",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Documentation & Audit",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain your approach to end‑to‑end recovery drills.",
+      "role": "Database Administrator",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Backup & Recovery",
+      "topic": "Recovery Drills",
+      "source": "Custom"
+    }
+  ]
+  
