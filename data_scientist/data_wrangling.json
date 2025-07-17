@@ -1,0 +1,373 @@
+[
+    {
+      "question": "What are the common steps in a data cleaning pipeline?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Cleaning Steps",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle missing values in a dataset?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Missing Data",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain strategies for outlier detection and treatment.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Outliers",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe techniques to normalize or standardize features.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Scaling",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you encode categorical variables?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Categorical Encoding",
+      "source": "Custom"
+    },
+    {
+      "question": "What is one‑hot encoding and when might it be problematic?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "One‑Hot Encoding",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain label encoding vs target encoding.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Encoding Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect and remove duplicate records?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Duplicates",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to parse and clean date/time fields.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Date Parsing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are common techniques for text cleaning?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Text Cleaning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle inconsistent categorical labels?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Label Harmonization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain techniques for imputing missing categorical data.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Categorical Imputation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is feature extraction from text (e.g., TF-IDF)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Text Features",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to pivot and unpivot data in tools like pandas.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Reshaping",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you merge/join multiple datasets?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Merging",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between inner, left, right, and outer joins.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Join Types",
+      "source": "Custom"
+    },
+    {
+      "question": "What are common file formats for data interchange?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "File Formats",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to load data efficiently from a database.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Data Loading",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you optimize memory usage when wrangling large datasets?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Memory Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain chunking strategies for big data processing.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Chunking",
+      "source": "Custom"
+    },
+    {
+      "question": "What is schema inference and why is it useful?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Schema Inference",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe techniques to flatten nested JSON structures.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "JSON Flattening",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate data quality and integrity?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of data profiling before analysis.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Profiling",
+      "source": "Custom"
+    },
+    {
+      "question": "What is deduplication and how is it implemented at scale?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Deduplication",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to anonymize or pseudonymize data.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Anonymization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage and document data wrangling pipelines?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Pipeline Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of ETL vs ELT.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "ETL vs ELT",
+      "source": "Custom"
+    },
+    {
+      "question": "What libraries or frameworks do you use for wrangling (pandas, dplyr)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to track data lineage.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Lineage",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle incremental data loads?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Incremental Loading",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain version control for data and code in wrangling.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Versioning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of notebooks (Jupyter) in the wrangling process?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Notebooks",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle streaming or real‑time data wrangling?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Streaming",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the challenges of wrangling geospatial data.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Geospatial Wrangling",
+      "source": "Custom"
+    },
+    {
+      "question": "What approaches exist for wrangling hierarchical data?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Hierarchical Data",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate data wrangling into a production workflow?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Data Wrangling",
+      "topic": "Productionization",
+      "source": "Custom"
+    }
+  ]
+  
