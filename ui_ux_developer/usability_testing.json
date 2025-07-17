@@ -1,0 +1,323 @@
+[
+    {
+      "question": "What is usability testing and why is it important?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between moderated and unmoderated testing.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Test Formats",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you recruit participants for usability tests?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Participant Recruitment",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to create a usability test script.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Test Script",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track during usability testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the think-aloud protocol and its benefits.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Think-Aloud",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conduct remote usability testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Remote Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe tree testing and card sorting for IA validation.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "IA Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is guerrilla testing and when might you use it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Guerrilla Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you analyze qualitative data from usability sessions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Qualitative Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to measure task success and completion rates.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Task Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools do you use for recording usability tests?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Testing Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to synthesize usability findings into recommendations.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Synthesis",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you prioritize usability issues after testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Issue Prioritization",
+      "source": "Custom"
+    },
+    {
+      "question": "What is first-click testing and why is it useful?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "First-Click Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of usability heuristics and Nielsen’s 10 principles.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Heuristics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conduct A/B testing for UI changes?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "A/B Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to measure net promoter score (NPS) in tests.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "NPS",
+      "source": "Custom"
+    },
+    {
+      "question": "What is cognitive walkthrough and when is it used?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Cognitive Walkthrough",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test for accessibility during usability sessions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Accessible Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain longitudinal usability studies.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Longitudinal Studies",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate usability testing into Agile sprints.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Agile Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What role do analytics play in complementing usability tests?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Analytics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure unbiased results in unmoderated testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Bias Prevention",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain discount usability methods and examples.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Discount Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to report and communicate usability findings.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Reporting",
+      "source": "Custom"
+    },
+    {
+      "question": "What is success rate and time-on-task metrics in testing?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Task Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle recruitment challenges for niche user groups?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Recruitment Challenges",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of eye-tracking in usability studies.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Eye-Tracking",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe remote unmoderated tools you’ve used.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Unmoderated Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "What ethical considerations do you keep in usability tests?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Ethics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you follow up on usability issues after launch?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Usability Testing",
+      "topic": "Post-Launch Testing",
+      "source": "Custom"
+    }
+  ]
+  
