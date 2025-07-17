@@ -1,0 +1,382 @@
+[
+    {
+      "question": "What is a neural network and how does it learn?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the vanishing and exploding gradient problems.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Optimization Issues",
+      "source": "Custom"
+    },
+    {
+      "question": "How do activation functions impact model performance?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Activation Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare ReLU, Leaky ReLU, and ELU.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Activation Variants",
+      "source": "Custom"
+    },
+    {
+      "question": "What is batch normalization and why is it used?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Normalization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain dropout and how it prevents overfitting.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Regularization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how a convolutional neural network (CNN) works.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "CNN Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "What are pooling layers and why are they used in CNNs?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Pooling",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the architecture of ResNet and skip connections.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "ResNet",
+      "source": "Custom"
+    },
+    {
+      "question": "How do recurrent neural networks (RNNs) handle sequential data?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "RNN Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "What problems do LSTM and GRU solve compared to vanilla RNNs?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Gating Mechanisms",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Transformer architecture and self‑attention.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Transformers",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain positional encoding in Transformers.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Attention Mechanisms",
+      "source": "Custom"
+    },
+    {
+      "question": "What is transfer learning and when would you use it?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Transfer Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you fine‑tune a pre‑trained deep model?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Fine‑Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe autoencoders and their use cases.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Autoencoders",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a variational autoencoder (VAE)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "VAE",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of generative adversarial networks (GANs).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "GANs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you train a GAN and avoid mode collapse?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "GAN Training",
+      "source": "Custom"
+    },
+    {
+      "question": "What are attention‑based GANs (e.g., SAGAN)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Advanced GANs",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the architecture of U-Net.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "U-Net",
+      "source": "Custom"
+    },
+    {
+      "question": "How does YOLO object detection work?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Object Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain semantic vs instance segmentation.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Segmentation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is knowledge distillation and why use it?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Model Compression",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe quantization and pruning techniques.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Model Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you deploy a deep learning model to production?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Deployment",
+      "source": "Custom"
+    },
+    {
+      "question": "What frameworks have you used (TensorFlow, PyTorch)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Frameworks",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain mixed‑precision training.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Mixed Precision",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle class imbalance in deep learning?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Imbalance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe sequence‑to‑sequence models.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Seq2Seq",
+      "source": "Custom"
+    },
+    {
+      "question": "What is beam search in decoding?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Decoding",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain reinforcement learning basics and deep RL.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Deep Reinforcement Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor and debug deep learning training jobs?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Training & Debugging",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe distributed training strategies.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Distributed Training",
+      "source": "Custom"
+    },
+    {
+      "question": "What hardware accelerators have you used (GPU, TPU)?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Accelerators",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the limitations of deep learning.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Limitations",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure reproducibility in deep learning experiments?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Reproducibility",
+      "source": "Custom"
+    },
+    {
+      "question": "What ethical considerations arise in deep learning?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Deep Learning",
+      "topic": "Ethics",
+      "source": "Custom"
+    }
+  ]
