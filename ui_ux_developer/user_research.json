@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What is user research and why is it important in UI/UX?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between qualitative and quantitative research methods.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Research Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you recruit participants for a user study?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Participant Recruitment",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a user persona and how do you create one?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Personas",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you conduct contextual inquiry.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Contextual Inquiry",
+      "source": "Custom"
+    },
+    {
+      "question": "What is affinity diagramming and when do you use it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Affinity Diagramming",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain card sorting and its benefits.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Card Sorting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you analyze survey data to inform design decisions?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Survey Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you run a focus group session.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Focus Groups",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track for user satisfaction?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "User Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate your user research findings?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain diary studies and their use cases.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Diary Studies",
+      "source": "Custom"
+    },
+    {
+      "question": "What is ethnographic research in design, and when would you use it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Ethnography",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you synthesize user insights into actionable items?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Insight Synthesis",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how journey mapping helps in understanding user experiences.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Journey Mapping",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools do you use for remote user research?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Remote Research Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle bias in your research methods?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Bias Mitigation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Kano model and how it informs prioritization.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Kano Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is user segmentation and why is it useful?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Segmentation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure your research findings reach stakeholders?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Stakeholder Communication",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the process of card-based scenario testing.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Scenario Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the challenges of participatory design and how do you address them?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Participatory Design",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you use heatmaps and click analytics in research.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Behavior Analytics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conduct competitive analysis as part of user research?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Competitive Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is guerrilla testing and how do you run it?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Guerrilla Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how intercept interviews are conducted.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Intercept Interviews",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use A/B testing to validate design hypotheses?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "A/B Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is tree testing and how does it inform information architecture?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Tree Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you present research findings visually.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Visual Reporting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you track and measure the impact of your research on product metrics?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Impact Measurement",
+      "source": "Custom"
+    },
+    {
+      "question": "What ethical considerations do you keep in mind during research?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Ethics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how participatory workshops can inform design decisions.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Workshops",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate user research into an Agile process?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Agile Research",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools do you use to prototype research concepts quickly?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Quick Prototyping",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain longitudinal studies and when to conduct them.",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Longitudinal Studies",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure your user research is inclusive of diverse populations?",
+      "role": "UI/UX Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "User Research",
+      "topic": "Inclusive Research",
+      "source": "Custom"
+    }
+  ]
+  
