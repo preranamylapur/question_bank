@@ -1,0 +1,322 @@
+[
+  {
+    "question": "What is risk management and why is it important in finance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of financial risks faced by organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Types of Risks",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the process of risk identification in financial management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Identification",
+    "source": "Custom"
+  },
+  {
+    "question": "What is risk assessment and how is it performed?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Assessment",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of risk matrices in risk management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Matrices",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you measure and quantify financial risk?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Measurement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is value at risk (VaR) and how is it used in finance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "VaR",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of risk appetite in organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Appetite",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use scenario analysis in risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Scenario Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is stress testing and how is it applied in finance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Stress Testing",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of hedging in risk management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Hedging",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of insurance in managing financial risk?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Insurance",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use derivatives for risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Derivatives",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of credit risk and how it is managed.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Credit Risk",
+    "source": "Custom"
+  },
+  {
+    "question": "What is market risk and how is it assessed?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Market Risk",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of operational risk management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Operational Risk",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use key risk indicators (KRIs) in risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "KRIs",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of internal controls in risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Internal Controls",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of risk registers in organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Registers",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use risk management frameworks (e.g., COSO, ISO 31000)?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Frameworks",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of risk culture in organizations?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Culture",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of risk transfer strategies.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Transfer",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use risk mitigation techniques in finance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Mitigation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of compliance in risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of risk communication in organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Communication",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use risk management to support strategic planning?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Strategic Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of risk reporting in organizations?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of risk heat maps in risk management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Risk Heat Maps",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use risk management to improve organizational performance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Performance Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of ethics in risk management?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Ethics",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of risk management in project management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Project Management",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use risk management to manage financial crises?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Risk Management",
+    "topic": "Crisis Management",
+    "source": "Custom"
+  }
+]

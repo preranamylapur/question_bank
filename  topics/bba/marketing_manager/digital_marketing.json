@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is digital marketing and why is it important in today's business environment?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between inbound and outbound digital marketing strategies.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Strategies",
+    "source": "Custom"
+  },
+  {
+    "question": "List and describe the main channels used in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Channels",
+    "source": "Custom"
+  },
+  {
+    "question": "How does SEO contribute to digital marketing success?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "SEO",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the key metrics to track in a digital marketing campaign?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of creating a digital marketing strategy from scratch.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Strategy Development",
+    "source": "Custom"
+  },
+  {
+    "question": "What is content marketing and how does it fit into digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Content Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the role of social media in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Social Media",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you measure ROI in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "ROI Measurement",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the challenges of digital marketing in a global context?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Global Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the customer journey in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Customer Journey",
+    "source": "Custom"
+  },
+  {
+    "question": "What is pay-per-click (PPC) advertising and how does it work?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "PPC",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you optimize a website for search engines?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "SEO Optimization",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the importance of mobile marketing in digital campaigns.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Mobile Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "What is email marketing and what are best practices for it?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Email Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use analytics to improve digital marketing performance?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the role of influencers in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Influencer Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "What are landing pages and why are they important?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Landing Pages",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you segment audiences for digital campaigns?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Audience Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain retargeting and how it is used in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Retargeting",
+    "source": "Custom"
+  },
+  {
+    "question": "What is programmatic advertising?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Programmatic Advertising",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with data privacy laws in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Data Privacy",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of video marketing in digital campaigns.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Video Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "What is affiliate marketing and how does it work?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Affiliate Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use A/B testing in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "A/B Testing",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of conversion rate optimization (CRO).",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "CRO",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the latest trends in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Trends",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage a digital marketing budget?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Budgeting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the impact of artificial intelligence on digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "AI in Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of chatbots in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Chatbots",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you handle negative feedback on digital platforms?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Reputation Management",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of Google Analytics in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Google Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the ethical considerations in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Ethics",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use customer personas in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Customer Personas",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of running a social media ad campaign.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Social Media Ads",
+    "source": "Custom"
+  },
+  {
+    "question": "What is remarketing and how is it different from retargeting?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Remarketing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use storytelling in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Storytelling",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of user experience (UX) in digital marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "UX",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of automation tools in digital marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Automation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you integrate offline and online marketing strategies?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Digital Marketing",
+    "topic": "Integration",
+    "source": "Custom"
+  }
+]

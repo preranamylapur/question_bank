@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is branding and why is it important for businesses?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main elements of a brand.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Elements",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between brand identity and brand image.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Identity vs Image",
+    "source": "Custom"
+  },
+  {
+    "question": "What is brand equity and how is it measured?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Equity",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand positioning in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Positioning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you create a strong brand personality?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Personality",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of storytelling in branding?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Storytelling",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of logos and symbols in brand identity.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Logos & Symbols",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage brand consistency across channels?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Consistency",
+    "source": "Custom"
+  },
+  {
+    "question": "What is co-branding and how is it used in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Co-Branding",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand ambassadors in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Ambassadors",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use social media to build a brand?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Social Media",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of brand loyalty?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Loyalty",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of brand audits in brand management.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use customer experience to strengthen a brand?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Customer Experience",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of packaging in branding?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Packaging",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand repositioning strategies.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Repositioning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you measure brand awareness?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Awareness",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of brand differentiation?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Differentiation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of emotional branding in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Emotional Branding",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use influencer marketing to build a brand?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Influencer Marketing",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of brand communities in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Communities",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand licensing in business.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Licensing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use brand storytelling to connect with customers?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Storytelling",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of brand reputation management?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Reputation Management",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of brand extension strategies.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Extension",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use customer feedback to improve a brand?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Customer Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of brand guidelines in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Guidelines",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand monitoring tools.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Monitoring Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use brand partnerships to grow a business?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Partnerships",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of brand recall in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Recall",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of brand architecture in managing multiple brands.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Architecture",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use brand audits to identify strengths and weaknesses?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of brand advocacy in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Advocacy",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brand valuation methods.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Brand Valuation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use brand repositioning to adapt to market changes?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Branding",
+    "topic": "Repositioning",
+    "source": "Custom"
+  }
+]

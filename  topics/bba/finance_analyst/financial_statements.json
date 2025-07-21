@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What are financial statements and why are they important for businesses?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List and describe the three main types of financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Types",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the components of a balance sheet.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Balance Sheet",
+    "source": "Custom"
+  },
+  {
+    "question": "What is an income statement and what information does it provide?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Income Statement",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the structure of a cash flow statement.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Cash Flow Statement",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you analyze a company's liquidity using financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Liquidity Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between assets and liabilities?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Assets vs Liabilities",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of shareholders' equity.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Shareholders' Equity",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you interpret profitability ratios from financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Profitability Ratios",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the purpose of notes to financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Notes",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of preparing a trial balance.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Trial Balance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between current and non-current assets?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Current vs Non-Current Assets",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use financial statements to assess a company's solvency?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Solvency Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the matching principle in accounting.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Matching Principle",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the accrual basis of accounting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Accrual Accounting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of comparative financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Comparative Statements",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you analyze trends using financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Trend Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the significance of revenue recognition in financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Revenue Recognition",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between gross profit and net profit.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Gross vs Net Profit",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use financial statements to evaluate a company's performance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Performance Evaluation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of auditors in financial statement preparation?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Auditors",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the limitations of financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Limitations",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the purpose of consolidated financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Consolidated Statements",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you interpret the statement of changes in equity?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Changes in Equity",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of materiality in financial reporting.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Materiality",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between operating and non-operating income?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Operating vs Non-Operating Income",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use ratio analysis with financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Ratio Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the impact of accounting policies on financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Accounting Policies",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of management discussion and analysis (MD&A) in financial reporting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "MD&A",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use financial statements for investment decisions?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Investment Decisions",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of fair value in financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Fair Value",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the significance of earnings per share (EPS) in financial analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "EPS",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use segment reporting in financial analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Segment Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of interim financial statements.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Interim Statements",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of disclosure in financial statements?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Disclosure",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use financial statements to assess creditworthiness?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Financial Statements",
+    "topic": "Creditworthiness",
+    "source": "Custom"
+  }
+]

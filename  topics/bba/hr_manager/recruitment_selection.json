@@ -1,0 +1,322 @@
+[
+  {
+    "question": "What is recruitment and why is it important for organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main steps in the recruitment process.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Process Steps",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between internal and external recruitment.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Internal vs External",
+    "source": "Custom"
+  },
+  {
+    "question": "What is job analysis and how does it support recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Job Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of job descriptions and specifications in recruitment.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Job Descriptions",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you attract qualified candidates to apply for a job?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Attracting Candidates",
+    "source": "Custom"
+  },
+  {
+    "question": "What is employer branding and how does it impact recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Employer Branding",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of online job portals in recruitment.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Job Portals",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you screen and shortlist candidates?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Screening",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of interviews in the selection process?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Interviews",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe different types of interviews used in selection.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Interview Types",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you assess candidate fit for organizational culture?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Culture Fit",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of psychometric testing in selection?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Psychometric Testing",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of reference checks in the selection process.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Reference Checks",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure fairness and diversity in recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Fairness & Diversity",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of onboarding in the recruitment process?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Onboarding",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of recruitment agencies in talent acquisition.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Recruitment Agencies",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use social media for recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Social Media",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of employee referrals in recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Employee Referrals",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of employer value proposition (EVP).",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "EVP",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data analytics in recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Data Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the impact of technology on recruitment and selection?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Technology Impact",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of applicant tracking systems (ATS).",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "ATS",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you measure the effectiveness of recruitment strategies?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Effectiveness Measurement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of succession planning in recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Succession Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of campus recruitment in talent acquisition.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Campus Recruitment",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure legal compliance in recruitment and selection?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Legal Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of diversity and inclusion in recruitment?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Diversity & Inclusion",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of talent pools in recruitment planning.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Talent Pools",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use recruitment metrics to improve hiring outcomes?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Recruitment Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of probation periods in the selection process?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Probation Periods",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of background checks in recruitment.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Recruitment & Selection",
+    "topic": "Background Checks",
+    "source": "Custom"
+  }
+]

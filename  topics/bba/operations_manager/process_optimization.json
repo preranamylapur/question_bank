@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is process optimization and why is it important in operations management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main steps in the process optimization cycle.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Cycle Steps",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between process improvement and process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Improvement vs Optimization",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of data analysis in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Data Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of process mapping in optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Process Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you identify bottlenecks in a process?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Bottlenecks",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of continuous improvement in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Continuous Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of Lean principles in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Lean Principles",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use Six Sigma in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Six Sigma",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of automation in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Automation",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of simulation in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Simulation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use key performance indicators (KPIs) in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of process standardization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Standardization",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of benchmarking in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Benchmarking",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process reengineering in optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Reengineering",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of change management in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Change Management",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of value stream mapping in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Value Stream Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process audits to identify improvement areas?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Process Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of employee involvement in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Employee Involvement",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of process flowcharts in optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Flowcharts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use root cause analysis in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Root Cause Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of digital transformation in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Digital Transformation",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of simulation software in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Simulation Software",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process metrics to drive optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Process Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of customer feedback in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Customer Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of agile methodologies in process optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Agile Methodologies",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process documentation to support optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of leadership in process optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Leadership",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of process improvement teams.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Improvement Teams",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process optimization to reduce costs?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Cost Reduction",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of process flexibility in optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Flexibility",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of process dashboards in optimization.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Dashboards",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process optimization to improve customer satisfaction?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Process Optimization",
+    "topic": "Customer Satisfaction",
+    "source": "Custom"
+  }
+]

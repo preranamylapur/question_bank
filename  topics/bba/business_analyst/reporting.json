@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What is business reporting and why is it important?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of business reports used in organizations.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Types of Reports",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between operational and analytical reports.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Operational vs Analytical",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure accuracy in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Accuracy",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of dashboards in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Dashboards",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of creating a business report from raw data.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Report Creation",
+    "source": "Custom"
+  },
+  {
+    "question": "What are key performance indicators (KPIs) and how are they used in reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data visualization in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Data Visualization",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the importance of audience analysis in reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Audience Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is ad hoc reporting and when is it used?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Ad Hoc Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of Excel in business reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Excel",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you automate business reporting processes?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Automation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of business intelligence tools in reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Business Intelligence",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of real-time reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Real-Time Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure data security in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Data Security",
+    "source": "Custom"
+  },
+  {
+    "question": "What is variance analysis and how is it reported?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Variance Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of PowerPoint in business reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "PowerPoint",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use storytelling in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Storytelling",
+    "source": "Custom"
+  },
+  {
+    "question": "What is exception reporting and why is it important?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Exception Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of SQL in business reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "SQL",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use pivot tables in reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Pivot Tables",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of report formatting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Formatting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of charts and graphs in reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Charts and Graphs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between internal and external reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Internal vs External",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of benchmarking in business reporting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Benchmarking",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use reporting to support business strategy?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Strategy Support",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of feedback in improving business reports?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of cloud-based reporting tools.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Cloud Reporting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use reporting to identify business risks?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Risk Identification",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of timeliness in business reporting?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Timeliness",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of reporting in regulatory compliance.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Regulatory Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use reporting to monitor project progress?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Project Monitoring",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between summary and detailed reports?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "Summary vs Detailed",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of reporting in customer relationship management (CRM).",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Reporting",
+    "topic": "CRM Reporting",
+    "source": "Custom"
+  }
+]

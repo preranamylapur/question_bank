@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is quality control and why is it important in operations management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main tools used in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between quality assurance and quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Assurance vs Control",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of inspection in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Inspection",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of statistical process control (SPC).",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "SPC",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you implement a quality management system (QMS)?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "QMS",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of ISO standards in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "ISO Standards",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of Six Sigma in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Six Sigma",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use control charts in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Control Charts",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of continuous improvement in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Continuous Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of root cause analysis in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Root Cause Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use Pareto analysis in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Pareto Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of quality audits?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Quality Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of fishbone diagrams in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Fishbone Diagrams",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use check sheets in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Check Sheets",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of quality circles in organizations?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Quality Circles",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of benchmarking in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Benchmarking",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process mapping in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Process Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of customer feedback in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Customer Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of total quality management (TQM) principles.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "TQM",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use quality function deployment (QFD) in product development?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "QFD",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of process capability analysis in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Process Capability",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of gemba walks in quality improvement.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Gemba Walks",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use kaizen principles in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Kaizen",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of documentation in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of process audits in quality control.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Process Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use quality metrics to drive improvement?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Quality Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of supplier quality management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Supplier Quality",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of failure mode and effects analysis (FMEA).",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "FMEA",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use statistical sampling in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Statistical Sampling",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of customer satisfaction in quality control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Quality Control",
+    "topic": "Customer Satisfaction",
+    "source": "Custom"
+  }
+]

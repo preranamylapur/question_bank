@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is business process modeling and why is it important?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the main steps involved in business process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process Steps",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a process map and how is it used in business analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between 'as-is' and 'to-be' process models.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "As-Is vs To-Be",
+    "source": "Custom"
+  },
+  {
+    "question": "What is BPMN and why is it widely used?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "BPMN",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the role of flowcharts in business process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Flowcharts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you identify process bottlenecks using process models?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Bottlenecks",
+    "source": "Custom"
+  },
+  {
+    "question": "What is process reengineering and how does modeling support it?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Reengineering",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of swimlane diagrams in process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Swimlane Diagrams",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the benefits of standardizing business processes?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Standardization",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the difference between manual and automated business processes.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Manual vs Automated",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you document business rules in process models?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Business Rules",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of stakeholders in business process modeling?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Stakeholders",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of process improvement and how modeling helps.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the limitations of business process modeling?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Limitations",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of value stream mapping in process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Value Stream Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you validate a business process model?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Validation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between a process and a procedure?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process vs Procedure",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of SIPOC diagrams in process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "SIPOC",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process modeling to support digital transformation?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Digital Transformation",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of use case diagrams in business analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Use Case Diagrams",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of process documentation?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process modeling tools (e.g., Visio, Lucidchart)?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Modeling Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of process ownership.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process Ownership",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of KPIs in process modeling?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of Gantt charts in process management.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Gantt Charts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process modeling to identify automation opportunities?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Automation Opportunities",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between a workflow and a process?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Workflow vs Process",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of RACI charts in process modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "RACI Charts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process modeling to support compliance requirements?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of event-driven process chains (EPC) in modeling.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "EPC",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of continuous improvement in process modeling?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Continuous Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use process modeling to support mergers and acquisitions?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Mergers and Acquisitions",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of process simulation in business analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Process Simulation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of feedback loops in process modeling?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Feedback Loops",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of process modeling in change management.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Business Process Modeling",
+    "topic": "Change Management",
+    "source": "Custom"
+  }
+]

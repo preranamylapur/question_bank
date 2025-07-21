@@ -1,0 +1,342 @@
+[
+  {
+    "question": "What is training and development and why is it important for organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main steps in the training and development process.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Process Steps",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between training and development.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Training vs Development",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a training needs analysis and how is it conducted?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Needs Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of on-the-job training methods.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "On-the-Job Training",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you design an effective training program?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Program Design",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of e-learning in training and development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "E-Learning",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of mentoring and coaching in employee development.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Mentoring & Coaching",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you evaluate the effectiveness of a training program?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Evaluation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of continuous learning in organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Continuous Learning",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of workshops and seminars in training.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Workshops & Seminars",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use feedback to improve training programs?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of leadership development in organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Leadership Development",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of simulations and case studies in training.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Simulations & Case Studies",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage training budgets and resources?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Budget & Resources",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of onboarding training for new employees?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Onboarding Training",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of cross-training in organizations.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Cross-Training",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to support organizational change?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Change Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of compliance training in organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Compliance Training",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of blended learning in training programs.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Blended Learning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to improve employee engagement?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Employee Engagement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of succession planning in employee development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Succession Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of learning management systems (LMS) in training.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "LMS",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to support diversity and inclusion?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Diversity & Inclusion",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of soft skills training in employee development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Soft Skills",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of gamification in training programs.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Gamification",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to support career development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Career Development",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of evaluation and feedback in training?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Evaluation & Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of action learning in employee development.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Action Learning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to support organizational goals?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Organizational Goals",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of coaching in leadership development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Coaching",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of peer learning in training programs.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Peer Learning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use training to improve employee retention?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Employee Retention",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of training evaluation models (e.g., Kirkpatrick Model)?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Training & Development",
+    "topic": "Evaluation Models",
+    "source": "Custom"
+  }
+]

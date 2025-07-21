@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is supply chain management and why is it important for organizations?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main components of a supply chain.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Components",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between upstream and downstream supply chain activities.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Upstream vs Downstream",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of logistics in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Logistics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of inventory management in supply chains.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Inventory Management",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage supplier relationships in a supply chain?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Supplier Relationships",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of demand forecasting in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Demand Forecasting",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of technology in supply chain management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Technology",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you optimize transportation in a supply chain?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Transportation Optimization",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of warehousing in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Warehousing",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of just-in-time (JIT) inventory systems.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "JIT Inventory",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage risks in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Risk Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of sustainability in supply chains?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Sustainability",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of key performance indicators (KPIs) in supply chain management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain analytics to improve performance?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of procurement in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Procurement",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of supply chain integration strategies.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Integration Strategies",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain mapping to identify bottlenecks?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of collaboration in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Collaboration",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of supply chain visibility tools.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Visibility Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain segmentation to improve efficiency?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of reverse logistics in supply chain management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Reverse Logistics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of supply chain risk assessment tools.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Risk Assessment Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain finance to optimize cash flow?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Supply Chain Finance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of ethical sourcing in supply chains?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Ethical Sourcing",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of automation in supply chain management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Automation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain benchmarking to improve performance?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Benchmarking",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of global supply chains in modern business?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Global Supply Chains",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of supply chain resilience strategies.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Resilience Strategies",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain collaboration platforms?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Collaboration Platforms",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of supply chain transparency?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Transparency",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of supply chain control towers.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Control Towers",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use supply chain digital twins for optimization?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Supply Chain Management",
+    "topic": "Digital Twins",
+    "source": "Custom"
+  }
+]

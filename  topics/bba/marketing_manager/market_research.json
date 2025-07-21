@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is market research and why is it important for businesses?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of market research methods.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Methods",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between primary and secondary research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Primary vs Secondary",
+    "source": "Custom"
+  },
+  {
+    "question": "What is qualitative research and how is it used in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Qualitative Research",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of quantitative research in market analysis.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Quantitative Research",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you design a market research survey?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Survey Design",
+    "source": "Custom"
+  },
+  {
+    "question": "What is sampling and why is it important in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Sampling",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of focus groups in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Focus Groups",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you analyze market research data?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Data Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of secondary data in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Secondary Data",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of online research tools in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Online Tools",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use competitor analysis in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Competitor Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of customer segmentation in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Customer Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of SWOT analysis in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "SWOT Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market trends in research and strategy?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Market Trends",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of data visualization in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Data Visualization",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of customer feedback in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Customer Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use big data in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Big Data",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of ethical considerations in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Ethics",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of experimental research in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Experimental Research",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to identify new opportunities?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Opportunity Identification",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of secondary research in international markets?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "International Research",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of online panels in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Online Panels",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to support product development?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Product Development",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of market segmentation in research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Market Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of conjoint analysis in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Conjoint Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to evaluate marketing campaigns?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Campaign Evaluation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of predictive analytics in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Predictive Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of mobile research in market analysis.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Mobile Research",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to improve customer satisfaction?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Customer Satisfaction",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of data privacy in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Data Privacy",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of eye-tracking studies in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Eye-Tracking",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to support branding decisions?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Branding",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of social media analytics in market research?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Social Media Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of heat maps in market research.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Heat Maps",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market research to support pricing strategies?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Market Research",
+    "topic": "Pricing Strategies",
+    "source": "Custom"
+  }
+]

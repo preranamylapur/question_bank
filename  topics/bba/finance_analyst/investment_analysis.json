@@ -1,0 +1,342 @@
+[
+  {
+    "question": "What is investment analysis and why is it important for financial decision-making?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of investments analyzed by finance professionals.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Types of Investments",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of risk and return in investment analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Risk and Return",
+    "source": "Custom"
+  },
+  {
+    "question": "What is portfolio diversification and why is it important?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Diversification",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of fundamental analysis in evaluating investments.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Fundamental Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is technical analysis and how is it used in investment decisions?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Technical Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you calculate the expected return of an investment?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Expected Return",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of net present value (NPV) in investment analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "NPV",
+    "source": "Custom"
+  },
+  {
+    "question": "What is internal rate of return (IRR) and how is it used?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "IRR",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of payback period in investment decisions.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Payback Period",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you assess the risk of an investment?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Risk Assessment",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between systematic and unsystematic risk?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Systematic vs Unsystematic Risk",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of beta in investment analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Beta",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use the capital asset pricing model (CAPM) in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "CAPM",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the efficient market hypothesis (EMH)?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "EMH",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of scenario analysis in investment decisions.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Scenario Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is sensitivity analysis and how is it applied in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Sensitivity Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use Monte Carlo simulation in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Monte Carlo Simulation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of intrinsic value in investment analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Intrinsic Value",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of financial ratios in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Financial Ratios",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of discounted cash flow (DCF) analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "DCF Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you evaluate the performance of a mutual fund?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Mutual Fund Performance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the Sharpe ratio and how is it used in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Sharpe Ratio",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of alpha in investment performance measurement.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Alpha",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use bond ratings in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Bond Ratings",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between equity and debt investments?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Equity vs Debt",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of real estate as an investment option.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Real Estate",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you analyze the risk of international investments?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "International Risk",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of behavioral finance in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Behavioral Finance",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of scenario planning in investment analysis.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Scenario Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use financial modeling in investment analysis?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Financial Modeling",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of due diligence in investment decisions?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Due Diligence",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of scenario analysis in risk management for investments.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Risk Management",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use investment analysis to support strategic business decisions?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Investment Analysis",
+    "topic": "Strategic Decisions",
+    "source": "Custom"
+  }
+]

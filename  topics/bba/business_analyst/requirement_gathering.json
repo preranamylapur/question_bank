@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What is requirement gathering and why is it important in business analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main techniques used for requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Techniques",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between functional and non-functional requirements.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Types of Requirements",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you prioritize requirements during a project?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Prioritization",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a stakeholder and what is their role in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Stakeholders",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of interviews in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Interviews",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use questionnaires and surveys for gathering requirements?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Surveys",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a use case and how is it used in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Use Cases",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the importance of clear and unambiguous requirements.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Clarity",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you handle conflicting requirements from different stakeholders?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Conflict Resolution",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a requirements traceability matrix (RTM)?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "RTM",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of workshops in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Workshops",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you document requirements?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of prototyping in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Prototyping",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of observation in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Observation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure requirements are testable?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Testability",
+    "source": "Custom"
+  },
+  {
+    "question": "What is requirements elicitation?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Elicitation",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of brainstorming in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Brainstorming",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you verify and validate requirements?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Verification and Validation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between requirements analysis and requirements gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Analysis vs Gathering",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of user stories in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "User Stories",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use scenarios and use cases in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Scenarios and Use Cases",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of requirement reviews?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Reviews",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of focus groups in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Focus Groups",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage changing requirements during a project?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Change Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of acceptance criteria in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Acceptance Criteria",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of storyboarding in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Storyboarding",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use observation and shadowing in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Observation and Shadowing",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of traceability in requirements management?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Traceability",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of document analysis in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Document Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure requirements are feasible and realistic?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Feasibility",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of a business analyst in requirement gathering?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "BA Role",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of mind mapping in requirement gathering.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Mind Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use requirements workshops to build consensus?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Consensus Building",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between requirements and specifications?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Requirement Gathering",
+    "topic": "Requirements vs Specifications",
+    "source": "Custom"
+  }
+]

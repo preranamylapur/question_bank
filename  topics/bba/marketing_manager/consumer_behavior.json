@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is consumer behavior and why is it important for marketers?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main factors that influence consumer behavior.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Influencing Factors",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between individual and group consumer behavior.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Individual vs Group",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the consumer decision-making process?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Decision-Making Process",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the role of perception in consumer behavior.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Perception",
+    "source": "Custom"
+  },
+  {
+    "question": "How do attitudes and beliefs affect consumer choices?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Attitudes & Beliefs",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the impact of culture on consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Culture",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of motivation theories in understanding consumers.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Motivation Theories",
+    "source": "Custom"
+  },
+  {
+    "question": "How do social factors influence consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Social Factors",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of family in consumer decision-making?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Family",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of reference groups in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Reference Groups",
+    "source": "Custom"
+  },
+  {
+    "question": "How do personal factors affect consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Personal Factors",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of lifestyle in consumer segmentation?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Lifestyle",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of consumer learning theories in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Learning Theories",
+    "source": "Custom"
+  },
+  {
+    "question": "How do marketers use perception mapping?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Perception Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of emotions in consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Emotions",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of consumer journey mapping in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Journey Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use customer feedback to understand consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Customer Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the impact of digital media on consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Digital Media",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of behavioral segmentation in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Behavioral Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data analytics to study consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Data Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of post-purchase behavior in marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Post-Purchase Behavior",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of opinion leaders in influencing consumer behavior.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Opinion Leaders",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use market segmentation to target consumers?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Market Segmentation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of brand loyalty in consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Brand Loyalty",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of customer personas in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Customer Personas",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use social media to study consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Social Media",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of word-of-mouth in consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Word-of-Mouth",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of neuromarketing in understanding consumers.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Neuromarketing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use customer journey mapping to improve marketing?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Journey Mapping",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of emotions in advertising?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Emotions in Advertising",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of behavioral economics in marketing.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Behavioral Economics",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use feedback loops to influence consumer behavior?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Feedback Loops",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of trust in consumer relationships?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Trust",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of loyalty programs to influence consumer behavior.",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Loyalty Programs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data privacy considerations in marketing to build trust?",
+    "role": "Marketing Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Consumer Behavior",
+    "topic": "Data Privacy",
+    "source": "Custom"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is inventory management and why is it important in operations?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of inventory in a business.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Types",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between raw materials, work-in-progress, and finished goods.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Inventory Stages",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of safety stock in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Safety Stock",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of economic order quantity (EOQ) in inventory management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "EOQ",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage inventory turnover?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Turnover",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of demand forecasting in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Demand Forecasting",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of ABC analysis in inventory management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "ABC Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use just-in-time (JIT) inventory systems?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "JIT",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of inventory audits in management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of inventory control systems.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Control Systems",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use barcoding and RFID in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Barcoding & RFID",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of inventory accuracy?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Accuracy",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of cycle counting in inventory management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Cycle Counting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you manage obsolete and slow-moving inventory?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Obsolete Inventory",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of safety stock in preventing stockouts?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Stockouts",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of inventory replenishment systems.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Replenishment Systems",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory metrics to improve performance?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of lead time in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Lead Time",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of demand planning in inventory management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Demand Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory turnover ratios?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Turnover Ratios",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of inventory optimization in cost control?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Cost Control",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of vendor-managed inventory (VMI).",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "VMI",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory classification systems?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Classification Systems",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of inventory visibility?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Visibility",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of inventory dashboards in management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Dashboards",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory management to improve customer service?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Customer Service",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of sustainability in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Sustainability",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of cloud-based inventory management systems.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Cloud Systems",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory management to reduce waste?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Waste Reduction",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of collaboration with suppliers in inventory management?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Supplier Collaboration",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of predictive analytics in inventory management.",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Predictive Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use inventory management to support business growth?",
+    "role": "Operations Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Inventory Management",
+    "topic": "Business Growth",
+    "source": "Custom"
+  }
+]

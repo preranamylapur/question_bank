@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is budgeting and why is it important for organizations?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of budgets used in business.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Types of Budgets",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the process of preparing an operating budget.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Operating Budget",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a capital budget and how is it used?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Capital Budget",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the role of forecasting in budgeting.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Forecasting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use variance analysis in budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Variance Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "What is zero-based budgeting and how does it differ from traditional budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Zero-Based Budgeting",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of flexible budgeting.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Flexible Budgeting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you prepare a cash budget?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Cash Budget",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of budgeting in financial planning?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Financial Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of rolling budgets in organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Rolling Budgets",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you involve different departments in the budgeting process?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Departmental Involvement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of budgetary control?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Budgetary Control",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of incremental budgeting.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Incremental Budgeting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to manage costs?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Cost Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of technology in budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Technology",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the challenges of budgeting in large organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Challenges",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use key performance indicators (KPIs) in budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between a static and a flexible budget?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Static vs Flexible Budget",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of budget variance reports.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Variance Reports",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to support strategic planning?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Strategic Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of scenario analysis in budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Scenario Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of top-down and bottom-up budgeting approaches.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Top-Down vs Bottom-Up",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to improve organizational performance?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Performance Improvement",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of budget reviews and revisions?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Reviews and Revisions",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of budgeting in project management.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Project Management",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to manage cash flow?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Cash Flow Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of ethics in budgeting?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Ethics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of budgeting software in organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Budgeting Software",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to support decision-making?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Decision-Making",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between a master budget and a departmental budget?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Master vs Departmental Budget",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of budgeting in nonprofit organizations.",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Nonprofit Budgeting",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use budgeting to manage risk?",
+    "role": "Finance Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Budgeting",
+    "topic": "Risk Management",
+    "source": "Custom"
+  }
+]

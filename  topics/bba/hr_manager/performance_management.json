@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is performance management and why is it important in organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main steps in the performance management process.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Process Steps",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between performance appraisal and performance management.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Appraisal vs Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of goal setting in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Goal Setting",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of key performance indicators (KPIs) in performance management.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "KPIs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you conduct a performance appraisal?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Appraisal Process",
+    "source": "Custom"
+  },
+  {
+    "question": "What is 360-degree feedback and how is it used in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "360-Degree Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of self-assessment in performance management.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Self-Assessment",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you provide constructive feedback to employees?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Feedback",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of regular performance reviews?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Performance Reviews",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of performance improvement plans (PIPs).",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "PIPs",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you handle underperformance in employees?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Underperformance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of rewards and recognition in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Rewards & Recognition",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of performance metrics in organizations.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Performance Metrics",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you align individual goals with organizational objectives?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Goal Alignment",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of documentation in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of performance dashboards in organizations.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Dashboards",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use technology in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Technology",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of coaching and mentoring in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Coaching & Mentoring",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of balanced scorecards in performance management.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Balanced Scorecard",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use performance management to support employee development?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Employee Development",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of fairness and transparency in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Fairness & Transparency",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of peer reviews in performance management.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Peer Reviews",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use performance management to improve organizational performance?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Organizational Performance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of performance standards in management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Performance Standards",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of performance contracts in organizations.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Performance Contracts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use performance management to support succession planning?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Succession Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of legal compliance in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Legal Compliance",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of performance management systems (PMS).",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "PMS",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use performance management to support organizational change?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Change Management",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of ethics in performance management?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Performance Management",
+    "topic": "Ethics",
+    "source": "Custom"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What are labor laws and why are they important for organizations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main types of labor laws that affect businesses.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Types of Laws",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the purpose of minimum wage laws.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Minimum Wage",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of anti-discrimination laws in the workplace?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Anti-Discrimination",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of employment contracts in labor law compliance.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Employment Contracts",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with health and safety regulations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Health & Safety",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of working hours and overtime laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Working Hours & Overtime",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of employee rights under labor laws.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Employee Rights",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you handle workplace harassment and related legal issues?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Harassment",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of labor unions in labor law?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Labor Unions",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of collective bargaining agreements.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Collective Bargaining",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with leave and holiday laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Leave & Holidays",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of equal pay laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Equal Pay",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of grievance procedures in labor law compliance.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Grievance Procedures",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use disciplinary procedures to comply with labor laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Disciplinary Procedures",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of government agencies in enforcing labor laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Government Agencies",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of employment-at-will doctrine.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Employment-at-Will",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with termination and severance laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Termination & Severance",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of workplace safety regulations?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Workplace Safety",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of wrongful dismissal under labor law.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Wrongful Dismissal",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use labor law audits to ensure compliance?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Labor Law Audits",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of whistleblower protection laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Whistleblower Protection",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of non-compete agreements in labor law.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Non-Compete Agreements",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with child labor laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Child Labor",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of equal opportunity employment laws?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Equal Opportunity",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of confidentiality agreements in labor law compliance.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Confidentiality Agreements",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use labor law training to educate employees and managers?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Training",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of dispute resolution in labor law?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Dispute Resolution",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of arbitration and mediation in labor disputes.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Arbitration & Mediation",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure compliance with international labor standards?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "International Standards",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the importance of documentation in labor law compliance?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Documentation",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of labor law compliance checklists.",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Compliance Checklists",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use labor law audits to identify compliance gaps?",
+    "role": "HR Manager",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Labor Laws",
+    "topic": "Audit Gaps",
+    "source": "Custom"
+  }
+]

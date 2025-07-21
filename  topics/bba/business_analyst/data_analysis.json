@@ -1,0 +1,372 @@
+[
+  {
+    "question": "What is data analysis and why is it important for business decision-making?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Overview",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the difference between qualitative and quantitative data analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Types of Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "List the main steps in the data analysis process.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Process",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you handle missing or incomplete data in analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Cleaning",
+    "source": "Custom"
+  },
+  {
+    "question": "What is data visualization and why is it important?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Visualization",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of Excel in business data analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Excel",
+    "source": "Custom"
+  },
+  {
+    "question": "What are descriptive statistics and how are they used in data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Descriptive Statistics",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of correlation and its significance in business analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Correlation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is regression analysis and how is it applied in business?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Regression",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you interpret data trends and patterns?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Trends and Patterns",
+    "source": "Custom"
+  },
+  {
+    "question": "What is a hypothesis test and how is it used in data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Hypothesis Testing",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the difference between primary and secondary data sources.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Sources",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure data quality and integrity?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Quality",
+    "source": "Custom"
+  },
+  {
+    "question": "What are outliers and how do you handle them in analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Outliers",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of dashboards in business analytics.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Dashboards",
+    "source": "Custom"
+  },
+  {
+    "question": "What is predictive analytics and how is it used in business?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Predictive Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the process of data collection for business analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Collection",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use SQL for data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "SQL",
+    "source": "Custom"
+  },
+  {
+    "question": "What is data mining and how does it support business decisions?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Mining",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the concept of data warehousing.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Warehousing",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use business intelligence tools in data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Business Intelligence",
+    "source": "Custom"
+  },
+  {
+    "question": "What is big data and how is it analyzed?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Big Data",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of Python or R in data analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Programming",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you present data analysis findings to stakeholders?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Presentation",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between data analysis and data analytics?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Analysis vs Analytics",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the importance of data governance in analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Data Governance",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use pivot tables in Excel for data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "easy",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Pivot Tables",
+    "source": "Custom"
+  },
+  {
+    "question": "What are the challenges of data analysis in business?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Challenges",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of time series analysis in business forecasting.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Time Series",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you ensure ethical use of data in analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Ethics",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the role of sampling in data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Sampling",
+    "source": "Custom"
+  },
+  {
+    "question": "Explain the use of scenario analysis in business decisions.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Scenario Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data analysis to identify business opportunities?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Opportunities",
+    "source": "Custom"
+  },
+  {
+    "question": "What is root cause analysis and how is it performed?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Root Cause Analysis",
+    "source": "Custom"
+  },
+  {
+    "question": "Describe the use of benchmarking in data analysis.",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Benchmarking",
+    "source": "Custom"
+  },
+  {
+    "question": "How do you use data analysis to support strategic planning?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Strategic Planning",
+    "source": "Custom"
+  },
+  {
+    "question": "What is the difference between correlation and causation in data analysis?",
+    "role": "Business Analyst",
+    "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "Data Analysis",
+    "topic": "Correlation vs Causation",
+    "source": "Custom"
+  }
+]
