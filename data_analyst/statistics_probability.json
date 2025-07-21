@@ -1,0 +1,353 @@
+[
+    {
+      "question": "Explain the difference between population and sample.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistics & Probability",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "What is p‑value and how do you interpret it?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistics & Probability",
+      "topic": "Hypothesis Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Type I and Type II errors.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistics & Probability",
+      "topic": "Errors",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you calculate confidence intervals for a mean?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistics & Probability",
+      "topic": "Confidence Intervals",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Central Limit Theorem and why is it important?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistics & Probability",
+      "topic": "CLT",
+      "source": "Custom"
+    },
+        {
+          "question": "Explain the difference between variance and standard deviation.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Dispersion",
+          "source": "Custom"
+        },
+        {
+          "question": "What is skewness and how do you interpret it?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Skewness",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain kurtosis and its implications for a distribution.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Kurtosis",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe when to use a t-test versus a z-test.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Hypothesis Testing",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you perform a chi‑square test of independence?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Chi‑Square Test",
+          "source": "Custom"
+        },
+        {
+          "question": "What are the key assumptions of linear regression?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Regression Assumptions",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the difference between correlation and causation.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Correlation",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe the concept of statistical power.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Power",
+          "source": "Custom"
+        },
+        {
+          "question": "What methods are used for multiple testing correction (e.g., Bonferroni)?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Multiple Testing",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the difference between parametric and non‑parametric tests.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Test Types",
+          "source": "Custom"
+        },
+        {
+          "question": "What is bootstrapping and when would you use it?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Resampling",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe ANOVA and its key assumptions.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "ANOVA",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the difference between one‑way and two‑way ANOVA.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "ANOVA",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you interpret the R‑squared value in regression?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Model Fit",
+          "source": "Custom"
+        },
+        {
+          "question": "What is the purpose of residual analysis in regression?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Residuals",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe logistic regression and when to use it.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Logistic Regression",
+          "source": "Custom"
+        },
+        {
+          "question": "What is Bayesian inference?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Bayesian Methods",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the concepts of prior, likelihood, and posterior.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Bayesian Methods",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you perform a Mann‑Whitney U test?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Non‑Parametric Tests",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe the purpose of the Kruskal‑Wallis test.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Non‑Parametric Tests",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the concept of censoring in survival analysis.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Survival Analysis",
+          "source": "Custom"
+        },
+        {
+          "question": "What is a Kaplan‑Meier curve?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Survival Analysis",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe the Cox proportional hazards model.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Survival Analysis",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain multicollinearity and how to detect it.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Regression Diagnostics",
+          "source": "Custom"
+        },
+        {
+          "question": "What is the Law of Large Numbers?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Fundamentals",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you test for heteroscedasticity?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Regression Diagnostics",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe autocorrelation and its impact on time‑series analysis.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Time-Series",
+          "source": "Custom"
+        },
+        {
+          "question": "What is principal component analysis (PCA)?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Dimensionality Reduction",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain k‑means clustering.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Clustering",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe entropy and information gain in decision trees.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "Statistics & Probability",
+          "topic": "Decision Trees",
+          "source": "Custom"
+        }
+      ]
+      

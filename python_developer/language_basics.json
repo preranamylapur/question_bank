@@ -1,0 +1,293 @@
+[
+    {
+      "question": "What are Python’s built‑in scalar types? Give examples.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Scalar Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between mutable and immutable types in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Mutability",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Global Interpreter Lock (GIL)? How does it affect concurrency?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "GIL",
+      "source": "Custom"
+    },
+    {
+      "question": "How do list, dict, and set comprehensions work? Provide examples.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Comprehensions",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how f‑strings differ from `%`‑formatting and `str.format()`.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "String Formatting",
+      "source": "Custom"
+    },
+    {
+      "question": "What are *args and **kwargs? When would you use them?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Function Arguments",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of the `if __name__ == '__main__'` block.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Entry Point",
+      "source": "Custom"
+    },
+    {
+      "question": "How does exception chaining (`raise ... from`) work?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Exception Chaining",
+      "source": "Custom"
+    },
+    {
+      "question": "What is duck typing in Python? Provide an example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Duck Typing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how Python’s import system and module search path work.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Imports & Modules",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the difference between a module and a package?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Module vs Package",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to create and use Python virtual environments.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Virtual Environments",
+      "source": "Custom"
+    },
+    {
+      "question": "What are decorators and how do they work under the hood?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Decorators",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between shallow and deep copying.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Copying",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle file encoding in Python when reading/writing?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "File Encoding",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a context manager and how do you write one?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Context Managers",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the `with` statement and its benefits.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "The with Statement",
+      "source": "Custom"
+    },
+    {
+      "question": "How does Python’s garbage collector work?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Garbage Collection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain reference counting vs generational GC.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "GC Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between threads and processes in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Concurrency",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you create and manage threads using the threading module?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Threading",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain async/await and how asyncio works.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Asyncio",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the purpose of the `__init__.py` file in packages?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "__init__.py",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you inspect the attributes and methods of an object at runtime?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Reflection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of the built-in `help()` and `dir()` functions.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Introspection",
+      "source": "Custom"
+    },
+    {
+      "question": "What are magic methods and give an example of overloading one.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Magic Methods",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain operator overloading with a code example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Operator Overloading",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle script arguments with argparse?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Argument Parsing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are Python’s built-in decorators (e.g., @staticmethod)?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Language Basics",
+      "topic": "Built‑in Decorators",
+      "source": "Custom"
+    }
+  ]
+  

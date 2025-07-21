@@ -1,0 +1,303 @@
+[
+    {
+      "question": "What is React and why would you use it over vanilla JavaScript?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Introduction to React",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain what JSX is and how it gets transformed under the hood.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "JSX",
+      "source": "Custom"
+    },
+    {
+      "question": "What are React components? Describe functional vs class components.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Components",
+      "source": "Custom"
+    },
+    {
+      "question": "How does the Virtual DOM work in React, and what problem does it solve?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Virtual DOM",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of keys in lists and why they’re important.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Keys in Lists",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a controlled component vs an uncontrolled component?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Controlled vs Uncontrolled",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how props differ from state in React.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Props vs State",
+      "source": "Custom"
+    },
+    {
+      "question": "What is state lifting and when would you use it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Lifting State Up",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conditionally render components in React?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Conditional Rendering",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain React’s reconciliation process.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Reconciliation",
+      "source": "Custom"
+    },
+    {
+      "question": "What are React Fragments and why are they used?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Fragments",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how event handling in React differs from standard DOM events.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Event Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "What are synthetic events in React?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Synthetic Events",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of React.StrictMode.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "StrictMode",
+      "source": "Custom"
+    },
+    {
+      "question": "What are error boundaries and how do you implement them?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Error Boundaries",
+      "source": "Custom"
+    },
+    {
+      "question": "How does React batch state updates?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "State Batching",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe what portals are in React and when you’d use them.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Portals",
+      "source": "Custom"
+    },
+    {
+      "question": "What is server‑side rendering and how can React support it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Server‑Side Rendering",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain hydration in React apps.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Hydration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you optimize React rendering to avoid unnecessary updates?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Rendering Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "What is reconciliation key and what issues can wrong keys cause?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Keys Pitfalls",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you can integrate React into an existing non‑React application.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What are React portals and how do they help with modals?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Modals via Portals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how React.lazy and Suspense work for code‑splitting.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Code‑Splitting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you memoize a component using React.memo?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "React.memo",
+      "source": "Custom"
+    },
+    {
+      "question": "What is reconciliation and diffing algorithm complexity?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Diffing Algorithm",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of ReactDOM in a React application.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "ReactDOM",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle form inputs in React?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "Form Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of StrictMode’s double-invocation of lifecycle methods in development?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "StrictMode Behavior",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how React can be used for mobile via React Native.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Core Concepts",
+      "topic": "React Native Intro",
+      "source": "Custom"
+    }
+  ]
+  

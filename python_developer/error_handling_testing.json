@@ -1,0 +1,311 @@
+[
+    {
+      "question": "What’s the difference between an exception and an error in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Exceptions vs Errors",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you catch and handle exceptions? Provide a code example using try/except.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Try/Except",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of finally in a try/except/finally block.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Finally Clause",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you raise a custom exception in Python?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Custom Exceptions",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you would create your own exception hierarchy.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Exception Hierarchy",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of the else clause in exception handling?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Else Clause",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you log exceptions using the logging module?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Logging Exceptions",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain best practices for cleaning up resources (files, sockets) even on error.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Resource Cleanup",
+      "source": "Custom"
+    },
+    {
+      "question": "What is unittest in Python, and how do you write a basic test case?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "unittest Basics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you assert that a function raises a specific exception using unittest?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "assertRaises",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to group tests into test suites in unittest.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Test Suites",
+      "source": "Custom"
+    },
+    {
+      "question": "What is pytest, and how does it differ from unittest?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "pytest Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you mark a test as expected to fail in pytest?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "xfail",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how fixtures work in pytest and give an example.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Fixtures",
+      "source": "Custom"
+    },
+    {
+      "question": "What is test parametrization in pytest and why is it useful?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Parametrization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you measure code coverage for your tests?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Code Coverage",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain continuous testing and how you’d integrate tests into CI/CD pipelines.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "CI/CD Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to mock external dependencies in tests.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Mocking Dependencies",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a test double, and what types are there?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Test Doubles",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to simulate time in tests (e.g., freezegun).",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Time Simulation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test asynchronous code using pytest?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Async Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are flaky tests, and how can you reduce them?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Flaky Tests",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe behavior-driven development (BDD) and Python tools that support it.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "BDD",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to organize large test suites for maintainability.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Test Organization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle setup and teardown in unittest vs pytest?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Setup/Teardown",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies can you use for end-to-end testing of a Python application?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "E2E Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain contract testing and its benefits.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Error Handling & Testing",
+      "topic": "Contract Testing",
+      "source": "Custom"
+    },{
+        "question": "Describe mutation testing and Python tools that support it.",
+        "role": "Python Developer",
+        "company": "N/A",
+        "difficulty": "hard",
+        "year": 2025,
+        "category": "Error Handling & Testing",
+        "topic": "Mutation Testing",
+        "source": "Custom"
+      },
+      {
+        "question": "How do you integrate test reports into a CI dashboard?",
+        "role": "Python Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Error Handling & Testing",
+        "topic": "Test Reporting",
+        "source": "Custom"
+      },
+      {
+        "question": "What are the trade‑offs of 100% code coverage?",
+        "role": "Python Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Error Handling & Testing",
+        "topic": "Coverage Trade‑offs",
+        "source": "Custom"
+      },
+      {
+        "question": "Explain how to use coverage.py with pytest.",
+        "role": "Python Developer",
+        "company": "N/A",
+        "difficulty": "medium",
+        "year": 2025,
+        "category": "Error Handling & Testing",
+        "topic": "coverage.py Integration",
+        "source": "Custom"
+      }
+    ]

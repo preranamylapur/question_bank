@@ -1,0 +1,333 @@
+[
+    {
+      "question": "What is infrastructure as code (IaC) and what problems does it solve?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Fundamentals",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the key differences between declarative and imperative IaC tools.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Declarative vs Imperative",
+      "source": "Custom"
+    },
+    {
+      "question": "How does Terraform handle state and what are best practices for state management?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "State Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how CloudFormation Change Sets work.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Change Sets",
+      "source": "Custom"
+    },
+    {
+      "question": "What is idempotency in IaC, and why is it important?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Idempotency",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how modules (Terraform) or nested stacks (CloudFormation) promote reuse.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Modularity",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you test your IaC configurations before applying them?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies can you use to avoid drift between code and actual infrastructure?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Drift Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to manage secrets (e.g., passwords, tokens) in IaC.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Secrets Management",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement input validation and type checking in Terraform?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how providers and resources are modeled in Terraform.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Providers & Resources",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of workspaces in Terraform?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Workspaces",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to perform blue‑green deployments with CloudFormation.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Blue‑Green",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you incorporate policy as code (e.g., Sentinel, OPA) into your IaC pipeline?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Policy as Code",
+      "source": "Custom"
+    },
+    {
+      "question": "What are drift detection features in AWS Config or Terraform Cloud?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Drift Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to structure large IaC projects (directory layout, naming).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Project Structure",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage dependencies between resources in Terraform?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Resource Dependencies",
+      "source": "Custom"
+    },
+    {
+      "question": "What best practices exist for versioning your IaC modules or templates?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Versioning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to rollback an IaC deployment safely.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate Terraform or CloudFormation into a CI/CD pipeline?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Pipeline Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to manage multi‑account or multi‑region deployments.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Multi‑Account/Region",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Terraform Cloud/Enterprise and how does it differ from open‑source?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Terraform Cloud",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to import existing infrastructure into Terraform state.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Importing State",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage drift remediation automatically?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Remediation",
+      "source": "Custom"
+    },
+    {
+      "question": "What techniques exist to parametrize IaC templates for different environments?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Parameterization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of immutable infrastructure in IaC.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Immutable Infra",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor and alert on IaC pipeline failures?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of lock files (e.g., Terraform .tflock) in IaC?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Locking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use third‑party modules from the Terraform Registry.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Registry Modules",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you enforce compliance policies (e.g., tagging, encryption) in IaC?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you would perform a canary deployment of infrastructure changes.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Canary Infra",
+      "source": "Custom"
+    },
+    {
+      "question": "What backup and disaster‑recovery strategies apply to IaC state?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "DR & Backup",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the benefits and drawbacks of using configuration management tools (Ansible, Puppet) vs Terraform.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "IaC",
+      "topic": "Config Mgmt vs IaC",
+      "source": "Custom"
+    }
+  ]
+  

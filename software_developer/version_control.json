@@ -1,0 +1,313 @@
+[
+    {
+      "question": "What is version control, and why is it important in software development?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Introduction to VCS",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between centralized and distributed version control systems.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Centralized vs Distributed",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Git and how does it differ from older VCS like Subversion?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Git Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of the `.git` directory in a Git repository.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Repository Internals",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you stage changes in Git, and why is staging useful?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Staging Area",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between `git add`, `git commit`, and `git push`.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Core Commands",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a branch in Git, and how do you create and switch to one?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Branching",
+      "source": "Custom"
+    },
+    {
+      "question": "How does `git merge` differ from `git rebase`?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Merge vs Rebase",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to resolve merge conflicts.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Conflict Resolution",
+      "source": "Custom"
+    },
+    {
+      "question": "What is `git stash` and when would you use it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Stashing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to revert a commit vs how to reset to a previous state.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Revert vs Reset",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a detached HEAD state and how do you fix it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Detached HEAD",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain tags in Git and how you create and push them.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Tagging",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you view the commit history with different formatting options?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Log Viewing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are Git hooks and give an example of a pre-commit hook?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Git Hooks",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to set up a remote repository and push your code to it.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Remote Setup",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you fetch changes from a remote without merging?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "git fetch",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between `git pull` and `git fetch && git merge`?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Pull vs Fetch/Merge",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to clone a repository and what options you can pass.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Cloning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use `.gitignore` and why is it necessary?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Ignore Files",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain submodules in Git and when to use them.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Submodules",
+      "source": "Custom"
+    },
+    {
+      "question": "What is `git bisect` and how can it help find bugs?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Bisecting",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you squash commits, and why might you do so?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Squash Commits",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to rename a branch both locally and remotely.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Rename Branch",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies can you use to handle large binary files in Git?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Large File Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Git LFS and when you’d use it.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Git LFS",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you recover a deleted branch?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Recover Branch",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use `git reflog` to recover from mistakes.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Reflog",
+      "source": "Custom"
+    },
+    {
+      "question": "What are best practices for writing commit messages?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Commit Messages",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform an interactive rebase to clean up history?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Interactive Rebase",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of a fork vs a branch on GitHub.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Version Control",
+      "topic": "Fork vs Branch",
+      "source": "Custom"
+    }
+  ]
+  

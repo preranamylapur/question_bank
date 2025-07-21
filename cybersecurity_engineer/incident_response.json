@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What are the main phases of the incident response lifecycle?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "IR Lifecycle",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of an incident response plan.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "IR Planning",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe steps you take during incident detection and analysis.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Detection & Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools can you use for network traffic analysis during an incident?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Network Forensics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you preserve evidence for legal or regulatory purposes?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Evidence Preservation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain containment strategies for a live security incident.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Containment",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between short‑term and long‑term containment?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Containment Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe eradication steps after containing an incident.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Eradication",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you recover systems safely and verify integrity?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "What are key elements of a post‑incident lessons‑learned report?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Lessons Learned",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of SIEM in incident detection.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "SIEM",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune alert thresholds to reduce false positives?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Alert Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is threat intelligence and how does it support IR?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Threat Intel",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate threat feeds into your SIEM.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Intel Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What indicators of compromise (IOCs) do you look for?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "IOCs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you share IOCs across teams or organizations?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "IOC Sharing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of an incident response tabletop exercise.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Tabletop Exercises",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the benefits of live fire drills?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Live Fire Drills",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to coordinate with legal and PR teams during a breach.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Coordination",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle chain‑of‑custody for digital evidence?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Chain of Custody",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging sources are critical for Windows endpoint forensics?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Endpoint Forensics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to perform memory forensics on a compromised host.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Memory Forensics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe network forensics methods to trace an attacker.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Network Forensics",
+      "source": "Custom"
+    },
+    {
+      "question": "What is forensic imaging and how do you create it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Imaging",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you triage multiple simultaneous incidents?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Triage",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain automated response capabilities and their risks.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Automation",
+      "source": "Custom"
+    },
+    {
+      "question": "What SLAs should be defined for incident response?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "SLAs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure your IR process meets regulatory requirements (e.g., GDPR)?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Regulatory Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe metrics you track to measure IR effectiveness.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a kill chain and how does it inform IR?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Kill Chain",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how MITRE ATT&CK can guide response actions.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "MITRE ATT&CK",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you maintain forensic readiness in your environment?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Forensic Readiness",
+      "source": "Custom"
+    },
+    {
+      "question": "What role does logginglevel play in incident visibility?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate IR with patch management processes.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Patch Management",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle data breach notifications to affected parties?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Breach Notification",
+      "source": "Custom"
+    },
+    {
+      "question": "What challenges arise when responding to cloud‑based incidents?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Incident Response",
+      "topic": "Cloud IR",
+      "source": "Custom"
+    }
+  ]
+  

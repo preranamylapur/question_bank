@@ -1,0 +1,313 @@
+[
+    {
+      "question": "What is the Software Development Life Cycle (SDLC) and its main phases?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "SDLC Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Waterfall model and its key characteristics.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Waterfall Model",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the advantages and disadvantages of the Waterfall approach?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Waterfall Pros/Cons",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Agile methodology and its core values.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Agile Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Scrum and what are its main ceremonies?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Scrum Ceremonies",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the roles in a Scrum team (Product Owner, Scrum Master, Developers).",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Scrum Roles",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a Sprint and how do you plan one?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Sprint Planning",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Kanban and its differences from Scrum.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Kanban vs Scrum",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the DevOps culture and how does it relate to SDLC?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "DevOps Culture",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Continuous Integration and Continuous Deployment (CI/CD).",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "CI/CD",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Test‑Driven Development (TDD) and its benefits?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "TDD",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Behavior‑Driven Development (BDD) and common tools.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "BDD",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Spiral model and when would you use it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Spiral Model",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the V‑model and how it maps testing phases to development phases.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "V‑Model",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle changing requirements mid‑sprint in Agile?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Scope Change",
+      "source": "Custom"
+    },
+    {
+      "question": "What is pair programming and what are its advantages?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Pair Programming",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe mob programming and when to use it.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Mob Programming",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a retrospective and how do you conduct it effectively?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Retrospective",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you measure team velocity and use it for planning?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Velocity Tracking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of a minimum viable product (MVP).",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "MVP",
+      "source": "Custom"
+    },
+    {
+      "question": "What is continuous feedback and how is it implemented?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Continuous Feedback",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how risk management fits into SDLC.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Risk Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is feature toggling and why is it useful?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Feature Toggles",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure quality in a continuous delivery pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Quality Gates",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how documentation is maintained in Agile.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Agile Documentation",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools have you used for backlog management?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Backlog Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of “Definition of Done” in Scrum.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Definition of Done",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle technical debt in an Agile project?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Technical Debt",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track to measure process efficiency?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Process Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how continuous architecture supports Agile development.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Continuous Architecture",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to run a proof of concept (PoC) in SDLC.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SDLC & Methodologies",
+      "topic": "Proof of Concept",
+      "source": "Custom"
+    }
+  ]
+  

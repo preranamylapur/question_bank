@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What is the purpose of a firewall and how does it differ from an intrusion prevention system (IPS)?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Firewalls & IPS",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain stateful vs stateless packet filtering.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Packet Filtering",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how access control lists (ACLs) work on network devices.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "ACLs",
+      "source": "Custom"
+    },
+    {
+      "question": "What is network segmentation and why is it important?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Segmentation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain VLANs and how they enforce segmentation.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "VLANs",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a DMZ and how would you design one in a corporate network?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "DMZ Design",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the difference between an IDS and an IPS.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "IDS vs IPS",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune IDS/IPS rulesets to minimize false positives?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Rule Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a bastion host and when would you use one?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Bastion Hosts",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain VPN types (site‑to‑site, remote access) and their use cases.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "VPN",
+      "source": "Custom"
+    },
+    {
+      "question": "How does SSL/TLS VPN differ from IPsec VPN?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "VPN Protocols",
+      "source": "Custom"
+    },
+    {
+      "question": "What is zero‑trust networking and how is it implemented?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Zero Trust",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how microsegmentation can enhance security.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Microsegmentation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a next‑generation firewall (NGFW) and its advantages?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "NGFW",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain SSL inspection and its role in network security.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "SSL Inspection",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure DNS communications?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "DNS Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What are DNSSEC and DNS over HTTPS (DoH)?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "DNS Protocols",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to set up and configure a Web Application Firewall (WAF).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "WAF",
+      "source": "Custom"
+    },
+    {
+      "question": "What threats does a WAF protect against?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "WAF Protections",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain DDoS attacks and mitigation strategies.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "DDoS Mitigation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you architect a network to resist volumetric DDoS?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "DDoS Architecture",
+      "source": "Custom"
+    },
+    {
+      "question": "What is traffic shaping and how can it improve security?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Traffic Shaping",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of rate limiting in API gateways.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Rate Limiting",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement network monitoring with NetFlow or sFlow.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Flow Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect anomalies in network traffic patterns?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Anomaly Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a honeypot and how is it used in network defense?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Honeypots",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to secure wireless networks (WPA3, 802.1X).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Wireless Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What role does NAC (Network Access Control) play in security?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "NAC",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how BGP route hijacking works and how to defend against it.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "BGP Security",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement secure remote management of network devices?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Remote Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe TLS inspection at scale in a corporate network.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "TLS at Scale",
+      "source": "Custom"
+    },
+    {
+      "question": "What is segment routing and its security benefits?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Segment Routing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure DNS resolvers within your network?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Resolver Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of network function virtualization (NFV).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "NFV",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement secure overlay networks (VXLAN, GRE).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Overlay Networks",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging points do you deploy to ensure network visibility?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Network Security",
+      "topic": "Logging Points",
+      "source": "Custom"
+    }
+  ]
+  

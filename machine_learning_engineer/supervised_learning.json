@@ -1,0 +1,373 @@
+[
+    {
+      "question": "What’s the difference between regression and classification?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Regression vs Classification",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the bias–variance tradeoff in supervised models.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Bias–Variance",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose the right evaluation metric for a classification problem?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Metrics Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how k‑nearest neighbors works and its complexity.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "KNN",
+      "source": "Custom"
+    },
+    {
+      "question": "What regularization techniques exist for linear models?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Regularization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how decision trees split on features.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Decision Trees",
+      "source": "Custom"
+    },
+    {
+      "question": "How does ensemble learning (bagging, boosting) improve performance?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Ensembles",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how gradient boosting works (e.g., XGBoost).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Gradient Boosting",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the role of learning rate in boosting?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Hyperparameters",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain support vector machines and kernel trick.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "SVM",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you detect and handle outliers in your training data?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Outlier Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "What feature engineering techniques boost supervised model performance?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Feature Engineering",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe cross‑validation and why stratification matters.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Cross‑Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle class imbalance in classification tasks?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Imbalance Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "What techniques exist for feature selection?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Feature Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain overfitting and how early stopping can help.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Early Stopping",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to interpret a confusion matrix.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Confusion Matrix",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s ROC vs precision–recall curve for imbalance problems?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Curve Comparison",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you tune hyperparameters at scale (e.g., grid, random, Bayesian)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Hyperparameter Tuning",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of pipelines (scikit‑learn) in supervised workflows.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "ML Pipelines",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe model calibration and isotonic/logistic calibration.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Calibration",
+      "source": "Custom"
+    },
+    {
+      "question": "What is pseudo‑labeling and when is it useful?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Semi‑Supervised",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you measure feature importance in tree‑based models?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Feature Importance",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain what SHAP values are and how to use them.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Explainability",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to persist and version trained models.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Model Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What considerations exist for large‑scale training on batch data?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Scalability",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor model drift in production?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Drift Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain transfer learning in a supervised context.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Transfer Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "What is stacking/blending and how do you implement it?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Stacking & Blending",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe incremental learning for streaming data.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Online Learning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you build and serve explainable models in production?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Production Explainability",
+      "source": "Custom"
+    },
+    {
+      "question": "What security risks exist in model training pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to containerize a supervised model for deployment.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Containerization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe A/B testing frameworks for supervised models.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "A/B Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you log and monitor inference performance?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Inference Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What are best practices for feature drift detection?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Feature Drift",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain model rollback strategies on regression.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Supervised Learning",
+      "topic": "Rollback Strategies",
+      "source": "Custom"
+    }
+  ]
+  

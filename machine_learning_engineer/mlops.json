@@ -1,0 +1,393 @@
+[
+    {
+      "question": "What is MLOps and why is it important?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the components of an end‑to‑end MLOps pipeline.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Pipeline Components",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you version control data, models, and code?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Version Control",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe continuous integration for ML workflows.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "CI for ML",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain continuous deployment vs continuous training.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "CD vs CT",
+      "source": "Custom"
+    },
+    {
+      "question": "What tooling do you use for orchestration (e.g., Airflow, Kubeflow)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Orchestration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you automate data validation in your pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Data Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feature store architecture and usage patterns.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Feature Stores",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies ensure reproducible model training?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Reproducibility",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain experiment tracking and metadata management.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Experiment Tracking",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor training resource utilization?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Resource Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What is drift detection in MLOps and how is it implemented?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Drift Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe retraining pipelines triggered by data changes.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Retraining",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement canary releases for retrained models?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Canary for Retraining",
+      "source": "Custom"
+    },
+    {
+      "question": "What automated tests do you run in ML pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain infrastructure as code for ML environments (Terraform, CDK).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "IaC",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage secrets and configurations in pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Secret Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe rollout strategies for model updates in production.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Rollout Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "What logging and observability do you implement for pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Observability",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle pipeline failures and retries?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Failure Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain role‑based access control in MLOps platforms.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "RBAC",
+      "source": "Custom"
+    },
+    {
+      "question": "What are cost‑optimization strategies for ML pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Cost Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe feature drift vs concept drift handling.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Drift Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate data governance into MLOps?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Data Governance",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain compliance and audit trails in MLOps workflows.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring alerts do you set for pipeline health?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Alerts",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe A/B vs multi‐arm bandit strategies for model selection.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Experimentation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage multi‑tenant ML platforms?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Multi‑Tenancy",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how drift feedback loops trigger retraining.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Feedback Loops",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of feature lineage in MLOps?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+    "difficulty": "medium",
+    "year": 2025,
+    "category": "MLOps",
+    "topic": "Lineage",
+    "source": "Custom"
+    },
+    {
+      "question": "How do you secure data in motion within pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Data Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe canary vs shadow deployments in MLOps.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Canary vs Shadow",
+      "source": "Custom"
+    },
+    {
+      "question": "What approaches exist for cost‑effective GPU utilization?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "GPU Management",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement feature toggles for ML features?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Feature Toggles",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of model shadow testing.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Shadow Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the use of workflow as code in MLOps (e.g., YAML pipelines).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "Workflow as Code",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the challenges of deploying MLOps in regulated industries?",
+    "role": "Machine Learning Engineer",
+    "company": "N/A",
+    "difficulty": "hard",
+    "year": 2025,
+    "category": "MLOps",
+    "topic": "Regulated MLOps",
+    "source": "Custom"
+    },
+    {
+      "question": "How do you implement role‑based pipelines and approvals?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "RBAC Pipelines",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain auditing and compliance in MLOps workflows.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "MLOps",
+      "topic": "MLOps Auditing",
+      "source": "Custom"
+    }
+  ]
+  

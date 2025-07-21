@@ -1,0 +1,323 @@
+[
+    {
+      "question": "What is a design pattern and why is it useful?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Introduction to Patterns",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Singleton pattern and provide a code example.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Singleton",
+      "source": "Custom"
+    },
+    {
+      "question": "What problems does the Factory Method pattern solve?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Factory Method",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Abstract Factory pattern and its use case.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Abstract Factory",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Builder pattern with an example.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Builder",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Prototype pattern and when would you use it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Prototype",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Adapter pattern and provide a scenario.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Adapter",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Decorator pattern and how do you implement it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Decorator",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Facade pattern with a code example.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Facade",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Proxy pattern and what are its benefits?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Proxy",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Composite pattern and a use case.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Composite",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Bridge pattern and when to apply it.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Bridge",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Flyweight pattern, and how does it optimize memory?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Flyweight",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Chain of Responsibility pattern.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Chain of Responsibility",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Command pattern with an example.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Command",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Interpreter pattern and its primary use?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Interpreter",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Iterator pattern and how it simplifies traversal.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Iterator",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Mediator pattern with a practical scenario.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Mediator",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Memento pattern and how does it support undo functionality?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Memento",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Observer pattern and its use case in event systems.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Observer",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the State pattern with an example.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "State",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Strategy pattern and how does it promote flexibility?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Strategy",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Template Method pattern and when to use it.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Template Method",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the Visitor pattern and its primary benefit.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Visitor",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you choose between patterns for a given problem?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Pattern Selection",
+      "source": "Custom"
+    },
+    {
+      "question": "What are anti‑patterns and can you name a few?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Anti‑Patterns",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you document the use of design patterns in code.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Pattern Documentation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how creational patterns differ from structural patterns.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Creational vs Structural",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between structural and behavioral patterns?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Structural vs Behavioral",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement the Repository pattern in a layered architecture?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Repository Pattern",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the Dependency Injection pattern and its benefits.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "Dependency Injection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how the Model‑View‑Controller (MVC) pattern works.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Design Patterns",
+      "topic": "MVC Pattern",
+      "source": "Custom"
+    }
+  ]
+  

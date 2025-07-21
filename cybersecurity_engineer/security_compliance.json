@@ -1,0 +1,352 @@
+[
+    {
+      "question": "What is the difference between compliance and security?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Concepts",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the key requirements of GDPR.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "GDPR",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the main controls in PCI‑DSS?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "PCI‑DSS",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the SOC 2 trust service categories.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "SOC 2",
+      "source": "Custom"
+    },
+    {
+      "question": "What is ISO 27001 and how does an organization become certified?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "ISO 27001",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the HIPAA security rule’s main safeguards.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "HIPAA",
+      "source": "Custom"
+    },
+    {
+      "question": "What is NIST SP 800‑53 and who uses it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "NIST 800‑53",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the GDPR data subject rights you must support.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Data Subject Rights",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you map technical controls to compliance requirements?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Control Mapping",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of a compliance audit?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Audits",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how evidence is collected and maintained for an audit.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Evidence Collection",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe a gap assessment and its role in compliance readiness.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Gap Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you maintain continuous compliance in cloud environments?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Continuous Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools can automate compliance checks (e.g., AWS Config, Azure Policy)?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Automation Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to implement data retention and deletion policies for GDPR.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Data Lifecycle",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a privacy impact assessment (PIA)?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Privacy Assessments",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you track and manage compliance exceptions?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Exception Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe key elements of a data protection impact assessment (DPIA).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "DPIA",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the SOC 1 report and how does it differ from SOC 2?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "SOC 1 vs SOC 2",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the process of vendor risk assessments for compliance.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Vendor Risk",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure third‑party services meet compliance standards?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Third‑Party Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the role of policy and procedure documentation in compliance?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Documentation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to version and distribute compliance policies.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Policy Management",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you train employees on compliance requirements?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Awareness Training",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track to demonstrate compliance?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Compliance Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to handle data subject access requests (DSARs) under GDPR.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "DSARs",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the process for breach notification under GDPR and HIPAA.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Breach Notification",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Sarbanes‑Oxley (SOX) and when does it apply?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "SOX",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you map compliance controls to business processes?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Process Mapping",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of continuous monitoring for compliance.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Continuous Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What is FedRAMP and who needs to comply with it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "FedRAMP",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to conduct a compliance readiness assessment.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Readiness Assessment",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you remediate compliance gaps once identified?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Remediation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the role of governance, risk & compliance (GRC) tools.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "GRC Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the difference between a policy, standard, and guideline?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Security Compliance",
+      "topic": "Policy Types",
+      "source": "Custom"
+    }
+  ]

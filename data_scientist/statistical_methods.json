@@ -1,0 +1,362 @@
+[
+    {
+      "question": "What is the difference between descriptive and inferential statistics?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Descriptive vs Inferential",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the assumptions underlying linear regression.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Regression Assumptions",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform hypothesis testing for two population means?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "t‑Test",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe when to use a paired vs unpaired test.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Paired vs Unpaired",
+      "source": "Custom"
+    },
+    {
+      "question": "What is ANOVA and how do you interpret the F‑statistic?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "ANOVA",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of non‑parametric tests (Wilcoxon, Kruskal‑Wallis).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Non‑Parametric Tests",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you compute and interpret correlation coefficients?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Correlation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is partial correlation and when is it useful?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Partial Correlation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of multicollinearity and how to detect it.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Multicollinearity",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain logistic regression and interpreting odds ratios.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Logistic Regression",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle categorical predictors in regression models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Dummy Coding",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Poisson regression and when would you use it?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Poisson Regression",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe survival analysis and the Kaplan‑Meier estimator.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Survival Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the Cox proportional hazards model?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Cox Model",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain principal component analysis (PCA) in a statistics context.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "PCA",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform factor analysis?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Factor Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is cluster analysis and which methods do you know?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Clustering",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe bootstrapping and its applications.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Bootstrapping",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Monte Carlo simulation and when to use it.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Monte Carlo",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you estimate probability distributions from data?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Distribution Fitting",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the EM algorithm and where is it used?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Expectation–Maximization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Markov chains and their properties.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Markov Chains",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain hidden Markov models (HMMs).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "HMMs",
+      "source": "Custom"
+    },
+    {
+      "question": "What is time series decomposition?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Time Series",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you fit ARIMA models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "ARIMA",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe exponential smoothing methods.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Exponential Smoothing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain spectral analysis for time series.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Spectral Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle seasonality in forecasting?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Seasonality",
+      "source": "Custom"
+    },
+    {
+      "question": "What is cointegration in time series?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Cointegration",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe vector autoregression (VAR).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "VAR",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Granger causality tests.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Granger Causality",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you evaluate forecast accuracy?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Forecast Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "What is bootstrapped confidence interval for forecasts?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Forecast Uncertainty",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe cross-correlation and auto-correlation functions.",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Correlation Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain dimensionality reduction beyond PCA (e.g., MDS).",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "MDS",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure assumptions are met in statistical models?",
+      "role": "Data Scientist",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Statistical Methods",
+      "topic": "Model Diagnostics",
+      "source": "Custom"
+    }
+  ]

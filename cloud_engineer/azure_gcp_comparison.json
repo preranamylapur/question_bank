@@ -1,0 +1,312 @@
+[
+    {
+      "question": "Compare AWS, Azure, and GCP in terms of market share and services.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Market Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the key compute offerings in Azure vs GCP?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Compute Services",
+      "source": "Custom"
+    },
+    {
+      "question": "How do Azure Blob Storage and GCP Cloud Storage differ?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Object Storage",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare Azure VNet and GCP VPC networking models.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "What identity management services do Azure and GCP provide?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Identity & Access",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Azure Functions vs GCP Cloud Functions.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Serverless",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare Azure Kubernetes Service and GCP GKE.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",  
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Containers & Orchestration",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring solutions exist in Azure vs GCP?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Monitoring & Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "How do pricing models differ between Azure and GCP?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Cost Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain network security tools in Azure vs GCP.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",  
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Security Services",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare Azure SQL Database vs GCP Cloud SQL.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Managed Databases",
+      "source": "Custom"
+    },
+    {
+      "question": "What data analytics platforms do Azure and GCP offer?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Analytics Services",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe machine learning services in Azure vs GCP.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "AI/ML Platforms",
+      "source": "Custom"
+    },
+    {
+      "question": "How do IaC tools integrate with Azure and GCP?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "IaC Support",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare Azure Traffic Manager vs GCP Cloud Load Balancing.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Load Balancing",
+      "source": "Custom"
+    },
+    {
+      "question": "What SLAs do Azure and GCP guarantee?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Service Level Agreements",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain backup and disaster recovery in Azure vs GCP.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "DR & Backup",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare event-driven services: Azure Event Grid vs GCP Pub/Sub.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Eventing",
+      "source": "Custom"
+    },
+    {
+      "question": "What identity federation options exist in each cloud?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Federated Identity",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to configure hybrid connectivity in Azure vs GCP.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Hybrid Networking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain container registry differences: ACR vs GCR.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Container Registry",
+      "source": "Custom"
+    },
+    {
+      "question": "What monitoring dashboards and analytics are native to each platform?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Observability",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare Azure Cost Management vs GCP Cost Explorer.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Cost Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "How do serverless data lakes differ between the two providers?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Serverless Analytics",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain dev/test lab services in Azure vs GCP.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Dev/Test Environments",
+      "source": "Custom"
+    },
+    {
+      "question": "What marketplace offerings and partner ecosystems differ?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Ecosystem",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how each provider handles compliance certifications.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Compliance",
+      "source": "Custom"
+    },
+    {
+      "question": "Compare container orchestration pricing models.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Pricing Models",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the identity and access model nuances in each cloud?",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "IAM Nuances",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how data residency requirements differ.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Data Residency",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe solution accelerators or blueprints in each cloud.",
+      "role": "Cloud Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Azure vs GCP Comparison",
+      "topic": "Blueprints & Accelerators",
+      "source": "Custom"
+    }
+]

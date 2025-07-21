@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What is the difference between unit testing and integration testing?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Test Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of a test plan and what it should include.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Test Planning",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you write effective unit tests in your preferred language or framework?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Unit Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is test coverage and how do you measure it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Coverage Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to debug a live production issue safely.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Production Debugging",
+      "source": "Custom"
+    },
+    {
+      "question": "What is regression testing and when should it be performed?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Regression Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain smoke testing and its importance in deployments.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Smoke Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is sanity testing and how does it differ from smoke testing?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Sanity Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to perform performance testing for an API.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Performance Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you set up and run load testing for a web service?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Load Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies do you use for security testing?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Security Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to automate API testing.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "API Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you approach UI testing for a web application?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "UI Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is mocking and stubbing, and when do you use each?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Mocking & Stubbing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe your experience with test automation frameworks.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Test Automation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement continuous testing in a CI/CD pipeline?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Continuous Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What debugging tools do you use for backend services?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Debugging Tools",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain best practices for logging in large applications.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Logging Best Practices",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform root cause analysis after a failure?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Root Cause Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is exception tracking and how do you implement it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Exception Tracking",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe techniques for debugging concurrency issues.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Concurrency Debugging",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you profile and benchmark code performance?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Profiling & Benchmarking",
+      "source": "Custom"
+    },
+    {
+      "question": "What methods do you use to detect and fix memory leaks?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Memory Leak Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the difference between static and dynamic analysis.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Static vs Dynamic Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you conduct end-to-end testing for microservices?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "End-to-End Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe strategies for managing test data.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Test Data Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What considerations do you have for setting up test environments?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Test Environment Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Test‑Driven Development and its workflow.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "TDD",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Behavior‑Driven Development and when would you use it?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "BDD",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform contract testing between services?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Contract Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is mutation testing and how does it improve quality?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Mutation Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you test database migrations.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "DB Migration Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain negative testing and why it’s important.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Negative Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are best practices for logging and monitoring in production?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Production Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure reliability of long‑running background jobs?",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Background Job Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you would use fault injection to test resilience.",
+      "role": "Software Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Testing & Debugging",
+      "topic": "Fault Injection",
+      "source": "Custom"
+    }
+  ]
+  

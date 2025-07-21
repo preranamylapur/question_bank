@@ -1,0 +1,303 @@
+[
+    {
+      "question": "What is Django and what are its main components?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain Django’s MVT (Model‑View‑Template) architecture.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django MVT",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you define a model in Django and interact with the ORM?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django ORM",
+      "source": "Custom"
+    },
+    {
+      "question": "What are Django migrations and how do you manage them?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django Migrations",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to create and use forms in Django.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django Forms",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe Django’s admin interface and how to customize it.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Django Admin",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Flask and what makes it a microframework?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Flask Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you define routes and views in Flask?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Flask Routing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use Jinja2 templates with Flask.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Flask Templating",
+      "source": "Custom"
+    },
+    {
+      "question": "What is FastAPI and why is it gaining popularity?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "FastAPI Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how FastAPI uses type hints for request validation.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "FastAPI Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you define and document endpoints with FastAPI?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "FastAPI Endpoints",
+      "source": "Custom"
+    },
+    {
+      "question": "What is SQLAlchemy and how does it integrate with frameworks?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "SQLAlchemy",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to use Marshmallow for serialization/deserialization.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Marshmallow",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Celery and how do you use it for background tasks?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Celery",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you configure and use Redis as a message broker with Celery?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Celery & Redis",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Requests simplifies HTTP calls in Python.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Requests Library",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Pandas and why is it essential for data analysis?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Pandas Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to read CSV files into a DataFrame in Pandas.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Pandas I/O",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform group‑by operations in Pandas?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Pandas GroupBy",
+      "source": "Custom"
+    },
+    {
+      "question": "What is NumPy and how does it differ from core Python lists?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "NumPy Overview",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to create and manipulate arrays in NumPy.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "NumPy Arrays",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Matplotlib and how do you plot a basic graph?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Matplotlib",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use Seaborn for statistical visualizations.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Seaborn",
+      "source": "Custom"
+    },
+    {
+      "question": "What is Plotly and when would you use it over Matplotlib?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Plotly",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate Django REST Framework into a Django project?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "DRF Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain viewsets and routers in Django REST Framework.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "DRF ViewSets & Routers",
+      "source": "Custom"
+    },
+    {
+      "question": "What is FastAPI’s dependency injection system?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "FastAPI DI",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to test APIs built with any of these frameworks.",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "API Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle configuration management across environments?",
+      "role": "Python Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Popular Frameworks",
+      "topic": "Config Management",
+      "source": "Custom"
+    }
+  ]
+  

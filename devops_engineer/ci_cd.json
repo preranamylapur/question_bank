@@ -1,0 +1,373 @@
+[
+    {
+      "question": "What are the differences between continuous integration, continuous delivery, and continuous deployment?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "CI vs CD vs CD",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the key components of a CI/CD pipeline.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Pipeline Components",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate version control systems into CI pipelines?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "VCS Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how pipeline-as-code works and its benefits.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Pipeline as Code",
+      "source": "Custom"
+    },
+    {
+      "question": "What strategies do you use to version and manage build artifacts?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Artifact Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you implement automated testing in a CI pipeline.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Automated Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle secrets (API keys, credentials) in CI/CD?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Secrets Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the purpose of build caching, and how do you configure it?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Build Caching",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe blue‑green and canary deployment strategies.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Deployment Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you rollback a failed deployment safely?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to integrate security and compliance scans into CI pipelines.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Security Scanning",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you track to measure CI/CD pipeline performance?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Pipeline Metrics",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle multi‑branch and pull‑request workflows in CI?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Branching Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you deploy to multiple environments (dev, staging, prod).",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Environment Promotion",
+      "source": "Custom"
+    },
+    {
+      "question": "What is GitOps and how does it relate to CI/CD?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "GitOps",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how containers and container registries fit into CI/CD.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Containers in CI",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you integrate infrastructure provisioning tools (Terraform, CloudFormation) into pipelines?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "IAC Integration",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the trade‑offs between self‑hosted and cloud‑hosted CI/CD platforms?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Hosting Models",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you’d secure your CI/CD pipeline against malicious code injection.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Pipeline Security",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle pipeline failures and automatic retries?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Error Handling",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain canary analysis and automated rollback in CI/CD.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Canary Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What is pipeline orchestration and how do you achieve it?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Orchestration",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage pipeline secrets rotation over time?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Secret Rotation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of webhooks in triggering pipelines.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Webhooks",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you test pipeline changes safely before rolling them out.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Pipeline Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the importance of artifact immutability in CI/CD?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Immutability",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you track and audit pipeline executions for compliance?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Audit Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how you optimize pipeline runtime and resource usage.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Performance Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "What are the benefits of parallel and matrix builds?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Parallel Builds",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of immutable infrastructure in CD.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Immutable Infra",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage branching and promotion in monorepos?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Monorepo CI/CD",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe multi‑tenant pipeline architectures.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Multi‑Tenant Pipelines",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to integrate external services (Slack, Jira) into your pipeline notifications.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Notifications",
+      "source": "Custom"
+    },
+    {
+      "question": "What guidelines would you establish for writing pipeline DSL or YAML?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "DSL Best Practices",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you ensure high availability of your CI/CD platform?",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "High Availability",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe your approach to disaster recovery for pipeline infrastructure.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Disaster Recovery",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how you would onboard a new service into an existing CI/CD ecosystem.",
+      "role": "DevOps Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "CI/CD",
+      "topic": "Onboarding Services",
+      "source": "Custom"
+    }
+  ]
+  

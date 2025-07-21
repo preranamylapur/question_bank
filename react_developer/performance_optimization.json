@@ -1,0 +1,273 @@
+[
+    {
+      "question": "What strategies can you use to optimize a React application’s performance?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "General Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how React.memo works and when to use it.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "React.memo",
+      "source": "Custom"
+    },
+    {
+      "question": "What’s the difference between useMemo and useCallback?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "useMemo vs useCallback",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe code‑splitting and how to implement it with React.lazy and Suspense.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Code‑Splitting",
+      "source": "Custom"
+    },
+    {
+      "question": "How does tree‑shaking help reduce bundle size?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Tree‑Shaking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain dynamic imports and their performance benefits.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Dynamic Imports",
+      "source": "Custom"
+    },
+    {
+      "question": "What is virtualization (windowing) in lists, and how do you use it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "List Virtualization",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you optimize images and static assets in a React app?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Asset Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to use the Chrome Performance tab to profile a React app.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Browser Profiling",
+      "source": "Custom"
+    },
+    {
+      "question": "What is time‑slicing and how does React implement it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Time‑Slicing",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to debounce or throttle user input in React.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Debounce & Throttle",
+      "source": "Custom"
+    },
+    {
+      "question": "How does shouldComponentUpdate work, and how is it related to PureComponent?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "shouldComponentUpdate",
+      "source": "Custom"
+    },
+    {
+      "question": "What is memoization and how does it improve performance?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Memoization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the cost of inline functions and objects in render.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Inline Render Costs",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you prevent unnecessary re‑renders of child components?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Preventing Re‑renders",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to lazy‑load images in React.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Lazy‑Loading",
+      "source": "Custom"
+    },
+    {
+      "question": "What is the critical rendering path and how can you optimize it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Critical Path",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how service workers can improve performance.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Service Workers",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain prefetching and preloading resources in React.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Prefetch & Preload",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you analyze bundle size and dependencies?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Bundle Analysis",
+      "source": "Custom"
+    },
+    {
+      "question": "What tools can you use to measure Core Web Vitals?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Web Vitals",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the impact of large component trees on performance.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Tree Size",
+      "source": "Custom"
+    },
+    {
+      "question": "How can you optimize context value updates to avoid re‑renders?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Context Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how Suspense can be used for data fetching performance.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Data Suspense",
+      "source": "Custom"
+    },
+    {
+      "question": "What is requestIdleCallback and how can React use it?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Idle Callback",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to optimize images with responsive srcset in React.",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Responsive Images",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you use web workers in React to offload heavy computation?",
+      "role": "React Developer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Performance Optimization",
+      "topic": "Web Workers",
+      "source": "Custom"
+    }
+  ]
+  

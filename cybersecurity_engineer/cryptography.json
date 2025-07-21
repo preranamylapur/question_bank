@@ -1,0 +1,383 @@
+[
+    {
+      "question": "What is symmetric encryption and how does it differ from asymmetric encryption?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Encryption Types",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how RSA works at a high level.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Asymmetric Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "What is AES and why is it widely used?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Symmetric Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of a cryptographic hash and give an example.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Hashing",
+      "source": "Custom"
+    },
+    {
+      "question": "How does a digital signature work, and what problem does it solve?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Digital Signatures",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the purpose of IVs (initialization vectors) in block ciphers.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Block Cipher Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "What are common block cipher modes (CBC, GCM) and their differences?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Cipher Modes",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how HMAC works and where it’s used.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Message Authentication",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a key exchange protocol? Explain Diffie–Hellman at a high level.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Key Exchange",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain perfect forward secrecy and why it matters.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Forward Secrecy",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you securely generate and store cryptographic keys?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Key Management",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a certificate authority and how does TLS use it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Public Key Infrastructure",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of X.509 certificates.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Certificates",
+      "source": "Custom"
+    },
+    {
+      "question": "What is TLS handshake and how is it secured?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "TLS",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to revoke a certificate and propagate revocation.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Certificate Revocation",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a Web Crypto API and when would you use it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "APIs",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how elliptic‑curve cryptography differs from RSA.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Elliptic Curves",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a side‑channel attack and how can it affect cryptography?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Side‑Channel Attacks",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain padding oracle attacks and mitigation techniques.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Padding Oracles",
+      "source": "Custom"
+    },
+    {
+      "question": "How do quantum‑resistant algorithms differ from classical ones?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Post‑Quantum Crypto",
+      "source": "Custom"
+    },
+    {
+      "question": "What is key stretching and why is it used for passwords?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Password Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how bcrypt, scrypt, and Argon2 differ.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Hash Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain steganography vs cryptography.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Steganography",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a cryptographic nonce and why is it important?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Nonces",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you implement envelope encryption in cloud environments?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Envelope Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the concept of blind signatures.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Blind Signatures",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain threshold cryptography and use cases.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Threshold Crypto",
+      "source": "Custom"
+    },
+    {
+      "question": "What are HSMs and how do they secure cryptographic operations?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "HSMs",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you securely rotate encryption keys without downtime?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Key Rotation",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement transparent data encryption in databases.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "TDE",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain homomorphic encryption and potential use cases.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Homomorphic Encryption",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a key escrow and when is it used?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Key Escrow",
+      "source": "Custom"
+    },
+    {
+      "question": "How does message padding prevent certain attacks?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Padding",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how quantum key distribution differs from classical key exchange.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "QKD",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the principle behind hash-based message authentication codes (HMAC).",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "HMAC",
+      "source": "Custom"
+    },
+    {
+      "question": "What is format-preserving encryption and why might you use it?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "FPE",
+      "source": "Custom"
+    },
+    {
+      "question": "How do digital certificates establish trust between parties?",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Trust Models",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the concept of key wrapping and its uses.",
+      "role": "Cybersecurity Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Cryptography",
+      "topic": "Key Wrapping",
+      "source": "Custom"
+    }
+  ]
+  

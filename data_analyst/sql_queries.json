@@ -1,0 +1,354 @@
+[
+    {
+      "question": "Write a SQL query to find duplicate rows in a table.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SQL Queries",
+      "topic": "Duplicates",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain the use of window functions (e.g., ROW_NUMBER()).",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SQL Queries",
+      "topic": "Window Functions",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform a pivot/unpivot in SQL?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "SQL Queries",
+      "topic": "Pivot/Unpivot",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe indexing strategies to improve query performance.",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "SQL Queries",
+      "topic": "Indexing",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a CTE and why is it useful?",
+      "role": "Data Analyst",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "SQL Queries",
+      "topic": "CTEs",
+      "source": "Custom"
+    },
+        {
+          "question": "Write a SQL query to join three tables and include only matching rows.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Multi‑Table Joins",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you use aggregate functions (SUM, AVG, COUNT) with GROUP BY?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Aggregation",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how to filter aggregated results using HAVING.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "HAVING Clause",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query that uses a correlated subquery.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Correlated Subqueries",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you remove duplicate records using DISTINCT?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "DISTINCT",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to use CASE expressions in SELECT statements.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "CASE Expression",
+          "source": "Custom"
+        },
+        {
+          "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": "2025",
+          "category": "SQL Queries",
+          "topic": "Join Types",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query using CROSS JOIN and explain its use case.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "CROSS JOIN",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you implement pagination in SQL queries?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Pagination",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the use of the EXISTS operator.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "EXISTS",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query that uses the IN operator with a subquery.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "IN Operator",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to handle NULL values in SQL.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "NULL Handling",
+          "source": "Custom"
+        },
+        {
+          "question": "What is a VIEW and when would you use it?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Views",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you create and use temporary tables?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Temporary Tables",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain the concept of transaction isolation levels.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Transactions",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query demonstrating a full outer join.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "FULL OUTER JOIN",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you change a column’s data type using ALTER TABLE?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "ALTER TABLE",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to grant and revoke permissions.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Permissions",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query using UNION vs UNION ALL and explain the difference.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "UNION vs UNION ALL",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you perform string pattern matching with LIKE?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "easy",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "LIKE Operator",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how to optimize a query using an execution plan.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Query Optimization",
+          "source": "Custom"
+        },
+        {
+          "question": "What are materialized views and when would you use them?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Materialized Views",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you implement recursive queries with CTEs?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Recursive CTEs",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query demonstrating window frames (e.g., RANGE BETWEEN).",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Window Frames",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe how to cast and convert data types.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Type Conversion",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you use date and time functions (e.g., DATEDIFF)?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "medium",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Date Functions",
+          "source": "Custom"
+        },
+        {
+          "question": "Explain how to prevent SQL injection in dynamic queries.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Security",
+          "source": "Custom"
+        },
+        {
+          "question": "Write a query using full‑text search capabilities.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Full‑Text Search",
+          "source": "Custom"
+        },
+        {
+          "question": "How do you work with cursors and when should you avoid them?",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Cursors",
+          "source": "Custom"
+        },
+        {
+          "question": "Describe table partitioning and its benefits.",
+          "role": "Data Analyst",
+          "company": "N/A",
+          "difficulty": "hard",
+          "year": 2025,
+          "category": "SQL Queries",
+          "topic": "Partitioning",
+          "source": "Custom"
+        }
+      ]
+      
+  

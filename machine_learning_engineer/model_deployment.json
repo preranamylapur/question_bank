@@ -1,0 +1,363 @@
+[
+    {
+      "question": "What are the advantages of containerizing machine learning models for deployment?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Containerization",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how TensorFlow Serving works and when to use it.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "TF Serving",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe TorchServe and its core features.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "TorchServe",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform canary deployments for machine learning models?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Canary Releases",
+      "source": "Custom"
+    },
+    {
+      "question": "What is blue‑green deployment and how do you apply it to models?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Blue‑Green",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain A/B testing frameworks for model experiments in production.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "A/B Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you monitor inference latency and throughput?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Inference Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "What metrics do you collect for error rates in production?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Error Monitoring",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe strategies for rolling back a bad model release.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Rollback",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you autoscale model servers based on request volume?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Autoscaling",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain multi‑model serving and its benefits.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Multi‑Model Serving",
+      "source": "Custom"
+    },
+    {
+      "question": "What is model versioning and how do you manage it in production?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Versioning",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate a model registry into your deployment pipeline.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Model Registry",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you secure API endpoints for model inference?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "API Security",
+      "source": "Custom"
+    },
+    {
+      "question": "What are best practices for logging input and output data?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Logging",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain inference caching and when to use it.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Caching",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you handle model dependencies (libraries, custom ops)?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Dependencies",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe the role of feature stores in deployment.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Feature Store",
+      "source": "Custom"
+    },
+    {
+      "question": "What considerations exist for GPU vs CPU inference?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Hardware Choice",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you perform batch inference at scale?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Batch Inference",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain real‑time streaming inference architectures.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Streaming Inference",
+      "source": "Custom"
+    },
+    {
+      "question": "What is a model card and why is it important?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Model Cards",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to integrate CI/CD for model deployments.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "CI/CD",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you validate model performance after deployment?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Post‑Deployment Validation",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain model drift and strategies for detection.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Drift Detection",
+      "source": "Custom"
+    },
+    {
+      "question": "What rollback strategies exist for data‑drift issues?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Rollback Strategies",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe how to implement model approval workflows.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Approval Gates",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you audit inference requests for compliance?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Inference Auditing",
+      "source": "Custom"
+    },
+    {
+      "question": "What are best practices for securing model artifacts in storage?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Artifact Security",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain how to do load testing for model endpoints.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Load Testing",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you manage secrets (API keys, tokens) in deployment pipelines?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Secret Management",
+      "source": "Custom"
+    },
+    {
+      "question": "Describe hardware acceleration options (TensorRT, ONNX Runtime).",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Accel Frameworks",
+      "source": "Custom"
+    },
+    {
+      "question": "What is model pruning and quantization for deployment?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Model Optimization",
+      "source": "Custom"
+    },
+    {
+      "question": "How do you benchmark and compare inference backends?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "medium",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Backend Benchmarking",
+      "source": "Custom"
+    },
+    {
+      "question": "Explain serverless model deployment options.",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "easy",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Serverless",
+      "source": "Custom"
+    },
+    {
+      "question": "What considerations exist for edge deployment?",
+      "role": "Machine Learning Engineer",
+      "company": "N/A",
+      "difficulty": "hard",
+      "year": 2025,
+      "category": "Model Deployment",
+      "topic": "Edge Deployment",
+      "source": "Custom"
+    }
+  ]
+  
